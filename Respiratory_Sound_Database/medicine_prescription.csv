@@ -1,0 +1,3001 @@
+Patient ID,Age,Gender,Smoking Status,Disease,Medication Prescribed,Dosage,Frequencey
+1,83,Female,Active-smoker,Bronchiolitis,Drug D,50mg,Twice daily
+2,41,Male,Non-smoker,Bronchiectasis,Drug C,50mg,Once daily
+3,35,Male,Ex-smoker,Pneumonia,Drug C,5mg,Three times daily
+4,13,Male,Active-smoker,LRTI,Drug C,20mg,Once daily
+5,70,Male,Active-smoker,URTI,Drug C,5mg,Three times daily
+6,18,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+7,61,Male,Non-smoker,Bronchiolitis,Drug B,20mg,Once daily
+8,52,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+9,75,Female,Non-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+10,16,Female,Non-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+11,56,Female,Non-smoker,URTI,Drug A,10mg,Three times daily
+12,93,Female,Ex-smoker,Asthma,Drug A,5mg,Once daily
+13,84,Female,Non-smoker,URTI,Drug D,50mg,Once daily
+14,27,Male,Active-smoker,Bronchiolitis,Drug C,10mg,Once daily
+15,46,Female,Ex-smoker,COPD,Drug B,50mg,Three times daily
+16,55,Male,Non-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+17,37,Male,Ex-smoker,Bronchiolitis,Drug A,5mg,Once daily
+18,72,Female,Ex-smoker,URTI,Drug B,20mg,Three times daily
+19,96,Male,Active-smoker,Bronchiectasis,Drug A,20mg,Twice daily
+20,36,Female,Non-smoker,LRTI,Drug A,50mg,Twice daily
+21,84,Female,Non-smoker,LRTI,Drug C,5mg,Three times daily
+22,66,Male,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+23,66,Female,Active-smoker,COPD,Drug D,20mg,Once daily
+24,52,Female,Non-smoker,COPD,Drug B,5mg,Twice daily
+25,84,Female,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+26,9,Male,Active-smoker,Asthma,Drug B,20mg,Once daily
+27,45,Male,Non-smoker,Asthma,Drug D,5mg,Twice daily
+28,40,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+29,17,Male,Active-smoker,Asthma,Drug C,50mg,Three times daily
+30,15,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+31,7,Male,Active-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+32,66,Female,Ex-smoker,URTI,Drug D,20mg,Once daily
+33,22,Female,Ex-smoker,Asthma,Drug C,10mg,Three times daily
+34,55,Female,Active-smoker,Bronchiolitis,Drug D,20mg,Once daily
+35,83,Female,Ex-smoker,LRTI,Drug D,50mg,Twice daily
+36,49,Male,Non-smoker,LRTI,Drug D,10mg,Twice daily
+37,49,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+38,45,Female,Active-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+39,79,Male,Ex-smoker,Bronchiectasis,Drug A,10mg,Twice daily
+40,9,Male,Ex-smoker,Pneumonia,Drug A,10mg,Three times daily
+41,31,Female,Non-smoker,URTI,Drug B,10mg,Three times daily
+42,82,Male,Ex-smoker,COPD,Drug B,5mg,Three times daily
+43,7,Female,Ex-smoker,Bronchiolitis,Drug B,5mg,Three times daily
+44,67,Female,Ex-smoker,URTI,Drug C,50mg,Three times daily
+45,75,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+46,63,Female,Non-smoker,Pneumonia,Drug C,20mg,Three times daily
+47,66,Female,Non-smoker,URTI,Drug A,10mg,Twice daily
+48,10,Female,Active-smoker,Bronchiolitis,Drug D,5mg,Once daily
+49,67,Female,Active-smoker,Bronchiolitis,Drug B,10mg,Three times daily
+50,89,Female,Non-smoker,Bronchiectasis,Drug B,10mg,Once daily
+51,11,Male,Active-smoker,Pneumonia,Drug D,10mg,Three times daily
+52,61,Female,Non-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+53,43,Female,Non-smoker,Bronchiolitis,Drug D,5mg,Three times daily
+54,74,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+55,81,Male,Ex-smoker,URTI,Drug B,5mg,Twice daily
+56,45,Female,Non-smoker,Bronchiolitis,Drug D,5mg,Once daily
+57,76,Female,Ex-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+58,98,Male,Ex-smoker,COPD,Drug C,50mg,Twice daily
+59,13,Female,Ex-smoker,Asthma,Drug C,10mg,Once daily
+60,28,Male,Non-smoker,URTI,Drug A,20mg,Once daily
+61,18,Male,Active-smoker,Pneumonia,Drug A,5mg,Once daily
+62,87,Female,Active-smoker,URTI,Drug B,5mg,Three times daily
+63,7,Female,Non-smoker,Bronchiolitis,Drug C,50mg,Once daily
+64,88,Male,Non-smoker,Asthma,Drug A,10mg,Twice daily
+65,82,Female,Non-smoker,Bronchiolitis,Drug A,5mg,Once daily
+66,54,Male,Non-smoker,LRTI,Drug D,10mg,Twice daily
+67,45,Male,Ex-smoker,Asthma,Drug A,20mg,Twice daily
+68,50,Male,Ex-smoker,LRTI,Drug B,5mg,Three times daily
+69,86,Female,Active-smoker,COPD,Drug C,5mg,Once daily
+70,75,Female,Active-smoker,COPD,Drug B,50mg,Once daily
+71,58,Male,Active-smoker,URTI,Drug B,10mg,Twice daily
+72,90,Male,Ex-smoker,COPD,Drug B,20mg,Once daily
+73,77,Female,Non-smoker,LRTI,Drug B,5mg,Once daily
+74,66,Female,Active-smoker,LRTI,Drug A,10mg,Once daily
+75,96,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+76,87,Male,Active-smoker,Bronchiectasis,Drug B,50mg,Once daily
+77,3,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+78,81,Male,Non-smoker,COPD,Drug A,10mg,Once daily
+79,77,Male,Active-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+80,13,Female,Active-smoker,Bronchiolitis,Drug A,20mg,Once daily
+81,62,Male,Non-smoker,Asthma,Drug B,50mg,Twice daily
+82,38,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+83,13,Male,Active-smoker,Pneumonia,Drug C,5mg,Once daily
+84,72,Male,Active-smoker,LRTI,Drug A,20mg,Twice daily
+85,8,Female,Active-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+86,6,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+87,91,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+88,23,Female,Ex-smoker,Asthma,Drug C,10mg,Three times daily
+89,85,Male,Ex-smoker,Asthma,Drug A,10mg,Once daily
+90,53,Male,Ex-smoker,Bronchiectasis,Drug C,20mg,Once daily
+91,72,Male,Active-smoker,Asthma,Drug C,5mg,Three times daily
+92,96,Female,Non-smoker,COPD,Drug B,20mg,Once daily
+93,19,Female,Non-smoker,Pneumonia,Drug A,20mg,Twice daily
+94,24,Male,Non-smoker,Pneumonia,Drug D,50mg,Once daily
+95,87,Male,Ex-smoker,URTI,Drug A,10mg,Three times daily
+96,56,Female,Active-smoker,COPD,Drug A,5mg,Twice daily
+97,11,Female,Active-smoker,Asthma,Drug B,10mg,Twice daily
+98,46,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+99,58,Female,Non-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+100,28,Female,Non-smoker,URTI,Drug C,10mg,Three times daily
+101,42,Female,Non-smoker,Pneumonia,Drug B,5mg,Once daily
+102,12,Male,Active-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+103,57,Female,Ex-smoker,Asthma,Drug C,5mg,Once daily
+104,74,Male,Non-smoker,LRTI,Drug B,10mg,Twice daily
+105,42,Male,Ex-smoker,Asthma,Drug D,5mg,Once daily
+106,85,Female,Ex-smoker,URTI,Drug D,5mg,Three times daily
+107,17,Female,Non-smoker,Pneumonia,Drug D,20mg,Three times daily
+108,59,Male,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+109,98,Male,Ex-smoker,COPD,Drug A,5mg,Three times daily
+110,77,Male,Active-smoker,LRTI,Drug C,50mg,Three times daily
+111,24,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+112,63,Male,Ex-smoker,Pneumonia,Drug A,50mg,Twice daily
+113,50,Male,Ex-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+114,30,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+115,40,Female,Ex-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+116,76,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+117,3,Female,Ex-smoker,Pneumonia,Drug D,5mg,Three times daily
+118,41,Male,Non-smoker,LRTI,Drug A,5mg,Twice daily
+119,99,Male,Ex-smoker,COPD,Drug C,20mg,Twice daily
+120,85,Male,Non-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+121,68,Female,Ex-smoker,Asthma,Drug A,20mg,Three times daily
+122,5,Female,Active-smoker,URTI,Drug B,50mg,Twice daily
+123,37,Male,Ex-smoker,Pneumonia,Drug C,50mg,Once daily
+124,44,Male,Active-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+125,96,Female,Active-smoker,Asthma,Drug C,5mg,Once daily
+126,44,Male,Active-smoker,URTI,Drug A,10mg,Once daily
+127,53,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+128,41,Male,Non-smoker,COPD,Drug B,50mg,Three times daily
+129,65,Female,Ex-smoker,URTI,Drug B,50mg,Once daily
+130,94,Female,Non-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+131,80,Female,Ex-smoker,COPD,Drug C,50mg,Three times daily
+132,9,Male,Non-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+133,65,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+134,27,Female,Ex-smoker,LRTI,Drug D,10mg,Twice daily
+135,95,Female,Active-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+136,41,Female,Ex-smoker,Pneumonia,Drug D,10mg,Twice daily
+137,30,Female,Ex-smoker,LRTI,Drug D,20mg,Once daily
+138,66,Female,Non-smoker,Asthma,Drug C,10mg,Once daily
+139,73,Male,Ex-smoker,Bronchiolitis,Drug D,20mg,Once daily
+140,47,Male,Non-smoker,Pneumonia,Drug B,50mg,Three times daily
+141,37,Male,Non-smoker,Asthma,Drug C,50mg,Twice daily
+142,85,Male,Active-smoker,URTI,Drug B,10mg,Three times daily
+143,14,Female,Non-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+144,42,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+145,94,Female,Active-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+146,73,Female,Active-smoker,Bronchiectasis,Drug C,10mg,Three times daily
+147,21,Male,Ex-smoker,LRTI,Drug B,5mg,Once daily
+148,58,Male,Non-smoker,Asthma,Drug C,5mg,Once daily
+149,32,Male,Ex-smoker,Pneumonia,Drug D,20mg,Three times daily
+150,81,Female,Active-smoker,COPD,Drug A,10mg,Twice daily
+151,47,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+152,61,Male,Active-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+153,10,Female,Ex-smoker,Bronchiolitis,Drug A,20mg,Three times daily
+154,85,Female,Ex-smoker,COPD,Drug B,50mg,Once daily
+155,79,Male,Non-smoker,LRTI,Drug B,10mg,Once daily
+156,30,Male,Active-smoker,Asthma,Drug B,5mg,Twice daily
+157,66,Male,Non-smoker,COPD,Drug C,20mg,Twice daily
+158,79,Male,Ex-smoker,COPD,Drug A,20mg,Once daily
+159,47,Male,Non-smoker,COPD,Drug B,5mg,Three times daily
+160,36,Female,Ex-smoker,Pneumonia,Drug C,20mg,Twice daily
+161,79,Female,Active-smoker,Pneumonia,Drug B,5mg,Three times daily
+162,75,Male,Non-smoker,COPD,Drug B,5mg,Three times daily
+163,38,Female,Active-smoker,LRTI,Drug B,20mg,Twice daily
+164,41,Female,Non-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+165,31,Male,Active-smoker,Asthma,Drug D,20mg,Once daily
+166,59,Female,Ex-smoker,COPD,Drug D,50mg,Once daily
+167,32,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+168,82,Male,Active-smoker,COPD,Drug D,20mg,Twice daily
+169,83,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+170,58,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+171,56,Female,Non-smoker,COPD,Drug A,50mg,Once daily
+172,15,Female,Active-smoker,Bronchiolitis,Drug D,5mg,Three times daily
+173,19,Female,Non-smoker,Bronchiolitis,Drug B,10mg,Twice daily
+174,90,Male,Active-smoker,Pneumonia,Drug A,10mg,Twice daily
+175,14,Male,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+176,95,Male,Ex-smoker,Asthma,Drug B,5mg,Once daily
+177,21,Male,Active-smoker,LRTI,Drug C,50mg,Once daily
+178,63,Male,Active-smoker,Pneumonia,Drug B,10mg,Three times daily
+179,83,Female,Active-smoker,Bronchiolitis,Drug C,5mg,Once daily
+180,55,Male,Active-smoker,Pneumonia,Drug C,50mg,Three times daily
+181,24,Female,Ex-smoker,Bronchiolitis,Drug D,20mg,Three times daily
+182,88,Male,Ex-smoker,COPD,Drug B,5mg,Three times daily
+183,95,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+184,66,Female,Ex-smoker,COPD,Drug C,10mg,Once daily
+185,53,Female,Ex-smoker,Bronchiolitis,Drug B,10mg,Three times daily
+186,67,Male,Ex-smoker,Pneumonia,Drug C,20mg,Three times daily
+187,43,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+188,83,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+189,93,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+190,84,Male,Non-smoker,Pneumonia,Drug C,10mg,Three times daily
+191,2,Female,Non-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+192,33,Male,Active-smoker,Bronchiolitis,Drug D,10mg,Once daily
+193,90,Male,Ex-smoker,COPD,Drug B,20mg,Three times daily
+194,23,Female,Ex-smoker,LRTI,Drug C,5mg,Twice daily
+195,84,Female,Active-smoker,Asthma,Drug D,50mg,Once daily
+196,79,Male,Active-smoker,Bronchiectasis,Drug B,50mg,Once daily
+197,9,Male,Non-smoker,LRTI,Drug D,20mg,Once daily
+198,62,Female,Active-smoker,URTI,Drug A,20mg,Once daily
+199,1,Female,Non-smoker,Bronchiolitis,Drug C,5mg,Once daily
+200,20,Male,Ex-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+201,80,Male,Active-smoker,LRTI,Drug A,10mg,Three times daily
+202,90,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+203,29,Female,Non-smoker,Pneumonia,Drug C,50mg,Three times daily
+204,74,Female,Ex-smoker,COPD,Drug C,5mg,Twice daily
+205,23,Male,Ex-smoker,Pneumonia,Drug D,5mg,Three times daily
+206,95,Female,Non-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+207,92,Male,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+208,47,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+209,32,Male,Ex-smoker,Asthma,Drug A,10mg,Once daily
+210,70,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+211,99,Female,Non-smoker,COPD,Drug D,10mg,Twice daily
+212,77,Male,Active-smoker,Pneumonia,Drug D,50mg,Three times daily
+213,67,Male,Active-smoker,URTI,Drug D,20mg,Twice daily
+214,62,Female,Active-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+215,52,Female,Active-smoker,Bronchiolitis,Drug A,10mg,Three times daily
+216,10,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+217,40,Male,Active-smoker,COPD,Drug B,5mg,Twice daily
+218,28,Female,Ex-smoker,Pneumonia,Drug C,50mg,Twice daily
+219,76,Male,Ex-smoker,Bronchiectasis,Drug A,5mg,Once daily
+220,75,Male,Ex-smoker,Bronchiectasis,Drug A,5mg,Once daily
+221,3,Female,Non-smoker,Asthma,Drug D,20mg,Twice daily
+222,58,Male,Active-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+223,30,Male,Non-smoker,Pneumonia,Drug C,50mg,Three times daily
+224,53,Male,Non-smoker,Bronchiectasis,Drug A,10mg,Twice daily
+225,22,Male,Ex-smoker,Asthma,Drug C,20mg,Twice daily
+226,92,Female,Ex-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+227,3,Male,Active-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+228,4,Female,Non-smoker,LRTI,Drug C,10mg,Twice daily
+229,55,Female,Ex-smoker,URTI,Drug C,50mg,Twice daily
+230,51,Male,Non-smoker,Asthma,Drug A,5mg,Once daily
+231,89,Male,Non-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+232,95,Female,Non-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+233,17,Female,Active-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+234,27,Female,Active-smoker,Pneumonia,Drug D,50mg,Three times daily
+235,73,Female,Ex-smoker,URTI,Drug D,50mg,Once daily
+236,24,Male,Ex-smoker,URTI,Drug A,5mg,Twice daily
+237,91,Female,Active-smoker,Asthma,Drug B,10mg,Three times daily
+238,59,Male,Ex-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+239,44,Female,Ex-smoker,COPD,Drug B,50mg,Once daily
+240,82,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Once daily
+241,98,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Twice daily
+242,83,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+243,68,Female,Active-smoker,COPD,Drug D,5mg,Three times daily
+244,89,Male,Active-smoker,Bronchiolitis,Drug B,50mg,Twice daily
+245,47,Female,Non-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+246,8,Female,Active-smoker,Asthma,Drug C,20mg,Once daily
+247,87,Male,Non-smoker,LRTI,Drug D,5mg,Three times daily
+248,97,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Once daily
+249,71,Male,Non-smoker,Asthma,Drug D,20mg,Three times daily
+250,10,Female,Active-smoker,LRTI,Drug C,10mg,Twice daily
+251,93,Female,Non-smoker,URTI,Drug C,50mg,Three times daily
+252,52,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+253,1,Female,Non-smoker,Asthma,Drug D,50mg,Twice daily
+254,70,Male,Non-smoker,Pneumonia,Drug C,50mg,Once daily
+255,41,Male,Non-smoker,Pneumonia,Drug D,20mg,Twice daily
+256,58,Male,Non-smoker,Bronchiolitis,Drug B,10mg,Twice daily
+257,81,Male,Active-smoker,COPD,Drug A,10mg,Three times daily
+258,95,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+259,92,Male,Active-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+260,79,Male,Active-smoker,URTI,Drug A,10mg,Twice daily
+261,72,Male,Non-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+262,76,Male,Ex-smoker,COPD,Drug C,50mg,Once daily
+263,58,Male,Ex-smoker,Pneumonia,Drug B,10mg,Once daily
+264,10,Male,Active-smoker,Pneumonia,Drug A,20mg,Twice daily
+265,88,Female,Ex-smoker,COPD,Drug B,20mg,Three times daily
+266,28,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+267,25,Male,Non-smoker,Pneumonia,Drug A,20mg,Twice daily
+268,24,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+269,81,Female,Active-smoker,LRTI,Drug D,20mg,Once daily
+270,35,Male,Ex-smoker,LRTI,Drug A,5mg,Twice daily
+271,33,Male,Non-smoker,URTI,Drug C,5mg,Once daily
+272,21,Male,Ex-smoker,URTI,Drug D,5mg,Three times daily
+273,52,Female,Non-smoker,Asthma,Drug C,5mg,Once daily
+274,14,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+275,60,Female,Active-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+276,92,Female,Ex-smoker,Bronchiectasis,Drug A,20mg,Once daily
+277,76,Female,Active-smoker,Asthma,Drug A,5mg,Three times daily
+278,12,Female,Active-smoker,LRTI,Drug D,20mg,Once daily
+279,83,Female,Ex-smoker,COPD,Drug A,10mg,Once daily
+280,67,Male,Non-smoker,Bronchiolitis,Drug A,50mg,Once daily
+281,83,Male,Active-smoker,URTI,Drug A,10mg,Three times daily
+282,86,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+283,28,Female,Non-smoker,URTI,Drug B,5mg,Twice daily
+284,16,Female,Ex-smoker,Asthma,Drug C,5mg,Twice daily
+285,69,Male,Active-smoker,Asthma,Drug D,20mg,Once daily
+286,78,Male,Non-smoker,LRTI,Drug D,5mg,Three times daily
+287,88,Female,Active-smoker,Asthma,Drug A,5mg,Three times daily
+288,30,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+289,80,Male,Non-smoker,URTI,Drug A,5mg,Once daily
+290,28,Male,Active-smoker,URTI,Drug B,20mg,Once daily
+291,42,Male,Ex-smoker,URTI,Drug C,50mg,Twice daily
+292,96,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+293,95,Female,Active-smoker,URTI,Drug A,50mg,Twice daily
+294,27,Male,Active-smoker,Bronchiolitis,Drug B,10mg,Once daily
+295,73,Male,Active-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+296,99,Female,Non-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+297,91,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Three times daily
+298,11,Male,Ex-smoker,Asthma,Drug D,10mg,Twice daily
+299,83,Male,Active-smoker,Bronchiectasis,Drug C,50mg,Once daily
+300,41,Female,Non-smoker,COPD,Drug A,20mg,Twice daily
+301,71,Male,Active-smoker,Pneumonia,Drug B,10mg,Three times daily
+302,25,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+303,87,Female,Ex-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+304,81,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+305,77,Male,Active-smoker,Pneumonia,Drug C,50mg,Twice daily
+306,40,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+307,37,Male,Ex-smoker,LRTI,Drug B,10mg,Three times daily
+308,98,Female,Non-smoker,URTI,Drug C,50mg,Once daily
+309,35,Male,Active-smoker,URTI,Drug A,50mg,Once daily
+310,74,Male,Ex-smoker,COPD,Drug D,50mg,Three times daily
+311,76,Male,Ex-smoker,URTI,Drug C,50mg,Twice daily
+312,72,Female,Ex-smoker,Bronchiolitis,Drug B,50mg,Once daily
+313,54,Female,Active-smoker,Bronchiectasis,Drug B,10mg,Once daily
+314,98,Female,Ex-smoker,Bronchiectasis,Drug C,10mg,Once daily
+315,67,Male,Ex-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+316,59,Female,Ex-smoker,Bronchiectasis,Drug A,20mg,Once daily
+317,43,Female,Active-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+318,80,Female,Non-smoker,COPD,Drug A,10mg,Once daily
+319,81,Female,Ex-smoker,LRTI,Drug B,10mg,Three times daily
+320,91,Male,Active-smoker,COPD,Drug B,50mg,Once daily
+321,89,Female,Non-smoker,URTI,Drug B,20mg,Once daily
+322,72,Male,Non-smoker,Bronchiectasis,Drug D,50mg,Once daily
+323,86,Female,Ex-smoker,COPD,Drug A,5mg,Once daily
+324,70,Female,Non-smoker,LRTI,Drug B,20mg,Once daily
+325,52,Male,Ex-smoker,Asthma,Drug B,50mg,Once daily
+326,98,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+327,71,Male,Ex-smoker,COPD,Drug C,50mg,Once daily
+328,58,Female,Ex-smoker,URTI,Drug B,50mg,Once daily
+329,3,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+330,2,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+331,49,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+332,33,Male,Non-smoker,URTI,Drug B,50mg,Twice daily
+333,65,Female,Non-smoker,URTI,Drug D,50mg,Once daily
+334,12,Male,Ex-smoker,Pneumonia,Drug C,20mg,Three times daily
+335,62,Female,Ex-smoker,URTI,Drug A,5mg,Twice daily
+336,65,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+337,64,Male,Active-smoker,COPD,Drug D,20mg,Three times daily
+338,75,Female,Non-smoker,COPD,Drug D,10mg,Twice daily
+339,67,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+340,73,Female,Non-smoker,Bronchiectasis,Drug C,10mg,Twice daily
+341,44,Male,Ex-smoker,Bronchiectasis,Drug B,5mg,Once daily
+342,74,Male,Ex-smoker,LRTI,Drug C,5mg,Three times daily
+343,47,Male,Active-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+344,5,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+345,69,Male,Ex-smoker,Bronchiectasis,Drug B,20mg,Once daily
+346,75,Male,Ex-smoker,URTI,Drug B,10mg,Twice daily
+347,38,Male,Active-smoker,Bronchiolitis,Drug B,10mg,Twice daily
+348,60,Female,Non-smoker,COPD,Drug C,5mg,Twice daily
+349,58,Female,Non-smoker,Asthma,Drug C,20mg,Once daily
+350,63,Male,Active-smoker,Asthma,Drug B,5mg,Twice daily
+351,82,Female,Active-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+352,77,Male,Active-smoker,Asthma,Drug D,10mg,Once daily
+353,21,Male,Ex-smoker,LRTI,Drug D,5mg,Once daily
+354,83,Female,Active-smoker,COPD,Drug A,5mg,Three times daily
+355,7,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+356,15,Male,Active-smoker,URTI,Drug A,50mg,Twice daily
+357,74,Male,Non-smoker,LRTI,Drug A,50mg,Three times daily
+358,50,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+359,37,Female,Ex-smoker,LRTI,Drug B,10mg,Twice daily
+360,3,Female,Non-smoker,URTI,Drug C,20mg,Once daily
+361,44,Male,Non-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+362,45,Female,Ex-smoker,URTI,Drug D,20mg,Twice daily
+363,37,Male,Active-smoker,Asthma,Drug D,20mg,Twice daily
+364,72,Male,Non-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+365,22,Male,Ex-smoker,Pneumonia,Drug C,50mg,Three times daily
+366,34,Male,Non-smoker,LRTI,Drug D,5mg,Once daily
+367,88,Male,Ex-smoker,LRTI,Drug D,20mg,Twice daily
+368,46,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+369,48,Male,Non-smoker,Asthma,Drug A,10mg,Twice daily
+370,36,Male,Active-smoker,LRTI,Drug C,50mg,Three times daily
+371,53,Female,Non-smoker,COPD,Drug B,20mg,Three times daily
+372,6,Male,Non-smoker,Asthma,Drug C,20mg,Three times daily
+373,42,Female,Active-smoker,Pneumonia,Drug C,5mg,Twice daily
+374,26,Male,Non-smoker,Asthma,Drug B,50mg,Twice daily
+375,97,Female,Ex-smoker,URTI,Drug A,20mg,Three times daily
+376,58,Female,Ex-smoker,Bronchiectasis,Drug C,10mg,Twice daily
+377,29,Female,Ex-smoker,Pneumonia,Drug A,10mg,Twice daily
+378,54,Female,Active-smoker,COPD,Drug B,5mg,Three times daily
+379,16,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+380,56,Female,Non-smoker,Bronchiolitis,Drug C,10mg,Once daily
+381,10,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+382,73,Female,Non-smoker,Pneumonia,Drug B,50mg,Once daily
+383,78,Female,Active-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+384,60,Male,Active-smoker,Pneumonia,Drug D,20mg,Once daily
+385,29,Female,Ex-smoker,Bronchiolitis,Drug D,10mg,Once daily
+386,86,Female,Active-smoker,Pneumonia,Drug B,5mg,Twice daily
+387,58,Female,Active-smoker,COPD,Drug B,5mg,Three times daily
+388,28,Female,Non-smoker,LRTI,Drug B,50mg,Once daily
+389,89,Male,Non-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+390,14,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+391,41,Female,Ex-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+392,80,Male,Active-smoker,COPD,Drug D,20mg,Three times daily
+393,62,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+394,64,Male,Active-smoker,Pneumonia,Drug B,5mg,Three times daily
+395,23,Male,Active-smoker,Bronchiolitis,Drug C,10mg,Once daily
+396,59,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+397,48,Male,Ex-smoker,Asthma,Drug C,5mg,Three times daily
+398,67,Female,Non-smoker,COPD,Drug A,5mg,Twice daily
+399,35,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+400,30,Female,Ex-smoker,URTI,Drug C,5mg,Three times daily
+401,85,Male,Active-smoker,Pneumonia,Drug C,5mg,Three times daily
+402,91,Male,Ex-smoker,COPD,Drug D,50mg,Three times daily
+403,74,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+404,2,Male,Active-smoker,URTI,Drug B,50mg,Twice daily
+405,71,Female,Active-smoker,URTI,Drug C,5mg,Twice daily
+406,86,Male,Non-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+407,19,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+408,67,Male,Ex-smoker,Pneumonia,Drug D,10mg,Twice daily
+409,9,Female,Active-smoker,LRTI,Drug B,5mg,Once daily
+410,2,Male,Ex-smoker,LRTI,Drug D,20mg,Three times daily
+411,64,Male,Active-smoker,Pneumonia,Drug A,10mg,Twice daily
+412,92,Male,Non-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+413,63,Female,Non-smoker,Asthma,Drug C,5mg,Once daily
+414,74,Male,Active-smoker,COPD,Drug B,10mg,Once daily
+415,34,Female,Non-smoker,URTI,Drug D,5mg,Three times daily
+416,38,Male,Active-smoker,URTI,Drug D,20mg,Once daily
+417,6,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+418,21,Female,Ex-smoker,URTI,Drug C,50mg,Twice daily
+419,96,Male,Ex-smoker,URTI,Drug A,20mg,Twice daily
+420,98,Male,Ex-smoker,Asthma,Drug D,20mg,Once daily
+421,28,Female,Active-smoker,Asthma,Drug B,5mg,Once daily
+422,39,Female,Active-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+423,41,Female,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+424,7,Male,Active-smoker,Pneumonia,Drug A,20mg,Twice daily
+425,97,Female,Non-smoker,Asthma,Drug B,50mg,Three times daily
+426,44,Male,Non-smoker,URTI,Drug A,10mg,Three times daily
+427,31,Male,Active-smoker,Bronchiolitis,Drug D,50mg,Once daily
+428,88,Female,Non-smoker,Bronchiolitis,Drug B,10mg,Three times daily
+429,92,Female,Ex-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+430,9,Male,Active-smoker,LRTI,Drug C,5mg,Three times daily
+431,60,Male,Active-smoker,COPD,Drug B,10mg,Three times daily
+432,96,Female,Non-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+433,25,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+434,75,Female,Active-smoker,URTI,Drug C,5mg,Once daily
+435,65,Male,Ex-smoker,LRTI,Drug C,50mg,Three times daily
+436,88,Male,Non-smoker,Pneumonia,Drug B,50mg,Once daily
+437,23,Female,Non-smoker,Pneumonia,Drug C,10mg,Twice daily
+438,66,Female,Non-smoker,Pneumonia,Drug D,20mg,Twice daily
+439,15,Male,Ex-smoker,URTI,Drug D,50mg,Three times daily
+440,37,Male,Non-smoker,Bronchiolitis,Drug C,20mg,Once daily
+441,50,Female,Active-smoker,Asthma,Drug A,50mg,Three times daily
+442,92,Female,Non-smoker,LRTI,Drug B,50mg,Twice daily
+443,89,Male,Active-smoker,LRTI,Drug A,50mg,Three times daily
+444,34,Male,Non-smoker,Bronchiolitis,Drug D,50mg,Twice daily
+445,89,Female,Non-smoker,URTI,Drug D,20mg,Once daily
+446,65,Male,Non-smoker,Bronchiectasis,Drug B,5mg,Once daily
+447,47,Female,Ex-smoker,COPD,Drug D,5mg,Three times daily
+448,2,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+449,59,Male,Ex-smoker,COPD,Drug C,50mg,Three times daily
+450,54,Female,Non-smoker,COPD,Drug C,20mg,Twice daily
+451,60,Male,Non-smoker,Asthma,Drug D,20mg,Twice daily
+452,20,Male,Active-smoker,LRTI,Drug A,50mg,Twice daily
+453,1,Male,Non-smoker,Asthma,Drug A,10mg,Twice daily
+454,55,Male,Ex-smoker,Pneumonia,Drug A,5mg,Once daily
+455,31,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+456,40,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+457,95,Male,Non-smoker,COPD,Drug B,5mg,Three times daily
+458,21,Male,Active-smoker,URTI,Drug B,20mg,Three times daily
+459,44,Male,Ex-smoker,URTI,Drug C,20mg,Twice daily
+460,32,Female,Active-smoker,Bronchiolitis,Drug B,10mg,Once daily
+461,48,Male,Ex-smoker,Pneumonia,Drug D,50mg,Three times daily
+462,42,Male,Active-smoker,Asthma,Drug C,10mg,Once daily
+463,7,Male,Active-smoker,Pneumonia,Drug A,10mg,Three times daily
+464,83,Female,Non-smoker,Bronchiectasis,Drug C,5mg,Once daily
+465,56,Female,Ex-smoker,URTI,Drug C,50mg,Three times daily
+466,62,Female,Non-smoker,COPD,Drug D,20mg,Twice daily
+467,54,Male,Ex-smoker,Asthma,Drug D,50mg,Twice daily
+468,21,Male,Ex-smoker,Pneumonia,Drug B,50mg,Three times daily
+469,44,Male,Ex-smoker,Bronchiectasis,Drug D,50mg,Three times daily
+470,71,Female,Non-smoker,Pneumonia,Drug A,50mg,Once daily
+471,23,Male,Ex-smoker,LRTI,Drug D,20mg,Three times daily
+472,37,Female,Non-smoker,LRTI,Drug C,5mg,Three times daily
+473,58,Male,Ex-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+474,17,Female,Ex-smoker,Asthma,Drug B,20mg,Twice daily
+475,25,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+476,24,Female,Active-smoker,Pneumonia,Drug C,10mg,Twice daily
+477,61,Female,Non-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+478,87,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+479,42,Female,Ex-smoker,LRTI,Drug D,5mg,Twice daily
+480,58,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+481,72,Female,Ex-smoker,URTI,Drug A,5mg,Once daily
+482,16,Female,Non-smoker,LRTI,Drug B,5mg,Once daily
+483,84,Female,Non-smoker,URTI,Drug C,10mg,Twice daily
+484,8,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+485,95,Male,Ex-smoker,COPD,Drug B,10mg,Twice daily
+486,70,Male,Active-smoker,COPD,Drug C,10mg,Three times daily
+487,59,Male,Ex-smoker,Pneumonia,Drug D,20mg,Twice daily
+488,65,Male,Ex-smoker,Bronchiectasis,Drug C,20mg,Once daily
+489,36,Female,Ex-smoker,Asthma,Drug A,20mg,Once daily
+490,49,Male,Active-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+491,99,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+492,57,Female,Active-smoker,COPD,Drug C,5mg,Three times daily
+493,40,Male,Active-smoker,Bronchiolitis,Drug A,10mg,Once daily
+494,52,Male,Non-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+495,72,Male,Active-smoker,COPD,Drug D,50mg,Once daily
+496,33,Female,Non-smoker,Pneumonia,Drug B,50mg,Three times daily
+497,97,Male,Non-smoker,Pneumonia,Drug C,5mg,Once daily
+498,21,Male,Ex-smoker,LRTI,Drug B,10mg,Three times daily
+499,79,Female,Ex-smoker,Bronchiectasis,Drug A,5mg,Once daily
+500,80,Male,Active-smoker,Bronchiectasis,Drug A,20mg,Three times daily
+501,77,Male,Ex-smoker,Pneumonia,Drug D,10mg,Twice daily
+502,52,Male,Non-smoker,LRTI,Drug C,5mg,Twice daily
+503,29,Female,Non-smoker,LRTI,Drug D,5mg,Once daily
+504,40,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+505,56,Male,Active-smoker,URTI,Drug D,20mg,Three times daily
+506,27,Male,Non-smoker,Bronchiolitis,Drug D,20mg,Three times daily
+507,77,Male,Active-smoker,Pneumonia,Drug C,5mg,Three times daily
+508,80,Female,Ex-smoker,Bronchiectasis,Drug B,10mg,Once daily
+509,55,Female,Ex-smoker,COPD,Drug C,50mg,Once daily
+510,11,Male,Active-smoker,URTI,Drug D,50mg,Three times daily
+511,40,Male,Active-smoker,Asthma,Drug D,20mg,Once daily
+512,19,Female,Non-smoker,Asthma,Drug A,20mg,Once daily
+513,47,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+514,96,Male,Ex-smoker,COPD,Drug D,10mg,Twice daily
+515,43,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+516,26,Male,Non-smoker,LRTI,Drug A,20mg,Twice daily
+517,2,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+518,29,Male,Non-smoker,Pneumonia,Drug A,50mg,Once daily
+519,45,Male,Ex-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+520,56,Male,Active-smoker,COPD,Drug A,5mg,Once daily
+521,53,Male,Ex-smoker,LRTI,Drug C,50mg,Twice daily
+522,68,Female,Active-smoker,URTI,Drug A,10mg,Once daily
+523,58,Male,Active-smoker,LRTI,Drug D,50mg,Three times daily
+524,94,Male,Ex-smoker,Bronchiectasis,Drug D,5mg,Once daily
+525,69,Female,Non-smoker,COPD,Drug B,5mg,Three times daily
+526,73,Male,Active-smoker,URTI,Drug B,10mg,Three times daily
+527,11,Male,Active-smoker,Asthma,Drug C,5mg,Once daily
+528,84,Male,Non-smoker,COPD,Drug D,5mg,Three times daily
+529,12,Female,Non-smoker,URTI,Drug A,50mg,Three times daily
+530,95,Female,Active-smoker,COPD,Drug C,5mg,Once daily
+531,76,Male,Active-smoker,LRTI,Drug B,5mg,Once daily
+532,13,Male,Non-smoker,URTI,Drug C,50mg,Three times daily
+533,64,Male,Ex-smoker,COPD,Drug C,50mg,Once daily
+534,80,Female,Active-smoker,Asthma,Drug C,20mg,Once daily
+535,20,Male,Active-smoker,URTI,Drug D,5mg,Twice daily
+536,72,Male,Ex-smoker,URTI,Drug A,20mg,Three times daily
+537,44,Male,Active-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+538,84,Male,Non-smoker,Bronchiolitis,Drug B,20mg,Once daily
+539,30,Female,Non-smoker,Bronchiolitis,Drug D,50mg,Twice daily
+540,13,Female,Active-smoker,URTI,Drug D,5mg,Twice daily
+541,48,Male,Ex-smoker,Bronchiectasis,Drug B,10mg,Twice daily
+542,46,Male,Ex-smoker,COPD,Drug C,10mg,Three times daily
+543,19,Male,Non-smoker,Pneumonia,Drug C,5mg,Once daily
+544,8,Female,Ex-smoker,URTI,Drug A,50mg,Three times daily
+545,41,Male,Ex-smoker,Bronchiectasis,Drug D,10mg,Once daily
+546,99,Female,Non-smoker,COPD,Drug C,20mg,Three times daily
+547,47,Male,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+548,7,Female,Active-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+549,25,Female,Active-smoker,LRTI,Drug B,10mg,Three times daily
+550,54,Female,Non-smoker,LRTI,Drug D,50mg,Twice daily
+551,32,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+552,66,Male,Non-smoker,LRTI,Drug D,20mg,Twice daily
+553,74,Female,Ex-smoker,Pneumonia,Drug C,20mg,Three times daily
+554,22,Female,Active-smoker,Bronchiolitis,Drug C,5mg,Once daily
+555,50,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+556,61,Female,Active-smoker,Pneumonia,Drug A,5mg,Three times daily
+557,28,Male,Non-smoker,LRTI,Drug C,50mg,Twice daily
+558,49,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+559,92,Female,Active-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+560,54,Male,Non-smoker,Bronchiolitis,Drug C,10mg,Three times daily
+561,33,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+562,86,Male,Non-smoker,LRTI,Drug C,5mg,Twice daily
+563,71,Female,Non-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+564,91,Female,Active-smoker,Asthma,Drug B,50mg,Three times daily
+565,63,Male,Active-smoker,Asthma,Drug D,5mg,Twice daily
+566,82,Male,Ex-smoker,COPD,Drug D,50mg,Three times daily
+567,61,Female,Active-smoker,COPD,Drug A,10mg,Twice daily
+568,31,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+569,37,Male,Active-smoker,Asthma,Drug D,10mg,Once daily
+570,26,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+571,45,Female,Ex-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+572,3,Male,Ex-smoker,URTI,Drug A,20mg,Once daily
+573,54,Female,Ex-smoker,Bronchiectasis,Drug A,5mg,Once daily
+574,66,Male,Ex-smoker,LRTI,Drug D,5mg,Twice daily
+575,68,Female,Non-smoker,LRTI,Drug D,10mg,Twice daily
+576,68,Female,Active-smoker,URTI,Drug B,50mg,Three times daily
+577,82,Male,Ex-smoker,URTI,Drug C,5mg,Once daily
+578,10,Female,Non-smoker,URTI,Drug B,50mg,Three times daily
+579,15,Male,Active-smoker,URTI,Drug D,5mg,Twice daily
+580,60,Male,Non-smoker,LRTI,Drug C,10mg,Three times daily
+581,64,Male,Non-smoker,Pneumonia,Drug B,20mg,Once daily
+582,41,Male,Active-smoker,URTI,Drug D,5mg,Once daily
+583,61,Male,Non-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+584,77,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+585,50,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+586,40,Male,Non-smoker,Pneumonia,Drug A,5mg,Three times daily
+587,74,Male,Non-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+588,60,Male,Ex-smoker,COPD,Drug B,10mg,Once daily
+589,83,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+590,69,Female,Active-smoker,Pneumonia,Drug C,10mg,Twice daily
+591,47,Female,Active-smoker,URTI,Drug B,5mg,Three times daily
+592,35,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+593,37,Female,Non-smoker,Bronchiolitis,Drug D,50mg,Once daily
+594,81,Male,Ex-smoker,Pneumonia,Drug B,5mg,Twice daily
+595,46,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+596,39,Male,Ex-smoker,URTI,Drug C,50mg,Twice daily
+597,89,Male,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+598,48,Male,Non-smoker,URTI,Drug C,5mg,Three times daily
+599,10,Female,Non-smoker,Bronchiolitis,Drug A,5mg,Once daily
+600,60,Female,Non-smoker,URTI,Drug D,10mg,Three times daily
+601,58,Male,Ex-smoker,Bronchiectasis,Drug A,20mg,Three times daily
+602,4,Male,Non-smoker,Pneumonia,Drug A,5mg,Three times daily
+603,41,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+604,85,Female,Ex-smoker,COPD,Drug B,5mg,Three times daily
+605,70,Female,Active-smoker,COPD,Drug C,5mg,Once daily
+606,91,Male,Active-smoker,Pneumonia,Drug C,20mg,Three times daily
+607,97,Female,Ex-smoker,URTI,Drug C,50mg,Three times daily
+608,4,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+609,17,Male,Active-smoker,Asthma,Drug B,10mg,Three times daily
+610,50,Female,Non-smoker,Pneumonia,Drug C,10mg,Once daily
+611,74,Female,Active-smoker,Bronchiolitis,Drug D,50mg,Once daily
+612,12,Male,Ex-smoker,Bronchiolitis,Drug C,10mg,Three times daily
+613,34,Female,Ex-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+614,20,Female,Non-smoker,Bronchiolitis,Drug D,50mg,Three times daily
+615,35,Male,Ex-smoker,Asthma,Drug C,5mg,Three times daily
+616,23,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+617,65,Female,Ex-smoker,Bronchiolitis,Drug B,20mg,Once daily
+618,34,Female,Ex-smoker,Pneumonia,Drug D,50mg,Twice daily
+619,20,Male,Ex-smoker,URTI,Drug B,20mg,Three times daily
+620,61,Male,Non-smoker,Bronchiolitis,Drug D,50mg,Three times daily
+621,50,Male,Non-smoker,Asthma,Drug C,20mg,Three times daily
+622,96,Female,Ex-smoker,Bronchiectasis,Drug B,20mg,Once daily
+623,83,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+624,14,Male,Active-smoker,Pneumonia,Drug B,50mg,Three times daily
+625,94,Female,Ex-smoker,LRTI,Drug B,20mg,Three times daily
+626,46,Male,Non-smoker,COPD,Drug A,50mg,Three times daily
+627,49,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+628,96,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+629,90,Female,Ex-smoker,Pneumonia,Drug A,50mg,Once daily
+630,91,Female,Active-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+631,70,Male,Active-smoker,COPD,Drug D,50mg,Once daily
+632,48,Male,Active-smoker,Asthma,Drug B,50mg,Twice daily
+633,66,Male,Ex-smoker,LRTI,Drug B,20mg,Three times daily
+634,78,Female,Ex-smoker,COPD,Drug D,20mg,Twice daily
+635,66,Female,Non-smoker,Asthma,Drug D,50mg,Three times daily
+636,87,Female,Ex-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+637,86,Male,Non-smoker,COPD,Drug C,20mg,Three times daily
+638,10,Female,Ex-smoker,Asthma,Drug A,10mg,Twice daily
+639,89,Female,Ex-smoker,Bronchiectasis,Drug C,10mg,Once daily
+640,66,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Once daily
+641,59,Male,Active-smoker,COPD,Drug A,10mg,Three times daily
+642,16,Female,Active-smoker,Bronchiolitis,Drug D,50mg,Three times daily
+643,63,Female,Active-smoker,Bronchiectasis,Drug D,20mg,Once daily
+644,57,Female,Active-smoker,URTI,Drug D,10mg,Three times daily
+645,59,Male,Active-smoker,COPD,Drug A,5mg,Twice daily
+646,57,Male,Active-smoker,Pneumonia,Drug A,20mg,Once daily
+647,51,Male,Non-smoker,COPD,Drug A,10mg,Once daily
+648,54,Male,Non-smoker,COPD,Drug C,10mg,Three times daily
+649,27,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+650,43,Female,Non-smoker,COPD,Drug B,5mg,Three times daily
+651,75,Male,Non-smoker,Pneumonia,Drug D,50mg,Once daily
+652,7,Female,Active-smoker,URTI,Drug D,10mg,Twice daily
+653,59,Female,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+654,99,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+655,45,Male,Ex-smoker,URTI,Drug C,5mg,Twice daily
+656,62,Female,Ex-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+657,1,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+658,54,Female,Ex-smoker,Pneumonia,Drug C,50mg,Twice daily
+659,45,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+660,76,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+661,30,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+662,45,Female,Ex-smoker,LRTI,Drug B,20mg,Twice daily
+663,70,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+664,65,Female,Active-smoker,Bronchiectasis,Drug C,50mg,Once daily
+665,81,Female,Ex-smoker,COPD,Drug C,50mg,Three times daily
+666,20,Male,Ex-smoker,LRTI,Drug C,10mg,Once daily
+667,39,Male,Ex-smoker,Asthma,Drug B,5mg,Once daily
+668,49,Male,Non-smoker,Pneumonia,Drug A,20mg,Once daily
+669,41,Female,Non-smoker,LRTI,Drug D,50mg,Once daily
+670,83,Female,Active-smoker,Bronchiectasis,Drug D,50mg,Once daily
+671,27,Male,Non-smoker,LRTI,Drug C,20mg,Three times daily
+672,30,Female,Non-smoker,LRTI,Drug B,50mg,Twice daily
+673,46,Male,Active-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+674,18,Male,Active-smoker,Asthma,Drug C,5mg,Three times daily
+675,81,Male,Ex-smoker,Bronchiolitis,Drug B,50mg,Twice daily
+676,59,Male,Non-smoker,COPD,Drug D,50mg,Three times daily
+677,2,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+678,23,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+679,85,Female,Active-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+680,30,Female,Non-smoker,Pneumonia,Drug B,10mg,Once daily
+681,66,Female,Non-smoker,COPD,Drug A,20mg,Twice daily
+682,87,Female,Non-smoker,LRTI,Drug D,20mg,Once daily
+683,23,Male,Active-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+684,60,Male,Active-smoker,URTI,Drug D,20mg,Three times daily
+685,85,Male,Ex-smoker,LRTI,Drug B,50mg,Once daily
+686,67,Female,Active-smoker,COPD,Drug D,10mg,Twice daily
+687,29,Male,Non-smoker,URTI,Drug B,5mg,Once daily
+688,2,Female,Ex-smoker,LRTI,Drug D,50mg,Three times daily
+689,53,Male,Ex-smoker,COPD,Drug D,5mg,Three times daily
+690,68,Male,Ex-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+691,17,Male,Non-smoker,Pneumonia,Drug C,5mg,Once daily
+692,16,Male,Ex-smoker,LRTI,Drug D,20mg,Once daily
+693,67,Female,Ex-smoker,URTI,Drug A,50mg,Once daily
+694,71,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+695,55,Female,Ex-smoker,Asthma,Drug C,20mg,Once daily
+696,5,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+697,3,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+698,22,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+699,22,Male,Non-smoker,URTI,Drug D,10mg,Twice daily
+700,54,Female,Active-smoker,Pneumonia,Drug D,20mg,Once daily
+701,44,Female,Ex-smoker,COPD,Drug B,50mg,Three times daily
+702,76,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+703,14,Male,Non-smoker,URTI,Drug B,10mg,Three times daily
+704,95,Female,Ex-smoker,URTI,Drug D,50mg,Three times daily
+705,99,Female,Non-smoker,URTI,Drug A,50mg,Twice daily
+706,75,Male,Ex-smoker,Asthma,Drug B,50mg,Twice daily
+707,43,Female,Active-smoker,Bronchiolitis,Drug C,10mg,Three times daily
+708,11,Female,Ex-smoker,URTI,Drug C,50mg,Once daily
+709,64,Female,Active-smoker,COPD,Drug B,5mg,Twice daily
+710,87,Male,Ex-smoker,Pneumonia,Drug D,50mg,Three times daily
+711,82,Male,Non-smoker,Pneumonia,Drug A,5mg,Once daily
+712,79,Female,Non-smoker,Asthma,Drug B,10mg,Three times daily
+713,45,Female,Ex-smoker,URTI,Drug A,5mg,Once daily
+714,71,Male,Active-smoker,Pneumonia,Drug C,5mg,Twice daily
+715,49,Male,Non-smoker,Bronchiectasis,Drug B,10mg,Once daily
+716,28,Male,Active-smoker,URTI,Drug D,5mg,Three times daily
+717,52,Male,Active-smoker,LRTI,Drug B,20mg,Once daily
+718,95,Male,Ex-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+719,87,Female,Ex-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+720,59,Male,Active-smoker,URTI,Drug B,50mg,Twice daily
+721,82,Female,Non-smoker,Asthma,Drug C,10mg,Three times daily
+722,55,Female,Non-smoker,Bronchiectasis,Drug C,5mg,Once daily
+723,90,Male,Ex-smoker,URTI,Drug C,5mg,Twice daily
+724,18,Female,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+725,80,Female,Non-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+726,35,Female,Active-smoker,LRTI,Drug B,5mg,Once daily
+727,57,Male,Active-smoker,LRTI,Drug D,20mg,Twice daily
+728,99,Female,Active-smoker,COPD,Drug C,10mg,Three times daily
+729,95,Female,Ex-smoker,LRTI,Drug D,50mg,Three times daily
+730,73,Female,Active-smoker,COPD,Drug C,10mg,Three times daily
+731,82,Female,Ex-smoker,Bronchiectasis,Drug C,10mg,Three times daily
+732,5,Male,Ex-smoker,Pneumonia,Drug C,20mg,Three times daily
+733,79,Male,Ex-smoker,Pneumonia,Drug C,50mg,Three times daily
+734,32,Male,Active-smoker,Pneumonia,Drug C,20mg,Twice daily
+735,81,Male,Ex-smoker,COPD,Drug A,20mg,Twice daily
+736,73,Female,Active-smoker,LRTI,Drug C,5mg,Once daily
+737,48,Female,Active-smoker,Bronchiectasis,Drug C,10mg,Three times daily
+738,20,Male,Ex-smoker,URTI,Drug C,20mg,Three times daily
+739,51,Female,Ex-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+740,69,Female,Non-smoker,URTI,Drug A,20mg,Twice daily
+741,68,Male,Active-smoker,Asthma,Drug D,20mg,Three times daily
+742,16,Male,Ex-smoker,URTI,Drug D,10mg,Twice daily
+743,82,Male,Active-smoker,Pneumonia,Drug A,5mg,Twice daily
+744,4,Female,Active-smoker,Asthma,Drug B,5mg,Twice daily
+745,46,Male,Active-smoker,COPD,Drug A,50mg,Once daily
+746,97,Male,Ex-smoker,LRTI,Drug A,50mg,Once daily
+747,53,Male,Non-smoker,Pneumonia,Drug C,50mg,Twice daily
+748,76,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+749,71,Male,Active-smoker,Asthma,Drug C,20mg,Twice daily
+750,93,Male,Ex-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+751,98,Male,Active-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+752,12,Female,Active-smoker,Pneumonia,Drug C,20mg,Three times daily
+753,77,Female,Non-smoker,Asthma,Drug C,5mg,Twice daily
+754,1,Female,Ex-smoker,Asthma,Drug D,20mg,Twice daily
+755,51,Female,Ex-smoker,Bronchiectasis,Drug C,10mg,Three times daily
+756,8,Male,Ex-smoker,URTI,Drug C,50mg,Once daily
+757,32,Female,Active-smoker,Asthma,Drug A,20mg,Three times daily
+758,14,Female,Non-smoker,LRTI,Drug A,10mg,Once daily
+759,19,Male,Non-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+760,19,Female,Non-smoker,Asthma,Drug C,5mg,Twice daily
+761,15,Male,Active-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+762,67,Female,Non-smoker,Bronchiolitis,Drug C,5mg,Once daily
+763,81,Male,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+764,49,Male,Non-smoker,URTI,Drug A,50mg,Twice daily
+765,68,Female,Active-smoker,Asthma,Drug D,50mg,Once daily
+766,32,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+767,62,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+768,82,Male,Non-smoker,COPD,Drug D,5mg,Three times daily
+769,78,Male,Ex-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+770,85,Female,Active-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+771,25,Female,Non-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+772,1,Female,Ex-smoker,URTI,Drug B,50mg,Once daily
+773,64,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Once daily
+774,59,Male,Active-smoker,LRTI,Drug A,10mg,Once daily
+775,26,Female,Active-smoker,Bronchiolitis,Drug C,50mg,Once daily
+776,49,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+777,55,Female,Ex-smoker,COPD,Drug D,5mg,Once daily
+778,72,Female,Non-smoker,URTI,Drug D,10mg,Twice daily
+779,85,Female,Non-smoker,Pneumonia,Drug B,50mg,Twice daily
+780,12,Female,Non-smoker,Asthma,Drug B,50mg,Twice daily
+781,93,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+782,94,Female,Active-smoker,Bronchiolitis,Drug A,10mg,Once daily
+783,24,Female,Ex-smoker,Asthma,Drug B,50mg,Twice daily
+784,52,Male,Non-smoker,LRTI,Drug A,50mg,Three times daily
+785,54,Male,Ex-smoker,Asthma,Drug B,50mg,Three times daily
+786,54,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+787,49,Male,Ex-smoker,COPD,Drug A,10mg,Twice daily
+788,43,Female,Active-smoker,Bronchiectasis,Drug A,5mg,Three times daily
+789,62,Female,Non-smoker,Pneumonia,Drug C,20mg,Three times daily
+790,47,Female,Ex-smoker,Bronchiectasis,Drug A,5mg,Three times daily
+791,42,Female,Active-smoker,LRTI,Drug C,50mg,Three times daily
+792,28,Female,Ex-smoker,Pneumonia,Drug A,5mg,Once daily
+793,98,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+794,65,Female,Ex-smoker,Bronchiolitis,Drug D,20mg,Three times daily
+795,24,Male,Ex-smoker,URTI,Drug C,10mg,Three times daily
+796,18,Male,Ex-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+797,11,Male,Non-smoker,Asthma,Drug D,10mg,Three times daily
+798,3,Male,Active-smoker,Pneumonia,Drug C,20mg,Twice daily
+799,94,Female,Ex-smoker,Bronchiolitis,Drug A,5mg,Twice daily
+800,29,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+801,99,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+802,87,Female,Active-smoker,Bronchiectasis,Drug D,20mg,Once daily
+803,43,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+804,7,Male,Active-smoker,Bronchiolitis,Drug B,10mg,Once daily
+805,56,Male,Ex-smoker,Bronchiectasis,Drug A,20mg,Three times daily
+806,30,Female,Non-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+807,98,Male,Ex-smoker,COPD,Drug D,5mg,Once daily
+808,97,Female,Non-smoker,COPD,Drug D,5mg,Twice daily
+809,80,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+810,66,Female,Active-smoker,Bronchiectasis,Drug D,10mg,Once daily
+811,60,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+812,53,Male,Active-smoker,Bronchiectasis,Drug A,10mg,Twice daily
+813,99,Male,Active-smoker,LRTI,Drug B,5mg,Twice daily
+814,39,Female,Active-smoker,Pneumonia,Drug D,5mg,Twice daily
+815,50,Male,Non-smoker,COPD,Drug A,20mg,Once daily
+816,71,Female,Non-smoker,LRTI,Drug D,5mg,Three times daily
+817,57,Male,Non-smoker,Asthma,Drug A,50mg,Three times daily
+818,78,Male,Non-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+819,79,Female,Non-smoker,URTI,Drug C,5mg,Once daily
+820,56,Male,Non-smoker,Asthma,Drug B,50mg,Once daily
+821,23,Male,Ex-smoker,Pneumonia,Drug D,5mg,Three times daily
+822,59,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+823,45,Female,Non-smoker,COPD,Drug D,5mg,Once daily
+824,7,Male,Non-smoker,Pneumonia,Drug D,50mg,Three times daily
+825,66,Male,Active-smoker,LRTI,Drug D,5mg,Twice daily
+826,55,Male,Active-smoker,URTI,Drug D,5mg,Three times daily
+827,3,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+828,97,Male,Active-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+829,81,Male,Non-smoker,COPD,Drug D,5mg,Three times daily
+830,62,Female,Active-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+831,90,Female,Ex-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+832,76,Female,Ex-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+833,59,Male,Ex-smoker,LRTI,Drug B,5mg,Twice daily
+834,52,Male,Ex-smoker,Asthma,Drug D,5mg,Once daily
+835,78,Male,Non-smoker,Bronchiectasis,Drug C,10mg,Twice daily
+836,15,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+837,76,Male,Ex-smoker,LRTI,Drug A,50mg,Once daily
+838,37,Male,Non-smoker,Pneumonia,Drug B,10mg,Once daily
+839,73,Male,Non-smoker,Asthma,Drug A,5mg,Twice daily
+840,51,Male,Non-smoker,Asthma,Drug C,10mg,Twice daily
+841,83,Female,Non-smoker,COPD,Drug D,10mg,Once daily
+842,47,Male,Ex-smoker,LRTI,Drug C,10mg,Three times daily
+843,17,Male,Non-smoker,LRTI,Drug B,20mg,Three times daily
+844,22,Male,Non-smoker,Pneumonia,Drug C,50mg,Three times daily
+845,30,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+846,49,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+847,80,Female,Active-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+848,62,Male,Ex-smoker,COPD,Drug A,50mg,Twice daily
+849,97,Male,Non-smoker,COPD,Drug C,50mg,Three times daily
+850,98,Male,Non-smoker,Asthma,Drug A,20mg,Twice daily
+851,99,Male,Ex-smoker,Bronchiolitis,Drug B,5mg,Once daily
+852,25,Female,Ex-smoker,Pneumonia,Drug A,5mg,Once daily
+853,41,Female,Active-smoker,Pneumonia,Drug D,20mg,Three times daily
+854,24,Male,Non-smoker,Bronchiolitis,Drug B,50mg,Once daily
+855,54,Female,Non-smoker,COPD,Drug C,10mg,Twice daily
+856,51,Male,Non-smoker,Bronchiectasis,Drug C,5mg,Once daily
+857,80,Female,Active-smoker,LRTI,Drug B,50mg,Twice daily
+858,22,Male,Active-smoker,Pneumonia,Drug C,20mg,Twice daily
+859,61,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+860,86,Female,Active-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+861,35,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+862,29,Male,Active-smoker,Bronchiolitis,Drug B,50mg,Twice daily
+863,75,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+864,5,Female,Non-smoker,LRTI,Drug D,50mg,Three times daily
+865,61,Female,Non-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+866,68,Male,Ex-smoker,URTI,Drug B,5mg,Once daily
+867,52,Male,Ex-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+868,56,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Once daily
+869,42,Female,Non-smoker,Bronchiectasis,Drug C,10mg,Twice daily
+870,38,Female,Active-smoker,Pneumonia,Drug B,5mg,Twice daily
+871,52,Female,Ex-smoker,COPD,Drug C,5mg,Once daily
+872,28,Male,Non-smoker,Asthma,Drug B,5mg,Three times daily
+873,96,Male,Non-smoker,Pneumonia,Drug D,20mg,Three times daily
+874,2,Male,Ex-smoker,LRTI,Drug B,20mg,Three times daily
+875,18,Male,Active-smoker,Asthma,Drug D,10mg,Three times daily
+876,74,Female,Active-smoker,COPD,Drug D,20mg,Once daily
+877,81,Female,Ex-smoker,COPD,Drug A,5mg,Three times daily
+878,9,Female,Active-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+879,52,Male,Non-smoker,Asthma,Drug C,50mg,Twice daily
+880,59,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Once daily
+881,75,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+882,99,Female,Non-smoker,Bronchiectasis,Drug A,10mg,Once daily
+883,6,Male,Non-smoker,Pneumonia,Drug B,50mg,Three times daily
+884,17,Female,Active-smoker,URTI,Drug A,10mg,Three times daily
+885,99,Male,Non-smoker,Bronchiectasis,Drug D,50mg,Three times daily
+886,14,Male,Active-smoker,Pneumonia,Drug D,20mg,Once daily
+887,18,Male,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+888,27,Female,Non-smoker,Pneumonia,Drug D,5mg,Twice daily
+889,50,Male,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+890,47,Female,Non-smoker,Asthma,Drug D,10mg,Once daily
+891,42,Female,Active-smoker,COPD,Drug D,10mg,Three times daily
+892,18,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+893,94,Male,Non-smoker,LRTI,Drug B,10mg,Three times daily
+894,18,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+895,65,Male,Non-smoker,COPD,Drug B,10mg,Three times daily
+896,91,Female,Non-smoker,COPD,Drug C,20mg,Once daily
+897,76,Male,Ex-smoker,Bronchiectasis,Drug A,20mg,Twice daily
+898,8,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+899,73,Male,Non-smoker,LRTI,Drug D,50mg,Twice daily
+900,12,Male,Active-smoker,LRTI,Drug C,50mg,Three times daily
+901,59,Male,Active-smoker,COPD,Drug A,20mg,Three times daily
+902,92,Male,Ex-smoker,Pneumonia,Drug A,20mg,Once daily
+903,74,Female,Active-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+904,43,Female,Active-smoker,URTI,Drug A,50mg,Three times daily
+905,94,Female,Active-smoker,LRTI,Drug B,20mg,Once daily
+906,90,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+907,39,Male,Non-smoker,Pneumonia,Drug D,5mg,Twice daily
+908,48,Male,Non-smoker,Pneumonia,Drug C,5mg,Twice daily
+909,76,Male,Active-smoker,COPD,Drug D,10mg,Twice daily
+910,57,Male,Non-smoker,URTI,Drug C,50mg,Three times daily
+911,88,Female,Active-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+912,48,Female,Non-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+913,45,Female,Active-smoker,Bronchiolitis,Drug B,50mg,Once daily
+914,84,Female,Ex-smoker,LRTI,Drug B,20mg,Once daily
+915,42,Female,Ex-smoker,Pneumonia,Drug C,10mg,Once daily
+916,20,Female,Non-smoker,Pneumonia,Drug C,20mg,Twice daily
+917,53,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+918,73,Male,Active-smoker,Bronchiolitis,Drug B,5mg,Once daily
+919,3,Male,Ex-smoker,URTI,Drug B,20mg,Once daily
+920,77,Male,Non-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+921,91,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Once daily
+922,75,Female,Ex-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+923,44,Male,Non-smoker,LRTI,Drug C,5mg,Twice daily
+924,67,Male,Ex-smoker,Asthma,Drug A,10mg,Twice daily
+925,44,Female,Non-smoker,Bronchiolitis,Drug A,10mg,Three times daily
+926,23,Female,Non-smoker,Asthma,Drug D,20mg,Three times daily
+927,28,Female,Ex-smoker,Bronchiolitis,Drug B,10mg,Twice daily
+928,37,Male,Non-smoker,Asthma,Drug A,10mg,Twice daily
+929,96,Male,Active-smoker,Bronchiectasis,Drug A,20mg,Once daily
+930,46,Male,Active-smoker,Bronchiectasis,Drug A,20mg,Three times daily
+931,59,Male,Active-smoker,Bronchiolitis,Drug C,5mg,Once daily
+932,1,Female,Ex-smoker,LRTI,Drug B,10mg,Twice daily
+933,12,Female,Ex-smoker,URTI,Drug D,50mg,Twice daily
+934,32,Female,Non-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+935,36,Male,Non-smoker,LRTI,Drug D,50mg,Three times daily
+936,16,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+937,38,Female,Non-smoker,Asthma,Drug D,50mg,Three times daily
+938,95,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+939,88,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+940,38,Male,Active-smoker,Asthma,Drug D,50mg,Three times daily
+941,60,Female,Active-smoker,LRTI,Drug D,10mg,Twice daily
+942,13,Female,Ex-smoker,Asthma,Drug D,20mg,Once daily
+943,94,Male,Active-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+944,58,Male,Ex-smoker,LRTI,Drug A,20mg,Twice daily
+945,75,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+946,99,Male,Active-smoker,Pneumonia,Drug D,50mg,Once daily
+947,93,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+948,66,Female,Non-smoker,Bronchiectasis,Drug A,20mg,Once daily
+949,79,Male,Ex-smoker,COPD,Drug B,5mg,Three times daily
+950,68,Male,Non-smoker,URTI,Drug B,20mg,Twice daily
+951,63,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+952,17,Male,Ex-smoker,Pneumonia,Drug C,10mg,Twice daily
+953,60,Male,Active-smoker,URTI,Drug D,5mg,Three times daily
+954,97,Female,Non-smoker,Asthma,Drug A,10mg,Three times daily
+955,99,Female,Ex-smoker,LRTI,Drug D,50mg,Three times daily
+956,88,Male,Ex-smoker,COPD,Drug B,10mg,Once daily
+957,34,Female,Active-smoker,Pneumonia,Drug B,20mg,Three times daily
+958,26,Female,Non-smoker,Asthma,Drug B,5mg,Twice daily
+959,26,Male,Non-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+960,15,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+961,18,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+962,37,Male,Non-smoker,LRTI,Drug C,10mg,Once daily
+963,43,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+964,10,Female,Active-smoker,URTI,Drug B,10mg,Once daily
+965,96,Female,Non-smoker,LRTI,Drug C,5mg,Once daily
+966,85,Male,Active-smoker,URTI,Drug D,10mg,Once daily
+967,69,Female,Ex-smoker,Asthma,Drug D,20mg,Once daily
+968,53,Male,Active-smoker,Bronchiectasis,Drug D,10mg,Once daily
+969,79,Female,Ex-smoker,COPD,Drug D,20mg,Once daily
+970,55,Female,Ex-smoker,Bronchiectasis,Drug B,20mg,Once daily
+971,67,Male,Active-smoker,Bronchiectasis,Drug D,20mg,Once daily
+972,75,Male,Ex-smoker,Bronchiectasis,Drug A,20mg,Once daily
+973,9,Male,Active-smoker,Bronchiolitis,Drug B,10mg,Once daily
+974,91,Female,Ex-smoker,Bronchiectasis,Drug A,20mg,Once daily
+975,28,Male,Non-smoker,URTI,Drug C,5mg,Twice daily
+976,41,Female,Ex-smoker,Asthma,Drug C,20mg,Three times daily
+977,54,Female,Ex-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+978,68,Male,Ex-smoker,Pneumonia,Drug B,20mg,Three times daily
+979,91,Male,Ex-smoker,COPD,Drug B,10mg,Once daily
+980,75,Female,Ex-smoker,Pneumonia,Drug B,20mg,Three times daily
+981,4,Male,Active-smoker,Pneumonia,Drug C,5mg,Three times daily
+982,87,Male,Non-smoker,COPD,Drug D,5mg,Once daily
+983,40,Male,Non-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+984,83,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Once daily
+985,70,Female,Non-smoker,Asthma,Drug A,5mg,Three times daily
+986,85,Female,Ex-smoker,Asthma,Drug A,20mg,Three times daily
+987,4,Female,Non-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+988,19,Male,Non-smoker,LRTI,Drug D,5mg,Twice daily
+989,89,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+990,91,Female,Active-smoker,URTI,Drug A,50mg,Once daily
+991,38,Female,Active-smoker,URTI,Drug C,20mg,Once daily
+992,94,Female,Non-smoker,COPD,Drug D,5mg,Twice daily
+993,47,Female,Non-smoker,Pneumonia,Drug B,10mg,Once daily
+994,60,Male,Ex-smoker,COPD,Drug A,50mg,Three times daily
+995,88,Female,Ex-smoker,LRTI,Drug C,20mg,Twice daily
+996,74,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+997,73,Male,Active-smoker,Bronchiectasis,Drug C,5mg,Once daily
+998,37,Male,Ex-smoker,URTI,Drug C,20mg,Three times daily
+999,59,Male,Active-smoker,Pneumonia,Drug A,10mg,Once daily
+1000,39,Male,Ex-smoker,Asthma,Drug A,20mg,Twice daily
+1001,44,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1002,95,Female,Ex-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+1003,85,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1004,89,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1005,92,Female,Ex-smoker,URTI,Drug A,10mg,Three times daily
+1006,66,Female,Non-smoker,LRTI,Drug C,50mg,Twice daily
+1007,85,Male,Ex-smoker,COPD,Drug B,5mg,Three times daily
+1008,55,Male,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+1009,88,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1010,21,Female,Ex-smoker,Bronchiolitis,Drug D,5mg,Three times daily
+1011,18,Female,Ex-smoker,Pneumonia,Drug D,5mg,Once daily
+1012,56,Male,Ex-smoker,COPD,Drug C,10mg,Three times daily
+1013,23,Female,Active-smoker,LRTI,Drug A,20mg,Twice daily
+1014,79,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+1015,21,Female,Ex-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+1016,50,Male,Ex-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+1017,69,Male,Ex-smoker,COPD,Drug C,10mg,Once daily
+1018,26,Female,Ex-smoker,URTI,Drug B,50mg,Three times daily
+1019,97,Male,Non-smoker,Pneumonia,Drug A,10mg,Twice daily
+1020,71,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1021,75,Male,Active-smoker,LRTI,Drug B,5mg,Twice daily
+1022,1,Female,Non-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+1023,98,Male,Ex-smoker,Bronchiolitis,Drug A,5mg,Once daily
+1024,36,Male,Active-smoker,LRTI,Drug D,50mg,Once daily
+1025,90,Male,Non-smoker,LRTI,Drug A,50mg,Once daily
+1026,82,Male,Non-smoker,URTI,Drug B,50mg,Three times daily
+1027,98,Female,Active-smoker,Bronchiectasis,Drug D,50mg,Three times daily
+1028,38,Female,Active-smoker,LRTI,Drug C,20mg,Twice daily
+1029,59,Female,Non-smoker,Pneumonia,Drug A,20mg,Twice daily
+1030,61,Male,Non-smoker,Bronchiectasis,Drug A,10mg,Twice daily
+1031,9,Male,Ex-smoker,Pneumonia,Drug D,50mg,Twice daily
+1032,20,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Three times daily
+1033,87,Female,Active-smoker,LRTI,Drug D,20mg,Twice daily
+1034,83,Male,Ex-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+1035,22,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1036,72,Female,Active-smoker,Pneumonia,Drug D,10mg,Three times daily
+1037,77,Male,Ex-smoker,Asthma,Drug A,10mg,Three times daily
+1038,6,Male,Ex-smoker,Bronchiolitis,Drug D,20mg,Once daily
+1039,68,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1040,67,Female,Non-smoker,URTI,Drug A,5mg,Once daily
+1041,91,Male,Active-smoker,COPD,Drug D,50mg,Twice daily
+1042,86,Female,Non-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+1043,97,Male,Non-smoker,LRTI,Drug D,10mg,Once daily
+1044,45,Male,Non-smoker,COPD,Drug D,10mg,Three times daily
+1045,93,Male,Non-smoker,COPD,Drug C,10mg,Twice daily
+1046,71,Female,Active-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+1047,83,Female,Non-smoker,URTI,Drug A,5mg,Once daily
+1048,92,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+1049,38,Male,Active-smoker,Pneumonia,Drug A,10mg,Once daily
+1050,25,Female,Non-smoker,URTI,Drug C,50mg,Once daily
+1051,47,Female,Non-smoker,COPD,Drug B,10mg,Three times daily
+1052,37,Male,Active-smoker,URTI,Drug C,10mg,Twice daily
+1053,51,Male,Non-smoker,COPD,Drug C,50mg,Once daily
+1054,65,Female,Non-smoker,Pneumonia,Drug B,20mg,Once daily
+1055,99,Female,Ex-smoker,Asthma,Drug D,20mg,Three times daily
+1056,43,Female,Non-smoker,Asthma,Drug D,20mg,Three times daily
+1057,89,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Once daily
+1058,80,Female,Active-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+1059,3,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1060,83,Female,Active-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+1061,24,Female,Ex-smoker,URTI,Drug C,50mg,Once daily
+1062,95,Female,Active-smoker,URTI,Drug D,20mg,Once daily
+1063,56,Female,Ex-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+1064,69,Male,Non-smoker,Asthma,Drug C,50mg,Three times daily
+1065,24,Female,Active-smoker,Pneumonia,Drug D,20mg,Three times daily
+1066,82,Male,Active-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+1067,48,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1068,7,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1069,68,Female,Non-smoker,LRTI,Drug D,20mg,Three times daily
+1070,19,Male,Ex-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+1071,4,Female,Non-smoker,Asthma,Drug A,50mg,Once daily
+1072,13,Female,Non-smoker,Pneumonia,Drug D,50mg,Once daily
+1073,85,Female,Non-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+1074,86,Male,Non-smoker,Bronchiolitis,Drug B,50mg,Once daily
+1075,50,Male,Non-smoker,URTI,Drug A,10mg,Three times daily
+1076,78,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1077,50,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+1078,49,Female,Active-smoker,URTI,Drug A,50mg,Once daily
+1079,47,Female,Ex-smoker,URTI,Drug B,5mg,Once daily
+1080,21,Male,Active-smoker,Pneumonia,Drug D,50mg,Once daily
+1081,25,Female,Active-smoker,URTI,Drug D,5mg,Three times daily
+1082,35,Female,Non-smoker,URTI,Drug A,20mg,Three times daily
+1083,82,Male,Ex-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+1084,40,Female,Non-smoker,Bronchiectasis,Drug C,20mg,Once daily
+1085,92,Male,Ex-smoker,LRTI,Drug C,50mg,Three times daily
+1086,77,Female,Active-smoker,COPD,Drug D,10mg,Once daily
+1087,98,Female,Non-smoker,LRTI,Drug C,10mg,Three times daily
+1088,24,Female,Non-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1089,31,Female,Ex-smoker,Asthma,Drug A,10mg,Twice daily
+1090,66,Male,Active-smoker,Bronchiectasis,Drug D,5mg,Twice daily
+1091,57,Male,Ex-smoker,LRTI,Drug C,20mg,Once daily
+1092,37,Female,Non-smoker,Pneumonia,Drug B,20mg,Three times daily
+1093,52,Female,Non-smoker,Bronchiectasis,Drug A,20mg,Three times daily
+1094,29,Male,Active-smoker,LRTI,Drug D,50mg,Once daily
+1095,49,Female,Ex-smoker,Bronchiectasis,Drug D,50mg,Twice daily
+1096,42,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1097,90,Female,Ex-smoker,Bronchiectasis,Drug A,10mg,Twice daily
+1098,50,Female,Non-smoker,Pneumonia,Drug D,50mg,Twice daily
+1099,88,Male,Non-smoker,Bronchiolitis,Drug C,10mg,Once daily
+1100,14,Male,Non-smoker,LRTI,Drug D,50mg,Twice daily
+1101,27,Female,Ex-smoker,Pneumonia,Drug C,10mg,Three times daily
+1102,15,Male,Ex-smoker,LRTI,Drug B,50mg,Twice daily
+1103,85,Female,Ex-smoker,Asthma,Drug D,5mg,Three times daily
+1104,22,Male,Ex-smoker,URTI,Drug A,50mg,Three times daily
+1105,45,Male,Ex-smoker,COPD,Drug A,50mg,Twice daily
+1106,10,Male,Active-smoker,LRTI,Drug B,20mg,Once daily
+1107,21,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1108,50,Female,Active-smoker,COPD,Drug A,5mg,Three times daily
+1109,34,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1110,15,Female,Ex-smoker,Asthma,Drug B,20mg,Once daily
+1111,65,Male,Ex-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+1112,63,Male,Active-smoker,Pneumonia,Drug C,50mg,Three times daily
+1113,99,Female,Active-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+1114,57,Male,Active-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+1115,57,Female,Ex-smoker,Pneumonia,Drug B,10mg,Once daily
+1116,59,Male,Non-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+1117,14,Female,Non-smoker,Pneumonia,Drug C,50mg,Once daily
+1118,61,Female,Active-smoker,Pneumonia,Drug D,10mg,Twice daily
+1119,64,Female,Ex-smoker,LRTI,Drug A,5mg,Three times daily
+1120,48,Female,Ex-smoker,URTI,Drug A,20mg,Twice daily
+1121,13,Female,Non-smoker,Asthma,Drug A,50mg,Twice daily
+1122,97,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+1123,67,Male,Ex-smoker,Bronchiolitis,Drug B,20mg,Once daily
+1124,85,Female,Ex-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+1125,64,Female,Active-smoker,Bronchiectasis,Drug A,5mg,Once daily
+1126,59,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1127,92,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1128,82,Female,Ex-smoker,Pneumonia,Drug D,50mg,Once daily
+1129,71,Male,Ex-smoker,LRTI,Drug A,50mg,Once daily
+1130,93,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1131,60,Male,Ex-smoker,Asthma,Drug D,20mg,Once daily
+1132,7,Female,Active-smoker,LRTI,Drug C,50mg,Three times daily
+1133,19,Female,Ex-smoker,Bronchiolitis,Drug C,10mg,Once daily
+1134,56,Male,Ex-smoker,Pneumonia,Drug C,5mg,Once daily
+1135,30,Female,Active-smoker,Bronchiolitis,Drug D,50mg,Twice daily
+1136,14,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1137,95,Female,Active-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+1138,45,Female,Active-smoker,Bronchiolitis,Drug C,5mg,Once daily
+1139,5,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1140,35,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1141,42,Female,Non-smoker,Pneumonia,Drug C,10mg,Once daily
+1142,11,Female,Ex-smoker,LRTI,Drug D,5mg,Once daily
+1143,90,Female,Active-smoker,COPD,Drug A,5mg,Three times daily
+1144,28,Female,Non-smoker,LRTI,Drug D,50mg,Twice daily
+1145,40,Female,Ex-smoker,Pneumonia,Drug A,20mg,Twice daily
+1146,36,Female,Active-smoker,LRTI,Drug A,5mg,Three times daily
+1147,76,Female,Active-smoker,Pneumonia,Drug C,20mg,Three times daily
+1148,71,Female,Active-smoker,Bronchiolitis,Drug A,10mg,Three times daily
+1149,73,Female,Non-smoker,Pneumonia,Drug C,10mg,Three times daily
+1150,79,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1151,83,Male,Ex-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+1152,69,Male,Non-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+1153,61,Male,Ex-smoker,Pneumonia,Drug B,20mg,Once daily
+1154,80,Female,Non-smoker,COPD,Drug B,50mg,Three times daily
+1155,93,Male,Ex-smoker,Pneumonia,Drug D,50mg,Three times daily
+1156,49,Female,Non-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+1157,76,Male,Active-smoker,COPD,Drug D,20mg,Once daily
+1158,67,Male,Active-smoker,Bronchiectasis,Drug A,20mg,Twice daily
+1159,60,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1160,74,Female,Non-smoker,Bronchiolitis,Drug B,5mg,Once daily
+1161,69,Male,Ex-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+1162,70,Female,Ex-smoker,LRTI,Drug C,50mg,Once daily
+1163,63,Male,Active-smoker,Asthma,Drug D,5mg,Twice daily
+1164,29,Male,Active-smoker,URTI,Drug B,5mg,Three times daily
+1165,15,Male,Ex-smoker,URTI,Drug B,5mg,Twice daily
+1166,83,Male,Non-smoker,Asthma,Drug D,50mg,Once daily
+1167,7,Female,Ex-smoker,LRTI,Drug A,20mg,Three times daily
+1168,15,Male,Ex-smoker,Asthma,Drug D,5mg,Three times daily
+1169,41,Male,Non-smoker,URTI,Drug B,10mg,Three times daily
+1170,93,Female,Ex-smoker,Pneumonia,Drug D,20mg,Three times daily
+1171,94,Female,Active-smoker,Pneumonia,Drug B,50mg,Three times daily
+1172,84,Male,Active-smoker,LRTI,Drug D,20mg,Once daily
+1173,24,Male,Active-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+1174,61,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+1175,45,Male,Ex-smoker,COPD,Drug A,5mg,Three times daily
+1176,8,Male,Active-smoker,LRTI,Drug A,20mg,Three times daily
+1177,7,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1178,67,Female,Active-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+1179,24,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1180,29,Female,Active-smoker,URTI,Drug A,10mg,Twice daily
+1181,95,Male,Active-smoker,Bronchiolitis,Drug A,5mg,Once daily
+1182,32,Male,Active-smoker,URTI,Drug D,5mg,Three times daily
+1183,97,Female,Active-smoker,COPD,Drug D,5mg,Once daily
+1184,77,Male,Ex-smoker,COPD,Drug C,20mg,Three times daily
+1185,57,Female,Active-smoker,LRTI,Drug A,10mg,Three times daily
+1186,87,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1187,67,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1188,50,Female,Active-smoker,COPD,Drug B,50mg,Three times daily
+1189,36,Female,Ex-smoker,Asthma,Drug D,50mg,Once daily
+1190,89,Male,Non-smoker,URTI,Drug C,10mg,Twice daily
+1191,57,Male,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+1192,3,Female,Ex-smoker,Pneumonia,Drug B,10mg,Three times daily
+1193,34,Male,Ex-smoker,Asthma,Drug D,5mg,Twice daily
+1194,98,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1195,99,Female,Active-smoker,COPD,Drug B,50mg,Twice daily
+1196,87,Female,Active-smoker,LRTI,Drug A,50mg,Twice daily
+1197,24,Female,Active-smoker,Asthma,Drug C,20mg,Three times daily
+1198,91,Male,Active-smoker,COPD,Drug B,10mg,Twice daily
+1199,66,Female,Ex-smoker,Pneumonia,Drug C,5mg,Three times daily
+1200,75,Female,Non-smoker,Asthma,Drug D,50mg,Twice daily
+1201,19,Female,Ex-smoker,Pneumonia,Drug A,20mg,Once daily
+1202,76,Female,Ex-smoker,LRTI,Drug B,5mg,Once daily
+1203,75,Male,Active-smoker,Asthma,Drug D,20mg,Once daily
+1204,86,Male,Ex-smoker,Bronchiolitis,Drug A,50mg,Once daily
+1205,67,Male,Ex-smoker,URTI,Drug C,50mg,Three times daily
+1206,48,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1207,4,Male,Non-smoker,Asthma,Drug C,10mg,Three times daily
+1208,93,Male,Non-smoker,Asthma,Drug D,50mg,Twice daily
+1209,82,Female,Ex-smoker,Bronchiectasis,Drug D,10mg,Once daily
+1210,16,Female,Active-smoker,LRTI,Drug D,50mg,Once daily
+1211,90,Female,Active-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+1212,84,Male,Non-smoker,Bronchiolitis,Drug B,20mg,Once daily
+1213,41,Male,Non-smoker,LRTI,Drug B,20mg,Twice daily
+1214,21,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1215,60,Male,Ex-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+1216,85,Female,Active-smoker,LRTI,Drug A,50mg,Once daily
+1217,65,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1218,63,Male,Non-smoker,Bronchiolitis,Drug B,10mg,Once daily
+1219,72,Female,Non-smoker,Bronchiectasis,Drug A,50mg,Once daily
+1220,6,Male,Non-smoker,LRTI,Drug B,50mg,Twice daily
+1221,13,Male,Ex-smoker,LRTI,Drug D,10mg,Twice daily
+1222,45,Male,Ex-smoker,COPD,Drug A,20mg,Twice daily
+1223,74,Female,Active-smoker,Bronchiolitis,Drug B,10mg,Twice daily
+1224,10,Male,Ex-smoker,URTI,Drug B,50mg,Three times daily
+1225,83,Female,Active-smoker,LRTI,Drug D,5mg,Once daily
+1226,10,Male,Non-smoker,URTI,Drug C,10mg,Three times daily
+1227,63,Female,Ex-smoker,Pneumonia,Drug D,50mg,Twice daily
+1228,67,Female,Ex-smoker,COPD,Drug C,10mg,Three times daily
+1229,63,Male,Active-smoker,LRTI,Drug A,20mg,Three times daily
+1230,72,Female,Active-smoker,LRTI,Drug D,5mg,Three times daily
+1231,50,Male,Active-smoker,LRTI,Drug C,20mg,Three times daily
+1232,51,Male,Active-smoker,COPD,Drug C,50mg,Once daily
+1233,39,Male,Ex-smoker,URTI,Drug C,20mg,Three times daily
+1234,86,Male,Active-smoker,COPD,Drug B,10mg,Once daily
+1235,39,Female,Non-smoker,Bronchiolitis,Drug D,50mg,Three times daily
+1236,38,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1237,73,Female,Active-smoker,URTI,Drug B,20mg,Three times daily
+1238,91,Male,Ex-smoker,COPD,Drug C,10mg,Once daily
+1239,98,Female,Ex-smoker,COPD,Drug B,20mg,Three times daily
+1240,95,Male,Non-smoker,LRTI,Drug B,20mg,Twice daily
+1241,49,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1242,58,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Once daily
+1243,78,Female,Ex-smoker,Asthma,Drug C,50mg,Three times daily
+1244,72,Male,Active-smoker,Pneumonia,Drug D,10mg,Once daily
+1245,91,Male,Non-smoker,COPD,Drug C,10mg,Three times daily
+1246,80,Female,Active-smoker,COPD,Drug D,20mg,Once daily
+1247,89,Female,Non-smoker,Asthma,Drug D,20mg,Three times daily
+1248,86,Female,Ex-smoker,COPD,Drug A,50mg,Once daily
+1249,27,Female,Ex-smoker,URTI,Drug D,20mg,Three times daily
+1250,97,Male,Non-smoker,COPD,Drug B,20mg,Three times daily
+1251,28,Female,Ex-smoker,LRTI,Drug D,20mg,Three times daily
+1252,90,Male,Non-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+1253,17,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1254,34,Female,Active-smoker,LRTI,Drug D,5mg,Once daily
+1255,26,Female,Active-smoker,LRTI,Drug D,20mg,Three times daily
+1256,64,Female,Active-smoker,URTI,Drug D,5mg,Three times daily
+1257,12,Male,Active-smoker,Asthma,Drug D,10mg,Once daily
+1258,16,Female,Active-smoker,LRTI,Drug C,5mg,Three times daily
+1259,29,Female,Active-smoker,URTI,Drug D,10mg,Three times daily
+1260,76,Male,Ex-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+1261,20,Male,Non-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+1262,96,Female,Active-smoker,COPD,Drug C,5mg,Once daily
+1263,71,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1264,31,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1265,94,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1266,21,Male,Ex-smoker,Asthma,Drug C,5mg,Twice daily
+1267,9,Male,Non-smoker,Asthma,Drug A,10mg,Three times daily
+1268,23,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1269,25,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1270,15,Male,Ex-smoker,Asthma,Drug B,50mg,Three times daily
+1271,99,Female,Non-smoker,Pneumonia,Drug B,10mg,Twice daily
+1272,86,Male,Active-smoker,LRTI,Drug D,20mg,Twice daily
+1273,21,Female,Non-smoker,Pneumonia,Drug B,50mg,Three times daily
+1274,49,Female,Active-smoker,Bronchiectasis,Drug C,10mg,Once daily
+1275,94,Male,Ex-smoker,Pneumonia,Drug A,5mg,Once daily
+1276,1,Female,Ex-smoker,URTI,Drug C,20mg,Once daily
+1277,77,Female,Ex-smoker,COPD,Drug D,20mg,Three times daily
+1278,50,Female,Active-smoker,URTI,Drug A,10mg,Three times daily
+1279,75,Female,Non-smoker,COPD,Drug D,10mg,Once daily
+1280,7,Female,Active-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+1281,12,Male,Active-smoker,LRTI,Drug A,20mg,Three times daily
+1282,40,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+1283,91,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1284,76,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1285,22,Male,Non-smoker,Bronchiolitis,Drug B,10mg,Once daily
+1286,44,Female,Active-smoker,Pneumonia,Drug D,10mg,Twice daily
+1287,56,Female,Ex-smoker,Asthma,Drug B,5mg,Twice daily
+1288,79,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1289,82,Female,Non-smoker,LRTI,Drug A,10mg,Twice daily
+1290,77,Female,Active-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+1291,24,Male,Ex-smoker,Pneumonia,Drug A,20mg,Once daily
+1292,95,Female,Ex-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+1293,85,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1294,22,Female,Ex-smoker,URTI,Drug B,50mg,Once daily
+1295,98,Female,Ex-smoker,Pneumonia,Drug B,20mg,Once daily
+1296,73,Female,Ex-smoker,Asthma,Drug A,50mg,Three times daily
+1297,67,Male,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+1298,58,Male,Non-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+1299,13,Male,Ex-smoker,Asthma,Drug D,5mg,Once daily
+1300,50,Male,Active-smoker,Bronchiectasis,Drug C,20mg,Once daily
+1301,78,Female,Ex-smoker,URTI,Drug A,50mg,Once daily
+1302,87,Male,Ex-smoker,COPD,Drug C,50mg,Once daily
+1303,77,Female,Ex-smoker,URTI,Drug C,50mg,Twice daily
+1304,73,Female,Non-smoker,LRTI,Drug B,50mg,Three times daily
+1305,35,Male,Active-smoker,Pneumonia,Drug C,5mg,Once daily
+1306,14,Male,Non-smoker,LRTI,Drug A,50mg,Once daily
+1307,14,Female,Non-smoker,Bronchiolitis,Drug D,50mg,Twice daily
+1308,76,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1309,87,Male,Ex-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+1310,80,Female,Active-smoker,URTI,Drug B,10mg,Twice daily
+1311,36,Female,Active-smoker,Asthma,Drug D,5mg,Twice daily
+1312,9,Female,Ex-smoker,Asthma,Drug A,50mg,Three times daily
+1313,47,Female,Non-smoker,Asthma,Drug B,10mg,Once daily
+1314,68,Female,Ex-smoker,COPD,Drug C,50mg,Twice daily
+1315,64,Female,Ex-smoker,LRTI,Drug D,5mg,Once daily
+1316,79,Female,Active-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+1317,31,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1318,61,Female,Non-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1319,85,Male,Active-smoker,COPD,Drug B,5mg,Once daily
+1320,84,Female,Non-smoker,URTI,Drug A,10mg,Twice daily
+1321,2,Male,Active-smoker,URTI,Drug B,5mg,Three times daily
+1322,69,Female,Ex-smoker,Asthma,Drug B,5mg,Once daily
+1323,1,Male,Active-smoker,URTI,Drug A,5mg,Twice daily
+1324,85,Female,Ex-smoker,COPD,Drug B,20mg,Once daily
+1325,61,Male,Ex-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+1326,97,Male,Active-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+1327,82,Female,Non-smoker,URTI,Drug B,5mg,Twice daily
+1328,52,Female,Non-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+1329,44,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Once daily
+1330,17,Male,Active-smoker,Asthma,Drug C,10mg,Once daily
+1331,47,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Once daily
+1332,87,Female,Active-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+1333,34,Female,Ex-smoker,Bronchiolitis,Drug A,20mg,Three times daily
+1334,32,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1335,88,Male,Active-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+1336,97,Male,Non-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+1337,2,Female,Active-smoker,URTI,Drug C,50mg,Three times daily
+1338,39,Male,Ex-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+1339,66,Male,Active-smoker,Bronchiectasis,Drug A,20mg,Once daily
+1340,37,Male,Ex-smoker,Asthma,Drug A,20mg,Three times daily
+1341,24,Male,Ex-smoker,LRTI,Drug C,50mg,Three times daily
+1342,47,Female,Non-smoker,COPD,Drug C,10mg,Once daily
+1343,13,Female,Non-smoker,URTI,Drug C,5mg,Twice daily
+1344,11,Female,Non-smoker,LRTI,Drug B,50mg,Once daily
+1345,42,Male,Active-smoker,URTI,Drug B,50mg,Once daily
+1346,84,Male,Active-smoker,LRTI,Drug A,50mg,Once daily
+1347,75,Male,Non-smoker,COPD,Drug A,20mg,Three times daily
+1348,55,Female,Active-smoker,URTI,Drug C,20mg,Twice daily
+1349,93,Female,Active-smoker,URTI,Drug D,20mg,Twice daily
+1350,10,Female,Active-smoker,URTI,Drug C,50mg,Twice daily
+1351,40,Female,Ex-smoker,COPD,Drug B,20mg,Three times daily
+1352,99,Male,Non-smoker,URTI,Drug A,5mg,Twice daily
+1353,98,Male,Ex-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+1354,89,Male,Active-smoker,LRTI,Drug A,5mg,Once daily
+1355,56,Male,Non-smoker,COPD,Drug B,20mg,Twice daily
+1356,44,Male,Ex-smoker,COPD,Drug A,50mg,Once daily
+1357,40,Female,Active-smoker,Pneumonia,Drug B,20mg,Once daily
+1358,99,Male,Ex-smoker,Pneumonia,Drug D,10mg,Once daily
+1359,86,Female,Non-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+1360,56,Male,Ex-smoker,URTI,Drug B,5mg,Three times daily
+1361,51,Male,Active-smoker,Asthma,Drug A,10mg,Three times daily
+1362,67,Female,Non-smoker,Bronchiectasis,Drug B,10mg,Twice daily
+1363,63,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Once daily
+1364,51,Male,Non-smoker,URTI,Drug C,10mg,Twice daily
+1365,47,Male,Active-smoker,COPD,Drug C,50mg,Three times daily
+1366,51,Female,Non-smoker,Pneumonia,Drug B,50mg,Three times daily
+1367,94,Female,Active-smoker,LRTI,Drug A,50mg,Once daily
+1368,62,Female,Active-smoker,COPD,Drug B,50mg,Twice daily
+1369,40,Female,Ex-smoker,Bronchiectasis,Drug A,20mg,Once daily
+1370,98,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1371,64,Male,Active-smoker,Bronchiectasis,Drug A,10mg,Once daily
+1372,92,Male,Non-smoker,Bronchiolitis,Drug D,50mg,Once daily
+1373,74,Male,Ex-smoker,Asthma,Drug D,20mg,Three times daily
+1374,70,Male,Non-smoker,LRTI,Drug A,50mg,Once daily
+1375,43,Female,Active-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+1376,17,Female,Ex-smoker,Pneumonia,Drug D,20mg,Three times daily
+1377,56,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1378,41,Female,Non-smoker,URTI,Drug D,5mg,Once daily
+1379,44,Female,Ex-smoker,Bronchiectasis,Drug D,20mg,Once daily
+1380,61,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1381,79,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1382,69,Female,Active-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+1383,40,Female,Non-smoker,Asthma,Drug C,20mg,Three times daily
+1384,20,Male,Non-smoker,LRTI,Drug B,50mg,Twice daily
+1385,91,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1386,80,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1387,34,Male,Non-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+1388,74,Female,Non-smoker,Pneumonia,Drug B,10mg,Once daily
+1389,62,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1390,47,Male,Non-smoker,COPD,Drug D,10mg,Twice daily
+1391,68,Female,Non-smoker,COPD,Drug B,10mg,Three times daily
+1392,23,Male,Non-smoker,URTI,Drug A,20mg,Twice daily
+1393,9,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1394,77,Male,Active-smoker,URTI,Drug B,5mg,Once daily
+1395,83,Female,Non-smoker,Bronchiolitis,Drug C,10mg,Three times daily
+1396,57,Female,Ex-smoker,COPD,Drug A,20mg,Once daily
+1397,96,Male,Non-smoker,COPD,Drug B,10mg,Once daily
+1398,79,Female,Non-smoker,Pneumonia,Drug D,10mg,Three times daily
+1399,74,Female,Active-smoker,Asthma,Drug C,5mg,Once daily
+1400,38,Male,Active-smoker,Pneumonia,Drug A,5mg,Three times daily
+1401,64,Male,Ex-smoker,COPD,Drug C,5mg,Three times daily
+1402,19,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1403,35,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1404,68,Female,Non-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+1405,65,Male,Ex-smoker,URTI,Drug D,20mg,Three times daily
+1406,90,Male,Non-smoker,Asthma,Drug D,20mg,Once daily
+1407,71,Male,Non-smoker,URTI,Drug B,5mg,Twice daily
+1408,56,Female,Ex-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+1409,91,Male,Ex-smoker,LRTI,Drug C,10mg,Twice daily
+1410,72,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1411,38,Male,Active-smoker,URTI,Drug A,10mg,Twice daily
+1412,84,Male,Non-smoker,Asthma,Drug B,20mg,Twice daily
+1413,9,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1414,36,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1415,80,Male,Active-smoker,LRTI,Drug A,20mg,Once daily
+1416,23,Male,Non-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+1417,17,Male,Non-smoker,URTI,Drug D,20mg,Twice daily
+1418,57,Female,Active-smoker,Bronchiolitis,Drug D,5mg,Three times daily
+1419,17,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Once daily
+1420,66,Male,Non-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+1421,28,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1422,4,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1423,91,Male,Active-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+1424,72,Female,Active-smoker,Asthma,Drug C,10mg,Twice daily
+1425,58,Female,Active-smoker,COPD,Drug A,5mg,Once daily
+1426,58,Female,Active-smoker,Bronchiolitis,Drug A,5mg,Once daily
+1427,77,Female,Active-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+1428,47,Male,Active-smoker,Bronchiolitis,Drug B,50mg,Once daily
+1429,44,Male,Non-smoker,Bronchiolitis,Drug A,20mg,Once daily
+1430,65,Female,Active-smoker,URTI,Drug A,50mg,Twice daily
+1431,42,Female,Non-smoker,Pneumonia,Drug A,20mg,Once daily
+1432,13,Male,Active-smoker,LRTI,Drug A,50mg,Twice daily
+1433,54,Female,Ex-smoker,LRTI,Drug C,5mg,Three times daily
+1434,95,Female,Non-smoker,URTI,Drug D,10mg,Twice daily
+1435,61,Male,Ex-smoker,Asthma,Drug C,10mg,Once daily
+1436,10,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1437,89,Female,Active-smoker,Asthma,Drug A,20mg,Three times daily
+1438,68,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Once daily
+1439,71,Female,Active-smoker,LRTI,Drug D,5mg,Three times daily
+1440,61,Male,Ex-smoker,URTI,Drug A,5mg,Twice daily
+1441,93,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1442,27,Female,Active-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+1443,62,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Once daily
+1444,16,Female,Active-smoker,Pneumonia,Drug D,50mg,Three times daily
+1445,16,Female,Active-smoker,URTI,Drug A,20mg,Three times daily
+1446,7,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1447,29,Female,Non-smoker,LRTI,Drug A,20mg,Twice daily
+1448,51,Female,Active-smoker,LRTI,Drug A,50mg,Three times daily
+1449,56,Female,Non-smoker,COPD,Drug A,10mg,Three times daily
+1450,50,Male,Non-smoker,LRTI,Drug B,50mg,Twice daily
+1451,63,Female,Non-smoker,Pneumonia,Drug B,10mg,Twice daily
+1452,73,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+1453,25,Female,Non-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+1454,90,Male,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+1455,80,Male,Ex-smoker,Bronchiectasis,Drug D,50mg,Once daily
+1456,76,Female,Ex-smoker,Asthma,Drug A,10mg,Once daily
+1457,24,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1458,19,Male,Ex-smoker,Pneumonia,Drug A,20mg,Three times daily
+1459,59,Female,Non-smoker,LRTI,Drug A,10mg,Twice daily
+1460,45,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1461,15,Male,Non-smoker,Asthma,Drug B,50mg,Three times daily
+1462,73,Male,Active-smoker,COPD,Drug D,10mg,Three times daily
+1463,23,Male,Active-smoker,Asthma,Drug D,50mg,Twice daily
+1464,23,Male,Non-smoker,URTI,Drug A,50mg,Once daily
+1465,25,Female,Active-smoker,Pneumonia,Drug B,20mg,Three times daily
+1466,70,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1467,51,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1468,29,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1469,50,Male,Active-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+1470,53,Female,Non-smoker,Asthma,Drug D,5mg,Twice daily
+1471,97,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1472,64,Male,Active-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+1473,47,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Once daily
+1474,75,Female,Ex-smoker,COPD,Drug A,50mg,Three times daily
+1475,96,Male,Ex-smoker,Pneumonia,Drug A,10mg,Three times daily
+1476,94,Male,Non-smoker,Bronchiectasis,Drug C,50mg,Twice daily
+1477,57,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1478,25,Female,Non-smoker,Asthma,Drug B,50mg,Three times daily
+1479,46,Male,Non-smoker,Asthma,Drug A,20mg,Three times daily
+1480,63,Female,Non-smoker,URTI,Drug C,50mg,Twice daily
+1481,71,Male,Active-smoker,Bronchiectasis,Drug C,50mg,Once daily
+1482,27,Male,Active-smoker,LRTI,Drug A,20mg,Twice daily
+1483,70,Female,Non-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+1484,67,Male,Non-smoker,Pneumonia,Drug C,20mg,Twice daily
+1485,58,Female,Non-smoker,COPD,Drug C,50mg,Three times daily
+1486,62,Female,Active-smoker,Pneumonia,Drug C,20mg,Three times daily
+1487,77,Male,Non-smoker,Pneumonia,Drug D,10mg,Once daily
+1488,84,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1489,91,Male,Ex-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+1490,87,Female,Non-smoker,Asthma,Drug C,20mg,Twice daily
+1491,99,Female,Ex-smoker,Pneumonia,Drug B,10mg,Three times daily
+1492,92,Male,Active-smoker,COPD,Drug D,50mg,Three times daily
+1493,94,Female,Ex-smoker,LRTI,Drug D,20mg,Once daily
+1494,89,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1495,15,Male,Ex-smoker,URTI,Drug D,20mg,Twice daily
+1496,28,Male,Non-smoker,Pneumonia,Drug D,10mg,Twice daily
+1497,76,Male,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+1498,93,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1499,8,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+1500,99,Female,Active-smoker,Asthma,Drug C,50mg,Three times daily
+1501,51,Female,Ex-smoker,LRTI,Drug B,50mg,Three times daily
+1502,24,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1503,88,Male,Ex-smoker,Bronchiectasis,Drug C,5mg,Once daily
+1504,52,Female,Non-smoker,Asthma,Drug D,20mg,Once daily
+1505,59,Male,Ex-smoker,LRTI,Drug B,5mg,Twice daily
+1506,4,Female,Active-smoker,LRTI,Drug D,20mg,Twice daily
+1507,47,Female,Non-smoker,Asthma,Drug D,50mg,Three times daily
+1508,74,Male,Non-smoker,Asthma,Drug C,10mg,Twice daily
+1509,51,Female,Ex-smoker,Pneumonia,Drug B,20mg,Once daily
+1510,22,Female,Active-smoker,Asthma,Drug B,10mg,Three times daily
+1511,77,Female,Ex-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+1512,37,Male,Active-smoker,Pneumonia,Drug D,10mg,Once daily
+1513,94,Female,Non-smoker,Pneumonia,Drug C,20mg,Twice daily
+1514,98,Female,Ex-smoker,COPD,Drug B,10mg,Once daily
+1515,51,Female,Non-smoker,Asthma,Drug C,20mg,Twice daily
+1516,83,Female,Ex-smoker,Bronchiolitis,Drug A,20mg,Once daily
+1517,61,Male,Non-smoker,Bronchiectasis,Drug B,5mg,Once daily
+1518,73,Male,Active-smoker,Bronchiolitis,Drug D,10mg,Once daily
+1519,59,Female,Non-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+1520,79,Female,Active-smoker,LRTI,Drug D,5mg,Three times daily
+1521,53,Female,Non-smoker,URTI,Drug D,50mg,Three times daily
+1522,54,Female,Active-smoker,URTI,Drug A,20mg,Twice daily
+1523,78,Female,Ex-smoker,LRTI,Drug A,5mg,Twice daily
+1524,44,Female,Active-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+1525,66,Female,Non-smoker,URTI,Drug D,10mg,Twice daily
+1526,51,Male,Active-smoker,COPD,Drug C,20mg,Three times daily
+1527,95,Male,Non-smoker,URTI,Drug A,50mg,Once daily
+1528,61,Male,Active-smoker,Asthma,Drug D,10mg,Three times daily
+1529,93,Female,Active-smoker,LRTI,Drug D,50mg,Three times daily
+1530,66,Male,Active-smoker,Pneumonia,Drug B,5mg,Once daily
+1531,10,Male,Non-smoker,LRTI,Drug B,5mg,Twice daily
+1532,9,Female,Active-smoker,URTI,Drug A,10mg,Twice daily
+1533,40,Male,Active-smoker,COPD,Drug A,5mg,Three times daily
+1534,45,Male,Non-smoker,Bronchiectasis,Drug C,10mg,Once daily
+1535,72,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1536,21,Male,Non-smoker,LRTI,Drug B,20mg,Once daily
+1537,88,Female,Active-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+1538,32,Male,Ex-smoker,Asthma,Drug C,10mg,Twice daily
+1539,75,Female,Ex-smoker,COPD,Drug D,10mg,Once daily
+1540,57,Male,Active-smoker,COPD,Drug A,10mg,Three times daily
+1541,77,Male,Ex-smoker,URTI,Drug C,50mg,Three times daily
+1542,22,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+1543,15,Male,Non-smoker,URTI,Drug B,20mg,Twice daily
+1544,76,Male,Ex-smoker,LRTI,Drug A,20mg,Three times daily
+1545,71,Male,Active-smoker,Bronchiectasis,Drug C,5mg,Once daily
+1546,53,Female,Active-smoker,LRTI,Drug A,10mg,Twice daily
+1547,1,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1548,97,Female,Non-smoker,COPD,Drug B,20mg,Once daily
+1549,30,Male,Active-smoker,Asthma,Drug C,5mg,Three times daily
+1550,45,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1551,54,Male,Active-smoker,URTI,Drug C,20mg,Three times daily
+1552,31,Female,Ex-smoker,Pneumonia,Drug C,50mg,Once daily
+1553,69,Female,Active-smoker,Asthma,Drug D,20mg,Twice daily
+1554,49,Female,Active-smoker,LRTI,Drug B,20mg,Twice daily
+1555,89,Female,Ex-smoker,LRTI,Drug D,10mg,Once daily
+1556,79,Female,Active-smoker,COPD,Drug B,10mg,Twice daily
+1557,89,Male,Active-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+1558,94,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1559,17,Female,Non-smoker,Asthma,Drug C,5mg,Twice daily
+1560,65,Male,Non-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+1561,70,Male,Active-smoker,COPD,Drug C,50mg,Once daily
+1562,3,Female,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1563,76,Female,Ex-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+1564,81,Female,Active-smoker,Bronchiectasis,Drug C,50mg,Once daily
+1565,54,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+1566,84,Female,Active-smoker,URTI,Drug D,5mg,Three times daily
+1567,25,Female,Active-smoker,Asthma,Drug D,5mg,Once daily
+1568,32,Female,Non-smoker,URTI,Drug D,5mg,Three times daily
+1569,88,Female,Ex-smoker,LRTI,Drug B,20mg,Once daily
+1570,35,Female,Active-smoker,URTI,Drug D,20mg,Three times daily
+1571,45,Female,Active-smoker,URTI,Drug A,10mg,Twice daily
+1572,86,Female,Non-smoker,COPD,Drug B,10mg,Twice daily
+1573,45,Female,Non-smoker,COPD,Drug A,50mg,Three times daily
+1574,37,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1575,91,Female,Non-smoker,URTI,Drug D,50mg,Once daily
+1576,82,Female,Non-smoker,COPD,Drug B,20mg,Once daily
+1577,46,Male,Active-smoker,COPD,Drug C,5mg,Twice daily
+1578,97,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1579,26,Male,Non-smoker,Bronchiolitis,Drug B,50mg,Once daily
+1580,58,Female,Ex-smoker,Bronchiectasis,Drug B,50mg,Once daily
+1581,77,Female,Non-smoker,COPD,Drug A,10mg,Three times daily
+1582,35,Female,Non-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+1583,36,Male,Non-smoker,Pneumonia,Drug D,50mg,Twice daily
+1584,76,Female,Active-smoker,Asthma,Drug B,50mg,Three times daily
+1585,98,Male,Ex-smoker,Asthma,Drug B,50mg,Twice daily
+1586,85,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1587,43,Male,Active-smoker,Bronchiectasis,Drug D,50mg,Three times daily
+1588,90,Male,Active-smoker,COPD,Drug B,20mg,Twice daily
+1589,48,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1590,53,Male,Active-smoker,COPD,Drug B,5mg,Once daily
+1591,68,Male,Ex-smoker,COPD,Drug B,10mg,Once daily
+1592,18,Male,Active-smoker,Bronchiolitis,Drug D,50mg,Three times daily
+1593,62,Male,Non-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+1594,62,Female,Ex-smoker,Pneumonia,Drug C,5mg,Twice daily
+1595,96,Female,Ex-smoker,Bronchiectasis,Drug D,10mg,Once daily
+1596,51,Male,Active-smoker,Pneumonia,Drug C,10mg,Once daily
+1597,78,Female,Non-smoker,LRTI,Drug B,5mg,Twice daily
+1598,68,Female,Active-smoker,COPD,Drug A,20mg,Twice daily
+1599,78,Male,Non-smoker,URTI,Drug D,50mg,Twice daily
+1600,68,Female,Active-smoker,COPD,Drug B,20mg,Once daily
+1601,59,Female,Non-smoker,Asthma,Drug A,10mg,Twice daily
+1602,42,Female,Non-smoker,COPD,Drug A,20mg,Three times daily
+1603,48,Female,Active-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+1604,23,Male,Active-smoker,Pneumonia,Drug C,10mg,Three times daily
+1605,29,Female,Ex-smoker,URTI,Drug C,50mg,Once daily
+1606,52,Male,Non-smoker,COPD,Drug C,10mg,Three times daily
+1607,91,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+1608,75,Male,Non-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+1609,14,Female,Non-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+1610,99,Female,Active-smoker,LRTI,Drug A,20mg,Twice daily
+1611,15,Female,Active-smoker,Asthma,Drug C,10mg,Twice daily
+1612,40,Female,Ex-smoker,Bronchiolitis,Drug A,10mg,Three times daily
+1613,13,Female,Non-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+1614,88,Male,Active-smoker,COPD,Drug B,10mg,Once daily
+1615,78,Female,Ex-smoker,LRTI,Drug A,20mg,Once daily
+1616,91,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1617,85,Male,Ex-smoker,Bronchiectasis,Drug C,50mg,Once daily
+1618,23,Male,Active-smoker,URTI,Drug D,20mg,Three times daily
+1619,61,Male,Non-smoker,Bronchiectasis,Drug D,5mg,Twice daily
+1620,68,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1621,91,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1622,36,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1623,43,Female,Active-smoker,Bronchiectasis,Drug A,5mg,Once daily
+1624,41,Female,Ex-smoker,Pneumonia,Drug C,5mg,Three times daily
+1625,41,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Once daily
+1626,22,Male,Active-smoker,Pneumonia,Drug B,5mg,Once daily
+1627,76,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Twice daily
+1628,83,Male,Non-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+1629,41,Male,Non-smoker,Bronchiectasis,Drug A,20mg,Once daily
+1630,90,Male,Ex-smoker,Bronchiectasis,Drug A,10mg,Once daily
+1631,44,Female,Non-smoker,URTI,Drug A,5mg,Three times daily
+1632,96,Female,Ex-smoker,Pneumonia,Drug B,10mg,Twice daily
+1633,94,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1634,35,Female,Non-smoker,Pneumonia,Drug D,20mg,Three times daily
+1635,72,Female,Ex-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+1636,96,Male,Non-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+1637,52,Female,Active-smoker,LRTI,Drug C,20mg,Once daily
+1638,59,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1639,27,Female,Active-smoker,URTI,Drug D,5mg,Twice daily
+1640,13,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1641,81,Male,Non-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+1642,45,Female,Non-smoker,Asthma,Drug C,10mg,Three times daily
+1643,61,Male,Ex-smoker,LRTI,Drug C,10mg,Three times daily
+1644,66,Female,Active-smoker,Bronchiolitis,Drug C,5mg,Once daily
+1645,45,Male,Ex-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+1646,67,Male,Active-smoker,Pneumonia,Drug D,20mg,Twice daily
+1647,58,Female,Active-smoker,Bronchiectasis,Drug D,50mg,Twice daily
+1648,20,Female,Active-smoker,Pneumonia,Drug B,20mg,Three times daily
+1649,68,Male,Active-smoker,COPD,Drug A,10mg,Twice daily
+1650,69,Female,Active-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+1651,95,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1652,52,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1653,24,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1654,32,Male,Ex-smoker,URTI,Drug B,5mg,Three times daily
+1655,80,Female,Ex-smoker,Pneumonia,Drug D,50mg,Twice daily
+1656,11,Female,Active-smoker,Pneumonia,Drug D,5mg,Three times daily
+1657,62,Male,Active-smoker,COPD,Drug A,50mg,Three times daily
+1658,54,Male,Ex-smoker,COPD,Drug B,50mg,Twice daily
+1659,77,Female,Ex-smoker,LRTI,Drug C,5mg,Twice daily
+1660,21,Male,Non-smoker,Asthma,Drug C,50mg,Once daily
+1661,66,Male,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+1662,4,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1663,51,Male,Active-smoker,Pneumonia,Drug B,10mg,Three times daily
+1664,13,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1665,17,Female,Active-smoker,LRTI,Drug D,20mg,Twice daily
+1666,12,Female,Active-smoker,Asthma,Drug D,50mg,Twice daily
+1667,75,Male,Ex-smoker,COPD,Drug B,20mg,Once daily
+1668,71,Male,Non-smoker,Bronchiolitis,Drug D,50mg,Three times daily
+1669,33,Male,Non-smoker,URTI,Drug C,10mg,Once daily
+1670,27,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1671,81,Female,Ex-smoker,COPD,Drug D,10mg,Twice daily
+1672,43,Female,Non-smoker,Asthma,Drug A,50mg,Once daily
+1673,48,Male,Non-smoker,Asthma,Drug B,5mg,Three times daily
+1674,8,Female,Ex-smoker,Pneumonia,Drug A,50mg,Once daily
+1675,62,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1676,56,Male,Ex-smoker,COPD,Drug D,10mg,Once daily
+1677,10,Male,Ex-smoker,URTI,Drug A,10mg,Twice daily
+1678,26,Female,Ex-smoker,LRTI,Drug C,5mg,Three times daily
+1679,22,Female,Active-smoker,Pneumonia,Drug B,50mg,Twice daily
+1680,83,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+1681,82,Male,Ex-smoker,COPD,Drug A,10mg,Once daily
+1682,89,Female,Non-smoker,Pneumonia,Drug A,20mg,Three times daily
+1683,41,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+1684,87,Female,Active-smoker,URTI,Drug A,20mg,Three times daily
+1685,66,Female,Non-smoker,URTI,Drug C,10mg,Three times daily
+1686,26,Male,Ex-smoker,LRTI,Drug D,50mg,Twice daily
+1687,91,Female,Active-smoker,URTI,Drug B,50mg,Three times daily
+1688,75,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1689,87,Male,Ex-smoker,LRTI,Drug A,10mg,Three times daily
+1690,66,Male,Active-smoker,LRTI,Drug D,20mg,Twice daily
+1691,8,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1692,81,Male,Non-smoker,Pneumonia,Drug B,20mg,Three times daily
+1693,93,Female,Active-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+1694,97,Male,Non-smoker,COPD,Drug C,20mg,Three times daily
+1695,92,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1696,39,Female,Active-smoker,LRTI,Drug B,5mg,Twice daily
+1697,38,Male,Ex-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+1698,20,Male,Ex-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+1699,30,Male,Active-smoker,Asthma,Drug B,50mg,Once daily
+1700,25,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1701,89,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1702,77,Female,Active-smoker,URTI,Drug B,10mg,Twice daily
+1703,67,Male,Non-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+1704,34,Male,Non-smoker,Asthma,Drug C,10mg,Twice daily
+1705,34,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1706,96,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1707,92,Male,Active-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+1708,29,Female,Non-smoker,Pneumonia,Drug D,50mg,Once daily
+1709,86,Female,Ex-smoker,URTI,Drug C,5mg,Twice daily
+1710,73,Male,Ex-smoker,COPD,Drug B,20mg,Twice daily
+1711,48,Female,Non-smoker,Pneumonia,Drug D,50mg,Twice daily
+1712,30,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1713,20,Male,Active-smoker,LRTI,Drug C,5mg,Three times daily
+1714,84,Male,Active-smoker,COPD,Drug D,50mg,Once daily
+1715,70,Female,Ex-smoker,LRTI,Drug D,20mg,Once daily
+1716,44,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1717,11,Male,Non-smoker,Asthma,Drug D,10mg,Three times daily
+1718,66,Male,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+1719,28,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1720,15,Female,Ex-smoker,Asthma,Drug D,20mg,Three times daily
+1721,82,Female,Ex-smoker,LRTI,Drug D,20mg,Twice daily
+1722,81,Male,Ex-smoker,Asthma,Drug D,50mg,Three times daily
+1723,31,Female,Active-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+1724,45,Male,Non-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+1725,29,Male,Non-smoker,Asthma,Drug D,20mg,Twice daily
+1726,41,Female,Non-smoker,Bronchiectasis,Drug A,5mg,Three times daily
+1727,75,Female,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+1728,67,Male,Active-smoker,Pneumonia,Drug D,20mg,Three times daily
+1729,72,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Once daily
+1730,97,Male,Ex-smoker,COPD,Drug C,5mg,Once daily
+1731,81,Female,Ex-smoker,Bronchiolitis,Drug D,20mg,Once daily
+1732,44,Female,Non-smoker,Asthma,Drug B,20mg,Once daily
+1733,66,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1734,96,Female,Active-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+1735,56,Male,Ex-smoker,Bronchiectasis,Drug C,5mg,Once daily
+1736,3,Male,Non-smoker,Asthma,Drug C,5mg,Three times daily
+1737,99,Male,Ex-smoker,COPD,Drug B,50mg,Once daily
+1738,52,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+1739,53,Female,Non-smoker,Pneumonia,Drug B,10mg,Twice daily
+1740,91,Male,Non-smoker,Pneumonia,Drug D,5mg,Once daily
+1741,71,Female,Active-smoker,LRTI,Drug C,20mg,Twice daily
+1742,33,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1743,57,Female,Non-smoker,Asthma,Drug D,20mg,Once daily
+1744,70,Male,Active-smoker,URTI,Drug D,50mg,Twice daily
+1745,15,Female,Non-smoker,LRTI,Drug C,10mg,Once daily
+1746,70,Female,Active-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+1747,57,Female,Ex-smoker,COPD,Drug D,20mg,Twice daily
+1748,69,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1749,34,Male,Ex-smoker,URTI,Drug D,50mg,Once daily
+1750,76,Male,Active-smoker,Pneumonia,Drug D,50mg,Once daily
+1751,84,Male,Ex-smoker,Asthma,Drug B,10mg,Three times daily
+1752,88,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1753,80,Female,Active-smoker,Pneumonia,Drug A,10mg,Twice daily
+1754,69,Male,Active-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+1755,90,Male,Non-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+1756,21,Female,Ex-smoker,Pneumonia,Drug C,20mg,Once daily
+1757,76,Male,Ex-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+1758,90,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1759,62,Male,Ex-smoker,LRTI,Drug B,20mg,Three times daily
+1760,75,Male,Non-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+1761,49,Male,Active-smoker,Asthma,Drug C,20mg,Three times daily
+1762,71,Male,Active-smoker,Bronchiolitis,Drug D,20mg,Once daily
+1763,42,Female,Ex-smoker,COPD,Drug B,20mg,Once daily
+1764,49,Male,Ex-smoker,Bronchiectasis,Drug A,10mg,Twice daily
+1765,91,Male,Non-smoker,COPD,Drug A,50mg,Three times daily
+1766,59,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1767,71,Male,Non-smoker,LRTI,Drug A,20mg,Twice daily
+1768,99,Female,Ex-smoker,URTI,Drug A,50mg,Three times daily
+1769,57,Female,Non-smoker,Asthma,Drug A,10mg,Three times daily
+1770,20,Male,Non-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+1771,9,Female,Non-smoker,Bronchiolitis,Drug C,10mg,Once daily
+1772,78,Male,Non-smoker,COPD,Drug D,5mg,Twice daily
+1773,67,Female,Active-smoker,Pneumonia,Drug D,10mg,Twice daily
+1774,51,Female,Ex-smoker,COPD,Drug A,5mg,Twice daily
+1775,91,Male,Ex-smoker,Asthma,Drug B,5mg,Twice daily
+1776,83,Male,Active-smoker,Bronchiectasis,Drug D,50mg,Once daily
+1777,28,Female,Active-smoker,URTI,Drug C,20mg,Twice daily
+1778,54,Male,Ex-smoker,LRTI,Drug A,10mg,Once daily
+1779,76,Male,Ex-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+1780,35,Female,Non-smoker,Pneumonia,Drug B,10mg,Once daily
+1781,57,Female,Active-smoker,COPD,Drug A,5mg,Twice daily
+1782,66,Male,Active-smoker,Bronchiectasis,Drug A,5mg,Once daily
+1783,63,Female,Non-smoker,Asthma,Drug C,5mg,Twice daily
+1784,9,Female,Ex-smoker,LRTI,Drug B,20mg,Once daily
+1785,59,Male,Active-smoker,URTI,Drug A,20mg,Once daily
+1786,79,Female,Active-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+1787,91,Female,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1788,72,Female,Active-smoker,LRTI,Drug D,20mg,Once daily
+1789,54,Female,Ex-smoker,Asthma,Drug B,10mg,Once daily
+1790,93,Male,Active-smoker,LRTI,Drug A,20mg,Twice daily
+1791,73,Female,Ex-smoker,LRTI,Drug B,5mg,Three times daily
+1792,73,Female,Ex-smoker,COPD,Drug B,50mg,Once daily
+1793,92,Male,Ex-smoker,LRTI,Drug D,10mg,Once daily
+1794,93,Male,Ex-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+1795,61,Male,Non-smoker,COPD,Drug B,10mg,Once daily
+1796,84,Female,Non-smoker,COPD,Drug C,5mg,Once daily
+1797,64,Female,Ex-smoker,Pneumonia,Drug D,5mg,Three times daily
+1798,11,Female,Ex-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+1799,78,Male,Ex-smoker,COPD,Drug A,5mg,Once daily
+1800,2,Female,Non-smoker,Pneumonia,Drug D,5mg,Once daily
+1801,37,Male,Active-smoker,URTI,Drug B,10mg,Three times daily
+1802,97,Male,Active-smoker,LRTI,Drug A,5mg,Once daily
+1803,97,Female,Non-smoker,Asthma,Drug D,20mg,Three times daily
+1804,16,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1805,71,Male,Ex-smoker,Asthma,Drug D,10mg,Three times daily
+1806,5,Male,Non-smoker,Bronchiolitis,Drug B,50mg,Once daily
+1807,66,Female,Active-smoker,Bronchiectasis,Drug D,5mg,Once daily
+1808,42,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1809,62,Female,Ex-smoker,URTI,Drug C,5mg,Once daily
+1810,2,Male,Non-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+1811,22,Female,Active-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+1812,8,Male,Ex-smoker,LRTI,Drug D,5mg,Three times daily
+1813,75,Female,Non-smoker,COPD,Drug C,5mg,Twice daily
+1814,22,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+1815,34,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1816,52,Female,Active-smoker,Pneumonia,Drug B,20mg,Twice daily
+1817,85,Female,Ex-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+1818,89,Male,Ex-smoker,Bronchiectasis,Drug D,50mg,Three times daily
+1819,31,Male,Non-smoker,LRTI,Drug A,20mg,Once daily
+1820,65,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1821,80,Male,Ex-smoker,URTI,Drug D,50mg,Once daily
+1822,64,Male,Non-smoker,COPD,Drug C,50mg,Once daily
+1823,46,Female,Active-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1824,17,Female,Ex-smoker,URTI,Drug B,10mg,Twice daily
+1825,39,Male,Ex-smoker,LRTI,Drug C,20mg,Three times daily
+1826,3,Female,Non-smoker,Asthma,Drug D,20mg,Twice daily
+1827,98,Male,Ex-smoker,COPD,Drug C,50mg,Twice daily
+1828,5,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1829,89,Female,Ex-smoker,Bronchiectasis,Drug D,50mg,Twice daily
+1830,57,Female,Non-smoker,Asthma,Drug C,50mg,Three times daily
+1831,22,Male,Non-smoker,Asthma,Drug A,5mg,Once daily
+1832,55,Female,Active-smoker,URTI,Drug B,10mg,Once daily
+1833,25,Male,Non-smoker,LRTI,Drug B,5mg,Twice daily
+1834,35,Female,Non-smoker,LRTI,Drug A,10mg,Twice daily
+1835,27,Female,Non-smoker,Pneumonia,Drug B,10mg,Twice daily
+1836,57,Female,Active-smoker,COPD,Drug D,5mg,Twice daily
+1837,75,Male,Non-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+1838,22,Female,Non-smoker,Pneumonia,Drug C,50mg,Once daily
+1839,96,Female,Ex-smoker,COPD,Drug A,50mg,Twice daily
+1840,11,Female,Non-smoker,Pneumonia,Drug C,10mg,Once daily
+1841,59,Female,Ex-smoker,COPD,Drug B,5mg,Once daily
+1842,46,Male,Active-smoker,Pneumonia,Drug D,10mg,Once daily
+1843,66,Female,Non-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+1844,48,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1845,75,Male,Active-smoker,COPD,Drug B,5mg,Twice daily
+1846,87,Male,Active-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+1847,86,Female,Ex-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+1848,9,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1849,67,Female,Ex-smoker,Bronchiolitis,Drug A,10mg,Three times daily
+1850,30,Female,Active-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1851,11,Female,Ex-smoker,URTI,Drug C,20mg,Three times daily
+1852,21,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1853,56,Male,Ex-smoker,COPD,Drug B,10mg,Three times daily
+1854,52,Female,Non-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+1855,89,Male,Non-smoker,Bronchiectasis,Drug A,10mg,Twice daily
+1856,49,Female,Non-smoker,COPD,Drug D,10mg,Three times daily
+1857,71,Female,Non-smoker,Pneumonia,Drug C,50mg,Twice daily
+1858,47,Female,Active-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+1859,82,Male,Active-smoker,COPD,Drug A,10mg,Three times daily
+1860,77,Male,Active-smoker,Bronchiectasis,Drug D,20mg,Once daily
+1861,91,Female,Non-smoker,URTI,Drug B,10mg,Three times daily
+1862,77,Male,Non-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+1863,43,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1864,59,Female,Active-smoker,Pneumonia,Drug B,20mg,Twice daily
+1865,47,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Once daily
+1866,16,Female,Non-smoker,Pneumonia,Drug B,50mg,Three times daily
+1867,64,Male,Non-smoker,COPD,Drug C,10mg,Once daily
+1868,51,Male,Active-smoker,URTI,Drug D,5mg,Once daily
+1869,34,Female,Active-smoker,Asthma,Drug A,20mg,Three times daily
+1870,12,Male,Active-smoker,LRTI,Drug C,50mg,Once daily
+1871,62,Male,Ex-smoker,Asthma,Drug B,5mg,Twice daily
+1872,90,Female,Non-smoker,COPD,Drug A,5mg,Once daily
+1873,52,Male,Ex-smoker,COPD,Drug D,10mg,Three times daily
+1874,80,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+1875,88,Female,Ex-smoker,Bronchiolitis,Drug B,5mg,Once daily
+1876,91,Male,Non-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+1877,74,Female,Ex-smoker,COPD,Drug B,20mg,Once daily
+1878,30,Male,Ex-smoker,Pneumonia,Drug A,50mg,Twice daily
+1879,3,Male,Ex-smoker,Bronchiolitis,Drug C,10mg,Twice daily
+1880,78,Female,Ex-smoker,Asthma,Drug B,10mg,Three times daily
+1881,69,Female,Active-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+1882,49,Male,Non-smoker,Pneumonia,Drug C,5mg,Twice daily
+1883,81,Male,Active-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+1884,71,Male,Ex-smoker,COPD,Drug B,10mg,Twice daily
+1885,39,Female,Active-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+1886,60,Male,Non-smoker,LRTI,Drug C,10mg,Once daily
+1887,87,Male,Active-smoker,Bronchiectasis,Drug D,50mg,Three times daily
+1888,98,Female,Active-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+1889,45,Female,Non-smoker,Asthma,Drug D,20mg,Twice daily
+1890,75,Male,Ex-smoker,LRTI,Drug D,20mg,Once daily
+1891,89,Female,Ex-smoker,URTI,Drug D,10mg,Twice daily
+1892,93,Female,Ex-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+1893,56,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Twice daily
+1894,34,Male,Active-smoker,URTI,Drug B,50mg,Twice daily
+1895,59,Female,Active-smoker,COPD,Drug D,20mg,Once daily
+1896,48,Female,Non-smoker,URTI,Drug C,5mg,Three times daily
+1897,51,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1898,41,Female,Ex-smoker,COPD,Drug C,50mg,Twice daily
+1899,22,Male,Non-smoker,LRTI,Drug D,10mg,Once daily
+1900,94,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1901,18,Male,Ex-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+1902,95,Female,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+1903,68,Female,Active-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+1904,68,Female,Active-smoker,Bronchiectasis,Drug D,10mg,Three times daily
+1905,23,Female,Active-smoker,LRTI,Drug D,10mg,Once daily
+1906,11,Female,Non-smoker,Asthma,Drug B,50mg,Once daily
+1907,59,Female,Active-smoker,LRTI,Drug D,50mg,Three times daily
+1908,58,Female,Ex-smoker,COPD,Drug D,10mg,Once daily
+1909,62,Female,Non-smoker,Pneumonia,Drug D,10mg,Once daily
+1910,44,Male,Ex-smoker,Bronchiectasis,Drug C,10mg,Twice daily
+1911,32,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1912,32,Male,Non-smoker,Asthma,Drug C,50mg,Once daily
+1913,85,Female,Active-smoker,Bronchiectasis,Drug D,5mg,Three times daily
+1914,61,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1915,54,Female,Non-smoker,LRTI,Drug D,20mg,Three times daily
+1916,51,Male,Non-smoker,COPD,Drug D,5mg,Twice daily
+1917,80,Female,Ex-smoker,COPD,Drug C,50mg,Twice daily
+1918,17,Male,Ex-smoker,URTI,Drug D,5mg,Twice daily
+1919,32,Female,Ex-smoker,LRTI,Drug A,50mg,Three times daily
+1920,59,Male,Non-smoker,Asthma,Drug A,5mg,Three times daily
+1921,53,Female,Non-smoker,URTI,Drug A,20mg,Twice daily
+1922,50,Male,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+1923,51,Male,Ex-smoker,URTI,Drug D,50mg,Twice daily
+1924,42,Female,Ex-smoker,Bronchiectasis,Drug A,50mg,Once daily
+1925,67,Female,Non-smoker,COPD,Drug A,10mg,Once daily
+1926,84,Male,Non-smoker,COPD,Drug D,20mg,Twice daily
+1927,33,Female,Ex-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+1928,48,Female,Ex-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+1929,40,Male,Ex-smoker,COPD,Drug C,50mg,Once daily
+1930,77,Female,Active-smoker,LRTI,Drug D,10mg,Twice daily
+1931,67,Male,Active-smoker,URTI,Drug C,20mg,Twice daily
+1932,89,Female,Non-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+1933,54,Female,Non-smoker,COPD,Drug A,10mg,Twice daily
+1934,58,Male,Ex-smoker,Asthma,Drug B,20mg,Twice daily
+1935,55,Female,Non-smoker,COPD,Drug C,5mg,Twice daily
+1936,69,Male,Non-smoker,Pneumonia,Drug B,50mg,Once daily
+1937,80,Female,Ex-smoker,URTI,Drug A,10mg,Once daily
+1938,28,Male,Non-smoker,Pneumonia,Drug D,5mg,Twice daily
+1939,53,Female,Active-smoker,URTI,Drug B,5mg,Three times daily
+1940,70,Female,Active-smoker,URTI,Drug D,20mg,Once daily
+1941,84,Male,Non-smoker,Bronchiolitis,Drug D,5mg,Once daily
+1942,10,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+1943,40,Male,Ex-smoker,URTI,Drug B,50mg,Once daily
+1944,27,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1945,23,Female,Ex-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+1946,17,Male,Ex-smoker,Bronchiolitis,Drug B,10mg,Three times daily
+1947,86,Female,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+1948,56,Male,Ex-smoker,Bronchiectasis,Drug B,5mg,Once daily
+1949,45,Male,Active-smoker,Bronchiectasis,Drug C,10mg,Three times daily
+1950,59,Female,Non-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+1951,24,Female,Ex-smoker,Asthma,Drug C,20mg,Three times daily
+1952,48,Male,Active-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+1953,74,Female,Ex-smoker,Bronchiolitis,Drug A,20mg,Once daily
+1954,91,Male,Ex-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+1955,58,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+1956,20,Female,Ex-smoker,URTI,Drug D,20mg,Three times daily
+1957,63,Male,Ex-smoker,COPD,Drug A,50mg,Once daily
+1958,21,Male,Active-smoker,Pneumonia,Drug C,20mg,Twice daily
+1959,2,Female,Non-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+1960,58,Male,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+1961,14,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1962,50,Female,Non-smoker,URTI,Drug D,20mg,Three times daily
+1963,72,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Once daily
+1964,30,Female,Non-smoker,LRTI,Drug C,10mg,Once daily
+1965,16,Female,Active-smoker,Bronchiolitis,Drug C,20mg,Once daily
+1966,72,Female,Ex-smoker,Pneumonia,Drug A,50mg,Twice daily
+1967,57,Male,Non-smoker,URTI,Drug C,10mg,Twice daily
+1968,52,Female,Ex-smoker,COPD,Drug A,20mg,Three times daily
+1969,63,Female,Non-smoker,COPD,Drug D,10mg,Once daily
+1970,78,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1971,99,Male,Ex-smoker,Asthma,Drug D,10mg,Twice daily
+1972,70,Male,Active-smoker,Pneumonia,Drug D,50mg,Once daily
+1973,22,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+1974,6,Female,Non-smoker,URTI,Drug A,20mg,Twice daily
+1975,42,Female,Ex-smoker,COPD,Drug A,10mg,Three times daily
+1976,62,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1977,87,Male,Active-smoker,COPD,Drug B,20mg,Once daily
+1978,25,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+1979,33,Female,Non-smoker,URTI,Drug D,50mg,Three times daily
+1980,3,Male,Ex-smoker,URTI,Drug C,10mg,Once daily
+1981,84,Male,Non-smoker,COPD,Drug A,50mg,Twice daily
+1982,39,Female,Non-smoker,Asthma,Drug B,20mg,Once daily
+1983,74,Female,Ex-smoker,URTI,Drug B,10mg,Three times daily
+1984,56,Male,Active-smoker,Bronchiectasis,Drug B,10mg,Three times daily
+1985,18,Female,Non-smoker,LRTI,Drug B,10mg,Twice daily
+1986,63,Male,Active-smoker,COPD,Drug B,10mg,Once daily
+1987,85,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+1988,55,Female,Active-smoker,Asthma,Drug B,10mg,Twice daily
+1989,33,Female,Ex-smoker,Bronchiolitis,Drug A,50mg,Once daily
+1990,48,Male,Ex-smoker,COPD,Drug C,10mg,Twice daily
+1991,82,Male,Ex-smoker,COPD,Drug A,20mg,Three times daily
+1992,77,Female,Active-smoker,COPD,Drug A,50mg,Three times daily
+1993,4,Female,Non-smoker,Pneumonia,Drug C,10mg,Three times daily
+1994,7,Male,Ex-smoker,Asthma,Drug B,5mg,Once daily
+1995,44,Female,Active-smoker,URTI,Drug A,10mg,Three times daily
+1996,23,Female,Non-smoker,URTI,Drug A,10mg,Twice daily
+1997,74,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+1998,60,Male,Active-smoker,Pneumonia,Drug A,50mg,Twice daily
+1999,93,Female,Ex-smoker,Pneumonia,Drug D,10mg,Once daily
+2000,89,Male,Non-smoker,URTI,Drug C,50mg,Three times daily
+2001,2,Male,Active-smoker,Asthma,Drug A,10mg,Once daily
+2002,26,Female,Non-smoker,Asthma,Drug C,20mg,Twice daily
+2003,57,Male,Active-smoker,Bronchiectasis,Drug B,10mg,Once daily
+2004,57,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2005,54,Female,Active-smoker,Pneumonia,Drug B,5mg,Three times daily
+2006,33,Male,Non-smoker,URTI,Drug C,5mg,Twice daily
+2007,22,Male,Active-smoker,LRTI,Drug D,5mg,Once daily
+2008,57,Male,Active-smoker,Bronchiectasis,Drug C,5mg,Once daily
+2009,54,Female,Ex-smoker,Pneumonia,Drug C,5mg,Three times daily
+2010,77,Female,Active-smoker,Bronchiectasis,Drug C,50mg,Once daily
+2011,46,Male,Non-smoker,LRTI,Drug B,20mg,Three times daily
+2012,70,Female,Ex-smoker,Pneumonia,Drug B,50mg,Once daily
+2013,96,Male,Non-smoker,Asthma,Drug D,20mg,Twice daily
+2014,55,Male,Non-smoker,Pneumonia,Drug A,50mg,Once daily
+2015,39,Female,Ex-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+2016,67,Male,Non-smoker,URTI,Drug D,20mg,Three times daily
+2017,29,Male,Non-smoker,URTI,Drug C,10mg,Once daily
+2018,65,Male,Non-smoker,Asthma,Drug C,20mg,Three times daily
+2019,77,Male,Non-smoker,URTI,Drug B,10mg,Once daily
+2020,26,Female,Ex-smoker,LRTI,Drug A,5mg,Twice daily
+2021,90,Male,Ex-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+2022,87,Male,Non-smoker,Asthma,Drug C,5mg,Three times daily
+2023,86,Male,Active-smoker,COPD,Drug B,50mg,Once daily
+2024,74,Male,Non-smoker,URTI,Drug D,50mg,Three times daily
+2025,34,Male,Active-smoker,Asthma,Drug D,5mg,Once daily
+2026,34,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2027,83,Male,Ex-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+2028,52,Female,Non-smoker,Asthma,Drug A,20mg,Three times daily
+2029,33,Female,Ex-smoker,Asthma,Drug C,10mg,Twice daily
+2030,52,Male,Active-smoker,URTI,Drug D,10mg,Once daily
+2031,71,Male,Non-smoker,Pneumonia,Drug C,10mg,Twice daily
+2032,26,Male,Active-smoker,URTI,Drug A,5mg,Once daily
+2033,45,Female,Ex-smoker,LRTI,Drug C,50mg,Once daily
+2034,26,Male,Ex-smoker,URTI,Drug C,5mg,Twice daily
+2035,48,Female,Non-smoker,URTI,Drug C,50mg,Twice daily
+2036,54,Male,Non-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+2037,22,Male,Non-smoker,Pneumonia,Drug A,20mg,Three times daily
+2038,51,Female,Active-smoker,COPD,Drug A,10mg,Once daily
+2039,25,Female,Ex-smoker,Asthma,Drug B,10mg,Once daily
+2040,94,Male,Non-smoker,URTI,Drug D,5mg,Three times daily
+2041,88,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+2042,34,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2043,91,Male,Active-smoker,Bronchiectasis,Drug B,10mg,Once daily
+2044,71,Male,Non-smoker,COPD,Drug C,50mg,Twice daily
+2045,23,Male,Active-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+2046,96,Female,Non-smoker,Pneumonia,Drug D,20mg,Once daily
+2047,11,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2048,96,Male,Non-smoker,URTI,Drug C,5mg,Once daily
+2049,19,Female,Ex-smoker,Bronchiolitis,Drug C,50mg,Once daily
+2050,48,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+2051,64,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2052,19,Male,Ex-smoker,Pneumonia,Drug A,10mg,Twice daily
+2053,21,Female,Non-smoker,URTI,Drug A,50mg,Three times daily
+2054,40,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+2055,59,Female,Active-smoker,COPD,Drug C,20mg,Once daily
+2056,5,Male,Ex-smoker,URTI,Drug A,10mg,Once daily
+2057,44,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2058,27,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2059,37,Male,Non-smoker,URTI,Drug A,10mg,Once daily
+2060,28,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2061,46,Female,Non-smoker,Asthma,Drug B,50mg,Three times daily
+2062,50,Female,Active-smoker,Bronchiectasis,Drug B,20mg,Once daily
+2063,12,Male,Ex-smoker,URTI,Drug B,10mg,Twice daily
+2064,87,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2065,17,Female,Active-smoker,LRTI,Drug C,50mg,Once daily
+2066,13,Male,Active-smoker,Bronchiolitis,Drug B,50mg,Once daily
+2067,51,Male,Non-smoker,LRTI,Drug C,5mg,Twice daily
+2068,45,Male,Non-smoker,Pneumonia,Drug D,20mg,Once daily
+2069,14,Female,Active-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+2070,6,Female,Ex-smoker,Pneumonia,Drug A,50mg,Once daily
+2071,72,Male,Active-smoker,LRTI,Drug D,20mg,Twice daily
+2072,79,Female,Non-smoker,Asthma,Drug C,50mg,Once daily
+2073,5,Female,Non-smoker,URTI,Drug D,50mg,Three times daily
+2074,82,Female,Ex-smoker,COPD,Drug C,10mg,Twice daily
+2075,11,Male,Non-smoker,Pneumonia,Drug B,50mg,Once daily
+2076,18,Male,Ex-smoker,Pneumonia,Drug B,20mg,Once daily
+2077,12,Male,Ex-smoker,LRTI,Drug A,20mg,Three times daily
+2078,69,Female,Non-smoker,Pneumonia,Drug D,20mg,Twice daily
+2079,14,Female,Active-smoker,Asthma,Drug B,10mg,Once daily
+2080,70,Female,Ex-smoker,Pneumonia,Drug D,10mg,Twice daily
+2081,65,Female,Active-smoker,Pneumonia,Drug B,10mg,Twice daily
+2082,65,Male,Non-smoker,COPD,Drug A,20mg,Three times daily
+2083,60,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2084,73,Male,Ex-smoker,COPD,Drug C,20mg,Once daily
+2085,45,Male,Non-smoker,LRTI,Drug C,5mg,Three times daily
+2086,67,Female,Non-smoker,LRTI,Drug C,20mg,Once daily
+2087,13,Female,Non-smoker,LRTI,Drug D,5mg,Three times daily
+2088,12,Female,Non-smoker,Asthma,Drug D,5mg,Twice daily
+2089,30,Female,Active-smoker,Pneumonia,Drug C,20mg,Twice daily
+2090,5,Male,Active-smoker,LRTI,Drug D,5mg,Three times daily
+2091,66,Female,Non-smoker,COPD,Drug C,10mg,Twice daily
+2092,12,Female,Ex-smoker,Asthma,Drug B,10mg,Once daily
+2093,19,Male,Ex-smoker,URTI,Drug C,50mg,Once daily
+2094,45,Female,Non-smoker,Bronchiectasis,Drug B,20mg,Once daily
+2095,4,Female,Active-smoker,Asthma,Drug D,5mg,Twice daily
+2096,90,Female,Ex-smoker,COPD,Drug B,20mg,Three times daily
+2097,71,Female,Active-smoker,Bronchiectasis,Drug A,5mg,Three times daily
+2098,84,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2099,78,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Twice daily
+2100,24,Male,Non-smoker,Asthma,Drug D,10mg,Once daily
+2101,98,Female,Active-smoker,Bronchiolitis,Drug A,50mg,Once daily
+2102,35,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2103,43,Male,Non-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+2104,69,Male,Non-smoker,Pneumonia,Drug C,50mg,Three times daily
+2105,47,Male,Active-smoker,Pneumonia,Drug C,20mg,Three times daily
+2106,59,Male,Ex-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+2107,43,Male,Non-smoker,Asthma,Drug C,20mg,Twice daily
+2108,76,Male,Ex-smoker,Pneumonia,Drug B,50mg,Once daily
+2109,78,Female,Non-smoker,URTI,Drug B,20mg,Three times daily
+2110,93,Male,Non-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+2111,67,Female,Non-smoker,Bronchiectasis,Drug B,20mg,Once daily
+2112,68,Male,Active-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+2113,60,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+2114,42,Female,Active-smoker,Asthma,Drug B,5mg,Three times daily
+2115,36,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2116,69,Male,Ex-smoker,COPD,Drug A,50mg,Twice daily
+2117,46,Female,Non-smoker,COPD,Drug A,5mg,Three times daily
+2118,11,Female,Active-smoker,Pneumonia,Drug A,5mg,Once daily
+2119,82,Female,Active-smoker,Bronchiectasis,Drug D,5mg,Twice daily
+2120,71,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2121,67,Male,Active-smoker,LRTI,Drug D,50mg,Three times daily
+2122,26,Male,Non-smoker,Asthma,Drug D,20mg,Once daily
+2123,32,Female,Non-smoker,Pneumonia,Drug A,10mg,Twice daily
+2124,41,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Once daily
+2125,70,Male,Ex-smoker,LRTI,Drug A,5mg,Three times daily
+2126,52,Male,Ex-smoker,Asthma,Drug A,5mg,Twice daily
+2127,40,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2128,58,Male,Non-smoker,COPD,Drug D,50mg,Three times daily
+2129,89,Female,Active-smoker,Asthma,Drug B,50mg,Twice daily
+2130,70,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2131,23,Male,Active-smoker,Pneumonia,Drug D,20mg,Once daily
+2132,91,Male,Non-smoker,Bronchiectasis,Drug D,5mg,Three times daily
+2133,4,Female,Active-smoker,LRTI,Drug C,20mg,Twice daily
+2134,49,Male,Ex-smoker,URTI,Drug C,5mg,Twice daily
+2135,94,Male,Active-smoker,Pneumonia,Drug D,5mg,Three times daily
+2136,78,Female,Ex-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+2137,75,Male,Non-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+2138,15,Female,Non-smoker,LRTI,Drug C,50mg,Once daily
+2139,52,Male,Active-smoker,COPD,Drug D,50mg,Once daily
+2140,55,Female,Ex-smoker,Bronchiectasis,Drug A,10mg,Once daily
+2141,95,Male,Active-smoker,URTI,Drug B,20mg,Once daily
+2142,14,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2143,45,Male,Non-smoker,LRTI,Drug A,10mg,Twice daily
+2144,99,Male,Active-smoker,COPD,Drug B,20mg,Three times daily
+2145,35,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2146,38,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2147,98,Female,Non-smoker,LRTI,Drug B,10mg,Once daily
+2148,73,Female,Active-smoker,Pneumonia,Drug A,50mg,Once daily
+2149,43,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2150,42,Male,Non-smoker,COPD,Drug A,5mg,Twice daily
+2151,83,Female,Active-smoker,Asthma,Drug A,5mg,Twice daily
+2152,65,Male,Active-smoker,COPD,Drug C,10mg,Three times daily
+2153,12,Female,Ex-smoker,URTI,Drug D,5mg,Three times daily
+2154,75,Male,Active-smoker,COPD,Drug B,20mg,Once daily
+2155,52,Female,Non-smoker,URTI,Drug C,20mg,Three times daily
+2156,63,Male,Non-smoker,Bronchiectasis,Drug A,20mg,Three times daily
+2157,10,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2158,73,Female,Ex-smoker,Pneumonia,Drug C,50mg,Once daily
+2159,21,Male,Ex-smoker,LRTI,Drug C,5mg,Twice daily
+2160,59,Male,Active-smoker,URTI,Drug A,20mg,Three times daily
+2161,82,Female,Ex-smoker,COPD,Drug C,5mg,Three times daily
+2162,55,Female,Ex-smoker,URTI,Drug D,20mg,Once daily
+2163,16,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2164,33,Male,Non-smoker,Asthma,Drug C,20mg,Twice daily
+2165,3,Female,Active-smoker,LRTI,Drug D,5mg,Once daily
+2166,70,Male,Ex-smoker,Bronchiectasis,Drug A,10mg,Three times daily
+2167,39,Male,Non-smoker,LRTI,Drug A,5mg,Once daily
+2168,13,Female,Ex-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+2169,97,Female,Ex-smoker,COPD,Drug B,10mg,Twice daily
+2170,60,Male,Non-smoker,Asthma,Drug D,5mg,Twice daily
+2171,84,Female,Active-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+2172,45,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2173,4,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2174,58,Female,Active-smoker,Asthma,Drug A,5mg,Three times daily
+2175,45,Male,Active-smoker,LRTI,Drug C,10mg,Twice daily
+2176,93,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2177,38,Male,Ex-smoker,Bronchiolitis,Drug D,20mg,Once daily
+2178,56,Male,Ex-smoker,Asthma,Drug D,10mg,Once daily
+2179,56,Male,Non-smoker,Bronchiolitis,Drug D,50mg,Twice daily
+2180,7,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2181,37,Male,Active-smoker,Bronchiolitis,Drug C,50mg,Once daily
+2182,73,Female,Ex-smoker,COPD,Drug D,50mg,Once daily
+2183,54,Male,Active-smoker,COPD,Drug C,20mg,Three times daily
+2184,31,Male,Non-smoker,URTI,Drug D,50mg,Three times daily
+2185,39,Female,Non-smoker,URTI,Drug D,10mg,Once daily
+2186,75,Female,Active-smoker,LRTI,Drug B,20mg,Once daily
+2187,66,Male,Ex-smoker,LRTI,Drug C,50mg,Three times daily
+2188,28,Male,Active-smoker,Asthma,Drug D,10mg,Twice daily
+2189,49,Male,Non-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+2190,20,Male,Ex-smoker,URTI,Drug C,10mg,Twice daily
+2191,21,Male,Ex-smoker,Bronchiolitis,Drug B,5mg,Three times daily
+2192,94,Female,Ex-smoker,Asthma,Drug B,20mg,Three times daily
+2193,15,Male,Active-smoker,URTI,Drug D,5mg,Once daily
+2194,57,Male,Active-smoker,Bronchiolitis,Drug B,10mg,Twice daily
+2195,60,Male,Ex-smoker,Pneumonia,Drug C,20mg,Once daily
+2196,70,Female,Active-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+2197,66,Female,Active-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+2198,63,Male,Active-smoker,COPD,Drug A,5mg,Twice daily
+2199,77,Female,Ex-smoker,LRTI,Drug D,5mg,Twice daily
+2200,32,Female,Active-smoker,URTI,Drug B,50mg,Once daily
+2201,6,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2202,95,Male,Ex-smoker,COPD,Drug C,10mg,Twice daily
+2203,24,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Once daily
+2204,6,Female,Active-smoker,Asthma,Drug A,10mg,Once daily
+2205,97,Male,Active-smoker,Asthma,Drug C,20mg,Once daily
+2206,74,Female,Ex-smoker,LRTI,Drug B,10mg,Twice daily
+2207,97,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2208,22,Male,Non-smoker,Bronchiolitis,Drug B,50mg,Twice daily
+2209,19,Male,Non-smoker,URTI,Drug C,20mg,Three times daily
+2210,50,Male,Ex-smoker,Bronchiolitis,Drug C,10mg,Three times daily
+2211,77,Female,Active-smoker,Bronchiectasis,Drug B,5mg,Once daily
+2212,53,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Once daily
+2213,71,Female,Non-smoker,Pneumonia,Drug A,10mg,Once daily
+2214,6,Female,Ex-smoker,Asthma,Drug A,5mg,Once daily
+2215,10,Male,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+2216,13,Male,Active-smoker,URTI,Drug D,5mg,Twice daily
+2217,33,Female,Active-smoker,Bronchiolitis,Drug A,5mg,Once daily
+2218,67,Male,Ex-smoker,Pneumonia,Drug D,20mg,Three times daily
+2219,96,Male,Non-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+2220,40,Female,Active-smoker,Bronchiectasis,Drug A,20mg,Once daily
+2221,40,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2222,45,Male,Non-smoker,URTI,Drug D,5mg,Three times daily
+2223,57,Male,Non-smoker,LRTI,Drug C,20mg,Twice daily
+2224,98,Male,Ex-smoker,LRTI,Drug A,50mg,Once daily
+2225,83,Female,Ex-smoker,LRTI,Drug C,50mg,Three times daily
+2226,46,Male,Active-smoker,COPD,Drug B,20mg,Once daily
+2227,44,Female,Ex-smoker,Bronchiectasis,Drug D,50mg,Twice daily
+2228,83,Female,Active-smoker,Bronchiolitis,Drug A,20mg,Three times daily
+2229,92,Male,Non-smoker,LRTI,Drug A,5mg,Once daily
+2230,83,Female,Non-smoker,LRTI,Drug C,50mg,Three times daily
+2231,47,Female,Ex-smoker,Asthma,Drug C,10mg,Twice daily
+2232,77,Female,Non-smoker,LRTI,Drug D,50mg,Twice daily
+2233,12,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2234,38,Male,Non-smoker,Pneumonia,Drug D,50mg,Once daily
+2235,94,Male,Active-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+2236,80,Male,Non-smoker,Pneumonia,Drug A,20mg,Three times daily
+2237,54,Female,Ex-smoker,COPD,Drug C,10mg,Three times daily
+2238,44,Female,Non-smoker,COPD,Drug C,20mg,Twice daily
+2239,28,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2240,61,Female,Active-smoker,COPD,Drug A,5mg,Twice daily
+2241,14,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2242,43,Male,Active-smoker,Pneumonia,Drug C,50mg,Once daily
+2243,81,Female,Ex-smoker,Bronchiectasis,Drug B,50mg,Once daily
+2244,81,Female,Non-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+2245,49,Male,Non-smoker,LRTI,Drug B,10mg,Twice daily
+2246,80,Female,Ex-smoker,COPD,Drug D,5mg,Twice daily
+2247,87,Female,Non-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+2248,29,Female,Ex-smoker,Pneumonia,Drug A,10mg,Three times daily
+2249,32,Male,Non-smoker,Asthma,Drug C,20mg,Three times daily
+2250,65,Male,Non-smoker,LRTI,Drug C,5mg,Twice daily
+2251,40,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2252,67,Male,Ex-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+2253,66,Male,Active-smoker,COPD,Drug B,5mg,Three times daily
+2254,21,Male,Active-smoker,Pneumonia,Drug A,20mg,Twice daily
+2255,43,Male,Non-smoker,LRTI,Drug A,50mg,Once daily
+2256,73,Female,Active-smoker,Pneumonia,Drug B,5mg,Twice daily
+2257,81,Female,Active-smoker,Asthma,Drug C,20mg,Once daily
+2258,34,Female,Active-smoker,Asthma,Drug C,50mg,Three times daily
+2259,76,Female,Active-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+2260,69,Male,Ex-smoker,COPD,Drug D,20mg,Twice daily
+2261,83,Male,Non-smoker,Bronchiolitis,Drug A,5mg,Twice daily
+2262,16,Female,Active-smoker,Bronchiolitis,Drug D,20mg,Once daily
+2263,61,Female,Ex-smoker,LRTI,Drug A,10mg,Twice daily
+2264,8,Male,Non-smoker,Pneumonia,Drug C,10mg,Once daily
+2265,65,Male,Non-smoker,URTI,Drug D,10mg,Once daily
+2266,96,Female,Ex-smoker,Pneumonia,Drug B,50mg,Three times daily
+2267,26,Male,Active-smoker,Pneumonia,Drug B,20mg,Twice daily
+2268,35,Female,Ex-smoker,LRTI,Drug B,5mg,Three times daily
+2269,97,Male,Ex-smoker,Bronchiolitis,Drug A,5mg,Twice daily
+2270,5,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2271,99,Female,Ex-smoker,LRTI,Drug D,10mg,Twice daily
+2272,38,Female,Non-smoker,URTI,Drug C,20mg,Twice daily
+2273,66,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2274,39,Female,Non-smoker,URTI,Drug C,20mg,Once daily
+2275,56,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2276,59,Male,Non-smoker,URTI,Drug B,10mg,Three times daily
+2277,28,Female,Active-smoker,Asthma,Drug B,10mg,Three times daily
+2278,70,Female,Non-smoker,COPD,Drug D,10mg,Once daily
+2279,84,Female,Active-smoker,Pneumonia,Drug D,10mg,Three times daily
+2280,20,Male,Active-smoker,Pneumonia,Drug B,50mg,Three times daily
+2281,75,Male,Ex-smoker,Asthma,Drug C,5mg,Once daily
+2282,99,Female,Ex-smoker,LRTI,Drug D,20mg,Three times daily
+2283,77,Male,Ex-smoker,Bronchiolitis,Drug A,5mg,Three times daily
+2284,62,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2285,59,Female,Active-smoker,COPD,Drug C,10mg,Once daily
+2286,92,Male,Ex-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+2287,15,Male,Ex-smoker,URTI,Drug D,20mg,Three times daily
+2288,93,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2289,8,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2290,45,Female,Non-smoker,COPD,Drug B,20mg,Twice daily
+2291,48,Female,Non-smoker,LRTI,Drug B,5mg,Three times daily
+2292,21,Male,Non-smoker,URTI,Drug C,20mg,Twice daily
+2293,96,Male,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+2294,67,Female,Active-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+2295,62,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2296,25,Female,Active-smoker,Asthma,Drug A,10mg,Once daily
+2297,27,Female,Non-smoker,Pneumonia,Drug C,10mg,Three times daily
+2298,75,Female,Active-smoker,URTI,Drug A,5mg,Twice daily
+2299,89,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2300,12,Male,Active-smoker,Asthma,Drug C,10mg,Three times daily
+2301,77,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2302,47,Female,Non-smoker,Pneumonia,Drug A,5mg,Three times daily
+2303,85,Female,Non-smoker,Bronchiectasis,Drug C,5mg,Twice daily
+2304,84,Male,Non-smoker,Asthma,Drug D,5mg,Twice daily
+2305,29,Male,Active-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+2306,57,Male,Active-smoker,LRTI,Drug A,5mg,Twice daily
+2307,73,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+2308,67,Female,Ex-smoker,COPD,Drug B,5mg,Three times daily
+2309,87,Female,Ex-smoker,URTI,Drug D,50mg,Twice daily
+2310,81,Male,Ex-smoker,Asthma,Drug D,20mg,Once daily
+2311,12,Male,Non-smoker,Asthma,Drug D,10mg,Once daily
+2312,86,Female,Active-smoker,Pneumonia,Drug B,5mg,Once daily
+2313,40,Female,Non-smoker,COPD,Drug D,50mg,Twice daily
+2314,46,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2315,8,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2316,45,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+2317,42,Male,Non-smoker,COPD,Drug C,10mg,Once daily
+2318,62,Female,Active-smoker,Pneumonia,Drug B,20mg,Twice daily
+2319,51,Female,Non-smoker,Pneumonia,Drug B,20mg,Three times daily
+2320,4,Female,Ex-smoker,LRTI,Drug A,50mg,Three times daily
+2321,41,Female,Active-smoker,Asthma,Drug C,20mg,Once daily
+2322,50,Male,Non-smoker,COPD,Drug A,20mg,Three times daily
+2323,51,Female,Ex-smoker,LRTI,Drug C,50mg,Twice daily
+2324,4,Male,Non-smoker,Asthma,Drug D,20mg,Three times daily
+2325,90,Female,Ex-smoker,Asthma,Drug A,20mg,Twice daily
+2326,81,Female,Non-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+2327,89,Male,Non-smoker,LRTI,Drug D,50mg,Once daily
+2328,81,Female,Active-smoker,COPD,Drug D,5mg,Twice daily
+2329,90,Female,Ex-smoker,COPD,Drug C,10mg,Once daily
+2330,88,Male,Non-smoker,COPD,Drug B,5mg,Once daily
+2331,99,Male,Non-smoker,Bronchiectasis,Drug D,20mg,Once daily
+2332,11,Female,Ex-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+2333,24,Male,Ex-smoker,Asthma,Drug C,5mg,Once daily
+2334,62,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+2335,43,Female,Active-smoker,LRTI,Drug D,5mg,Twice daily
+2336,66,Female,Non-smoker,Bronchiolitis,Drug D,5mg,Once daily
+2337,52,Female,Ex-smoker,Asthma,Drug D,10mg,Three times daily
+2338,10,Male,Non-smoker,LRTI,Drug D,20mg,Once daily
+2339,33,Male,Ex-smoker,Pneumonia,Drug A,5mg,Three times daily
+2340,23,Female,Active-smoker,LRTI,Drug A,5mg,Once daily
+2341,41,Male,Non-smoker,LRTI,Drug B,10mg,Once daily
+2342,37,Male,Non-smoker,Pneumonia,Drug B,50mg,Twice daily
+2343,23,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2344,74,Female,Non-smoker,LRTI,Drug B,20mg,Once daily
+2345,90,Female,Active-smoker,COPD,Drug B,50mg,Twice daily
+2346,82,Male,Active-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+2347,63,Male,Non-smoker,LRTI,Drug D,5mg,Three times daily
+2348,45,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+2349,98,Female,Ex-smoker,COPD,Drug B,5mg,Three times daily
+2350,28,Male,Ex-smoker,Asthma,Drug A,10mg,Once daily
+2351,9,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2352,88,Female,Ex-smoker,URTI,Drug C,5mg,Twice daily
+2353,26,Female,Ex-smoker,URTI,Drug C,10mg,Once daily
+2354,51,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2355,19,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2356,90,Male,Active-smoker,Bronchiectasis,Drug D,20mg,Once daily
+2357,19,Female,Ex-smoker,Pneumonia,Drug C,50mg,Twice daily
+2358,77,Male,Active-smoker,LRTI,Drug A,50mg,Twice daily
+2359,70,Female,Active-smoker,Pneumonia,Drug B,5mg,Once daily
+2360,15,Male,Non-smoker,LRTI,Drug A,50mg,Three times daily
+2361,10,Male,Non-smoker,LRTI,Drug B,5mg,Once daily
+2362,47,Female,Ex-smoker,COPD,Drug D,50mg,Twice daily
+2363,14,Male,Ex-smoker,URTI,Drug A,20mg,Once daily
+2364,29,Male,Ex-smoker,Pneumonia,Drug B,10mg,Twice daily
+2365,43,Female,Active-smoker,Bronchiectasis,Drug B,10mg,Once daily
+2366,84,Female,Non-smoker,Asthma,Drug B,20mg,Three times daily
+2367,84,Male,Active-smoker,Bronchiolitis,Drug D,10mg,Twice daily
+2368,2,Female,Active-smoker,Pneumonia,Drug D,50mg,Twice daily
+2369,7,Male,Ex-smoker,Asthma,Drug C,20mg,Three times daily
+2370,46,Female,Active-smoker,COPD,Drug B,10mg,Three times daily
+2371,88,Male,Non-smoker,Asthma,Drug B,5mg,Once daily
+2372,89,Female,Ex-smoker,LRTI,Drug C,20mg,Twice daily
+2373,79,Male,Ex-smoker,LRTI,Drug A,20mg,Twice daily
+2374,54,Female,Active-smoker,COPD,Drug B,50mg,Three times daily
+2375,62,Male,Ex-smoker,COPD,Drug D,50mg,Three times daily
+2376,46,Female,Ex-smoker,LRTI,Drug D,10mg,Three times daily
+2377,15,Female,Non-smoker,URTI,Drug A,10mg,Three times daily
+2378,68,Male,Non-smoker,Asthma,Drug A,20mg,Once daily
+2379,24,Female,Active-smoker,LRTI,Drug D,10mg,Once daily
+2380,61,Male,Ex-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+2381,69,Female,Ex-smoker,COPD,Drug D,50mg,Once daily
+2382,51,Female,Ex-smoker,URTI,Drug C,5mg,Three times daily
+2383,93,Male,Non-smoker,Bronchiectasis,Drug C,10mg,Once daily
+2384,27,Male,Ex-smoker,Asthma,Drug A,5mg,Twice daily
+2385,89,Female,Active-smoker,Pneumonia,Drug C,5mg,Three times daily
+2386,57,Male,Active-smoker,Asthma,Drug D,5mg,Three times daily
+2387,87,Female,Active-smoker,COPD,Drug B,5mg,Twice daily
+2388,87,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2389,56,Female,Active-smoker,COPD,Drug C,5mg,Once daily
+2390,86,Male,Active-smoker,Bronchiectasis,Drug B,10mg,Once daily
+2391,74,Male,Non-smoker,Bronchiolitis,Drug D,50mg,Once daily
+2392,81,Female,Non-smoker,Pneumonia,Drug B,50mg,Twice daily
+2393,90,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2394,99,Male,Ex-smoker,COPD,Drug D,10mg,Three times daily
+2395,19,Female,Ex-smoker,Pneumonia,Drug B,50mg,Three times daily
+2396,3,Female,Non-smoker,Asthma,Drug C,50mg,Once daily
+2397,67,Female,Active-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+2398,39,Female,Ex-smoker,Asthma,Drug A,10mg,Twice daily
+2399,63,Female,Active-smoker,Pneumonia,Drug C,5mg,Three times daily
+2400,56,Female,Non-smoker,LRTI,Drug C,20mg,Three times daily
+2401,79,Female,Ex-smoker,COPD,Drug D,5mg,Once daily
+2402,76,Female,Active-smoker,Bronchiolitis,Drug D,10mg,Once daily
+2403,44,Female,Active-smoker,Bronchiectasis,Drug C,10mg,Twice daily
+2404,1,Female,Ex-smoker,URTI,Drug B,20mg,Twice daily
+2405,89,Male,Ex-smoker,Asthma,Drug D,10mg,Three times daily
+2406,3,Male,Non-smoker,LRTI,Drug A,50mg,Three times daily
+2407,54,Male,Ex-smoker,COPD,Drug D,50mg,Once daily
+2408,94,Female,Ex-smoker,LRTI,Drug A,5mg,Twice daily
+2409,91,Male,Non-smoker,LRTI,Drug C,50mg,Three times daily
+2410,69,Male,Active-smoker,Asthma,Drug D,10mg,Once daily
+2411,13,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2412,20,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2413,76,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2414,18,Male,Active-smoker,Bronchiolitis,Drug C,20mg,Once daily
+2415,2,Female,Non-smoker,LRTI,Drug D,10mg,Twice daily
+2416,95,Male,Active-smoker,Pneumonia,Drug B,20mg,Once daily
+2417,22,Female,Ex-smoker,URTI,Drug A,5mg,Once daily
+2418,59,Female,Non-smoker,Asthma,Drug A,10mg,Twice daily
+2419,70,Male,Non-smoker,COPD,Drug D,50mg,Three times daily
+2420,22,Male,Non-smoker,Asthma,Drug B,10mg,Twice daily
+2421,16,Female,Non-smoker,LRTI,Drug D,10mg,Twice daily
+2422,85,Male,Active-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+2423,27,Female,Active-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+2424,46,Female,Active-smoker,COPD,Drug D,5mg,Once daily
+2425,71,Female,Non-smoker,Asthma,Drug B,5mg,Once daily
+2426,14,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2427,38,Female,Ex-smoker,Pneumonia,Drug C,5mg,Twice daily
+2428,73,Female,Active-smoker,Asthma,Drug D,5mg,Once daily
+2429,99,Female,Non-smoker,COPD,Drug D,10mg,Once daily
+2430,68,Male,Active-smoker,COPD,Drug B,50mg,Twice daily
+2431,86,Male,Ex-smoker,COPD,Drug B,20mg,Three times daily
+2432,75,Female,Non-smoker,Bronchiectasis,Drug C,10mg,Three times daily
+2433,82,Male,Ex-smoker,Bronchiectasis,Drug D,5mg,Twice daily
+2434,58,Male,Ex-smoker,URTI,Drug A,20mg,Once daily
+2435,10,Male,Non-smoker,URTI,Drug C,20mg,Once daily
+2436,4,Male,Ex-smoker,Asthma,Drug A,20mg,Once daily
+2437,51,Male,Active-smoker,COPD,Drug B,10mg,Twice daily
+2438,67,Male,Non-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+2439,14,Female,Active-smoker,URTI,Drug D,5mg,Once daily
+2440,61,Female,Active-smoker,Bronchiectasis,Drug A,10mg,Once daily
+2441,42,Male,Active-smoker,URTI,Drug A,5mg,Twice daily
+2442,5,Female,Ex-smoker,URTI,Drug A,5mg,Twice daily
+2443,92,Female,Non-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+2444,61,Male,Active-smoker,Asthma,Drug C,5mg,Three times daily
+2445,46,Female,Active-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+2446,12,Male,Ex-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+2447,98,Male,Active-smoker,URTI,Drug C,20mg,Twice daily
+2448,99,Female,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+2449,52,Male,Ex-smoker,URTI,Drug B,10mg,Three times daily
+2450,70,Female,Non-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+2451,82,Male,Non-smoker,Bronchiectasis,Drug C,50mg,Once daily
+2452,36,Female,Active-smoker,Asthma,Drug B,10mg,Twice daily
+2453,99,Male,Ex-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+2454,61,Female,Ex-smoker,COPD,Drug D,5mg,Twice daily
+2455,60,Female,Active-smoker,Bronchiectasis,Drug B,5mg,Twice daily
+2456,33,Female,Active-smoker,LRTI,Drug B,5mg,Twice daily
+2457,43,Male,Non-smoker,Asthma,Drug A,50mg,Once daily
+2458,88,Female,Non-smoker,Asthma,Drug D,5mg,Three times daily
+2459,34,Female,Active-smoker,LRTI,Drug B,50mg,Once daily
+2460,31,Female,Active-smoker,LRTI,Drug C,10mg,Twice daily
+2461,44,Male,Ex-smoker,COPD,Drug D,20mg,Once daily
+2462,54,Male,Active-smoker,COPD,Drug D,10mg,Three times daily
+2463,81,Male,Active-smoker,COPD,Drug C,5mg,Three times daily
+2464,79,Male,Non-smoker,URTI,Drug A,10mg,Three times daily
+2465,52,Male,Non-smoker,LRTI,Drug B,10mg,Twice daily
+2466,87,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Three times daily
+2467,66,Female,Non-smoker,Pneumonia,Drug C,10mg,Once daily
+2468,81,Male,Ex-smoker,Asthma,Drug C,20mg,Once daily
+2469,60,Female,Active-smoker,LRTI,Drug A,20mg,Once daily
+2470,75,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2471,97,Female,Ex-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2472,32,Male,Non-smoker,LRTI,Drug A,10mg,Three times daily
+2473,61,Male,Active-smoker,LRTI,Drug A,10mg,Twice daily
+2474,44,Female,Non-smoker,Asthma,Drug D,20mg,Three times daily
+2475,11,Female,Non-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+2476,61,Female,Non-smoker,Asthma,Drug A,50mg,Once daily
+2477,33,Female,Active-smoker,Pneumonia,Drug A,50mg,Twice daily
+2478,58,Female,Active-smoker,Asthma,Drug C,20mg,Once daily
+2479,97,Female,Ex-smoker,Pneumonia,Drug A,20mg,Once daily
+2480,41,Male,Active-smoker,COPD,Drug D,5mg,Twice daily
+2481,95,Male,Active-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+2482,62,Male,Active-smoker,Pneumonia,Drug B,5mg,Once daily
+2483,67,Male,Non-smoker,URTI,Drug B,20mg,Twice daily
+2484,46,Female,Active-smoker,Pneumonia,Drug C,20mg,Three times daily
+2485,35,Female,Active-smoker,URTI,Drug A,50mg,Twice daily
+2486,96,Male,Ex-smoker,LRTI,Drug C,50mg,Three times daily
+2487,89,Male,Ex-smoker,COPD,Drug D,10mg,Once daily
+2488,19,Female,Active-smoker,Bronchiolitis,Drug B,10mg,Twice daily
+2489,31,Female,Non-smoker,URTI,Drug D,10mg,Three times daily
+2490,87,Male,Non-smoker,COPD,Drug A,10mg,Once daily
+2491,22,Male,Non-smoker,Asthma,Drug C,20mg,Twice daily
+2492,21,Female,Active-smoker,Asthma,Drug B,10mg,Once daily
+2493,13,Female,Active-smoker,Pneumonia,Drug D,5mg,Once daily
+2494,96,Male,Non-smoker,COPD,Drug B,20mg,Twice daily
+2495,95,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2496,64,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2497,71,Male,Ex-smoker,COPD,Drug D,5mg,Once daily
+2498,74,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2499,47,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2500,54,Female,Ex-smoker,Bronchiolitis,Drug B,10mg,Three times daily
+2501,63,Female,Active-smoker,LRTI,Drug C,50mg,Once daily
+2502,74,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2503,41,Male,Active-smoker,Bronchiectasis,Drug C,10mg,Once daily
+2504,90,Male,Ex-smoker,LRTI,Drug C,50mg,Three times daily
+2505,48,Female,Ex-smoker,Asthma,Drug C,10mg,Twice daily
+2506,7,Female,Non-smoker,Asthma,Drug A,5mg,Once daily
+2507,94,Female,Non-smoker,COPD,Drug D,5mg,Three times daily
+2508,72,Female,Active-smoker,COPD,Drug B,10mg,Twice daily
+2509,7,Female,Active-smoker,URTI,Drug B,5mg,Twice daily
+2510,58,Male,Ex-smoker,Pneumonia,Drug D,5mg,Twice daily
+2511,81,Female,Ex-smoker,Bronchiectasis,Drug B,20mg,Twice daily
+2512,80,Male,Non-smoker,Pneumonia,Drug D,20mg,Twice daily
+2513,61,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+2514,85,Male,Ex-smoker,Bronchiolitis,Drug C,5mg,Once daily
+2515,30,Female,Ex-smoker,Bronchiolitis,Drug C,10mg,Three times daily
+2516,80,Female,Active-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+2517,9,Female,Ex-smoker,Asthma,Drug A,10mg,Three times daily
+2518,36,Female,Ex-smoker,Asthma,Drug A,50mg,Once daily
+2519,93,Male,Non-smoker,Asthma,Drug D,10mg,Twice daily
+2520,54,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2521,43,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2522,15,Female,Ex-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+2523,58,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2524,94,Female,Non-smoker,Bronchiectasis,Drug D,5mg,Once daily
+2525,94,Male,Active-smoker,COPD,Drug B,5mg,Three times daily
+2526,87,Female,Non-smoker,Pneumonia,Drug C,20mg,Once daily
+2527,7,Male,Ex-smoker,Asthma,Drug A,10mg,Twice daily
+2528,32,Male,Non-smoker,Asthma,Drug A,20mg,Three times daily
+2529,95,Female,Non-smoker,URTI,Drug B,20mg,Three times daily
+2530,53,Male,Ex-smoker,Bronchiolitis,Drug A,50mg,Once daily
+2531,16,Male,Non-smoker,LRTI,Drug B,20mg,Once daily
+2532,68,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2533,79,Female,Active-smoker,Asthma,Drug C,10mg,Three times daily
+2534,15,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2535,44,Female,Active-smoker,COPD,Drug C,10mg,Three times daily
+2536,79,Male,Active-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+2537,27,Male,Active-smoker,URTI,Drug B,50mg,Twice daily
+2538,62,Female,Active-smoker,COPD,Drug C,5mg,Once daily
+2539,32,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2540,26,Female,Non-smoker,URTI,Drug D,20mg,Twice daily
+2541,61,Male,Active-smoker,Bronchiectasis,Drug D,5mg,Once daily
+2542,27,Male,Non-smoker,LRTI,Drug C,20mg,Once daily
+2543,42,Female,Ex-smoker,Pneumonia,Drug A,20mg,Once daily
+2544,23,Male,Non-smoker,LRTI,Drug B,20mg,Once daily
+2545,95,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2546,81,Female,Ex-smoker,LRTI,Drug A,5mg,Twice daily
+2547,65,Female,Ex-smoker,Asthma,Drug D,20mg,Once daily
+2548,48,Female,Non-smoker,URTI,Drug B,50mg,Twice daily
+2549,83,Male,Active-smoker,COPD,Drug D,5mg,Three times daily
+2550,79,Male,Ex-smoker,URTI,Drug A,10mg,Three times daily
+2551,47,Male,Non-smoker,Asthma,Drug A,20mg,Twice daily
+2552,84,Female,Ex-smoker,URTI,Drug D,20mg,Twice daily
+2553,51,Female,Non-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+2554,63,Male,Active-smoker,URTI,Drug A,50mg,Three times daily
+2555,63,Female,Active-smoker,Bronchiectasis,Drug B,5mg,Twice daily
+2556,26,Male,Active-smoker,LRTI,Drug B,20mg,Twice daily
+2557,91,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2558,94,Female,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+2559,58,Male,Non-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+2560,68,Male,Ex-smoker,Bronchiolitis,Drug C,20mg,Twice daily
+2561,32,Male,Non-smoker,Pneumonia,Drug A,5mg,Once daily
+2562,48,Male,Non-smoker,COPD,Drug B,10mg,Twice daily
+2563,17,Male,Active-smoker,URTI,Drug D,10mg,Once daily
+2564,87,Female,Active-smoker,Pneumonia,Drug A,10mg,Once daily
+2565,67,Female,Ex-smoker,COPD,Drug C,50mg,Twice daily
+2566,72,Male,Ex-smoker,URTI,Drug A,10mg,Twice daily
+2567,78,Female,Non-smoker,Pneumonia,Drug B,5mg,Three times daily
+2568,95,Female,Active-smoker,Bronchiectasis,Drug B,50mg,Once daily
+2569,52,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Twice daily
+2570,56,Male,Ex-smoker,Asthma,Drug A,5mg,Once daily
+2571,39,Female,Active-smoker,URTI,Drug B,10mg,Three times daily
+2572,48,Female,Ex-smoker,URTI,Drug D,5mg,Once daily
+2573,98,Female,Active-smoker,URTI,Drug B,50mg,Three times daily
+2574,42,Female,Ex-smoker,COPD,Drug B,10mg,Three times daily
+2575,19,Male,Active-smoker,Pneumonia,Drug D,10mg,Twice daily
+2576,54,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2577,67,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2578,58,Female,Ex-smoker,URTI,Drug C,5mg,Three times daily
+2579,80,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2580,71,Male,Non-smoker,URTI,Drug A,20mg,Three times daily
+2581,18,Female,Ex-smoker,URTI,Drug A,10mg,Three times daily
+2582,89,Male,Active-smoker,Bronchiolitis,Drug C,20mg,Three times daily
+2583,20,Male,Active-smoker,LRTI,Drug B,10mg,Once daily
+2584,83,Female,Active-smoker,URTI,Drug D,10mg,Once daily
+2585,49,Female,Ex-smoker,COPD,Drug B,10mg,Once daily
+2586,5,Male,Ex-smoker,Asthma,Drug B,10mg,Twice daily
+2587,94,Male,Ex-smoker,Bronchiolitis,Drug B,20mg,Once daily
+2588,82,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Once daily
+2589,59,Female,Ex-smoker,LRTI,Drug C,50mg,Once daily
+2590,58,Male,Non-smoker,Bronchiectasis,Drug C,5mg,Three times daily
+2591,44,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2592,85,Male,Non-smoker,LRTI,Drug B,10mg,Three times daily
+2593,98,Female,Non-smoker,Pneumonia,Drug A,5mg,Twice daily
+2594,76,Female,Active-smoker,URTI,Drug A,20mg,Twice daily
+2595,99,Male,Non-smoker,Asthma,Drug D,50mg,Once daily
+2596,78,Male,Non-smoker,Bronchiectasis,Drug B,50mg,Once daily
+2597,72,Female,Active-smoker,URTI,Drug B,20mg,Once daily
+2598,44,Male,Non-smoker,URTI,Drug D,10mg,Three times daily
+2599,45,Male,Non-smoker,COPD,Drug A,10mg,Once daily
+2600,44,Female,Ex-smoker,Bronchiolitis,Drug B,10mg,Three times daily
+2601,97,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2602,92,Female,Ex-smoker,Bronchiolitis,Drug B,20mg,Twice daily
+2603,35,Male,Ex-smoker,Asthma,Drug D,10mg,Once daily
+2604,24,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2605,40,Female,Ex-smoker,Bronchiolitis,Drug B,20mg,Once daily
+2606,48,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2607,97,Male,Active-smoker,Bronchiectasis,Drug C,50mg,Twice daily
+2608,93,Male,Ex-smoker,Asthma,Drug A,10mg,Twice daily
+2609,18,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2610,58,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2611,6,Female,Ex-smoker,URTI,Drug C,10mg,Twice daily
+2612,62,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2613,45,Male,Non-smoker,Bronchiectasis,Drug D,50mg,Once daily
+2614,9,Female,Non-smoker,Pneumonia,Drug B,5mg,Twice daily
+2615,96,Female,Non-smoker,LRTI,Drug B,5mg,Twice daily
+2616,48,Male,Active-smoker,COPD,Drug A,5mg,Once daily
+2617,93,Female,Ex-smoker,Pneumonia,Drug D,20mg,Twice daily
+2618,66,Male,Active-smoker,Bronchiolitis,Drug D,5mg,Three times daily
+2619,88,Male,Active-smoker,Bronchiectasis,Drug A,20mg,Once daily
+2620,73,Female,Active-smoker,LRTI,Drug D,50mg,Twice daily
+2621,75,Male,Non-smoker,Bronchiectasis,Drug A,5mg,Three times daily
+2622,31,Male,Ex-smoker,LRTI,Drug B,10mg,Once daily
+2623,25,Male,Ex-smoker,Bronchiolitis,Drug A,50mg,Twice daily
+2624,69,Female,Active-smoker,URTI,Drug B,10mg,Once daily
+2625,67,Male,Ex-smoker,Pneumonia,Drug B,5mg,Three times daily
+2626,62,Female,Active-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+2627,4,Female,Non-smoker,Bronchiolitis,Drug B,5mg,Once daily
+2628,95,Male,Active-smoker,COPD,Drug A,5mg,Three times daily
+2629,87,Male,Ex-smoker,Asthma,Drug B,10mg,Once daily
+2630,63,Female,Ex-smoker,Bronchiolitis,Drug D,5mg,Twice daily
+2631,98,Female,Non-smoker,LRTI,Drug D,10mg,Once daily
+2632,85,Female,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+2633,73,Male,Active-smoker,Pneumonia,Drug D,10mg,Once daily
+2634,19,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2635,30,Female,Active-smoker,LRTI,Drug B,20mg,Three times daily
+2636,13,Female,Ex-smoker,Bronchiolitis,Drug B,50mg,Three times daily
+2637,1,Male,Non-smoker,URTI,Drug C,10mg,Three times daily
+2638,95,Male,Ex-smoker,COPD,Drug B,50mg,Three times daily
+2639,28,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2640,77,Male,Active-smoker,Asthma,Drug B,5mg,Once daily
+2641,35,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2642,13,Male,Active-smoker,URTI,Drug D,10mg,Once daily
+2643,69,Female,Ex-smoker,Pneumonia,Drug D,50mg,Twice daily
+2644,72,Female,Active-smoker,Bronchiectasis,Drug C,20mg,Once daily
+2645,50,Female,Ex-smoker,URTI,Drug A,10mg,Once daily
+2646,94,Female,Active-smoker,COPD,Drug A,20mg,Three times daily
+2647,79,Female,Active-smoker,URTI,Drug D,10mg,Twice daily
+2648,10,Female,Non-smoker,Pneumonia,Drug A,20mg,Three times daily
+2649,1,Female,Active-smoker,URTI,Drug A,50mg,Twice daily
+2650,27,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2651,15,Male,Ex-smoker,Bronchiolitis,Drug C,5mg,Three times daily
+2652,99,Male,Active-smoker,Bronchiolitis,Drug D,50mg,Three times daily
+2653,43,Male,Ex-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+2654,19,Female,Active-smoker,LRTI,Drug C,50mg,Once daily
+2655,29,Male,Ex-smoker,Asthma,Drug B,10mg,Once daily
+2656,64,Male,Ex-smoker,COPD,Drug C,20mg,Three times daily
+2657,48,Female,Active-smoker,Bronchiolitis,Drug D,20mg,Once daily
+2658,22,Male,Non-smoker,Pneumonia,Drug A,10mg,Once daily
+2659,24,Male,Active-smoker,Bronchiolitis,Drug C,50mg,Three times daily
+2660,5,Female,Ex-smoker,Pneumonia,Drug D,50mg,Three times daily
+2661,13,Female,Non-smoker,Asthma,Drug A,50mg,Three times daily
+2662,42,Male,Non-smoker,URTI,Drug B,20mg,Once daily
+2663,26,Female,Ex-smoker,URTI,Drug A,50mg,Once daily
+2664,76,Male,Active-smoker,LRTI,Drug C,20mg,Once daily
+2665,6,Female,Active-smoker,Pneumonia,Drug A,50mg,Once daily
+2666,45,Male,Ex-smoker,LRTI,Drug B,5mg,Twice daily
+2667,44,Female,Non-smoker,Asthma,Drug D,50mg,Three times daily
+2668,82,Male,Ex-smoker,URTI,Drug A,5mg,Twice daily
+2669,19,Male,Non-smoker,Asthma,Drug C,10mg,Three times daily
+2670,46,Female,Non-smoker,Bronchiolitis,Drug B,10mg,Three times daily
+2671,79,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2672,47,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2673,88,Male,Ex-smoker,LRTI,Drug C,20mg,Three times daily
+2674,11,Male,Active-smoker,LRTI,Drug A,10mg,Twice daily
+2675,99,Female,Ex-smoker,Pneumonia,Drug D,5mg,Three times daily
+2676,52,Male,Ex-smoker,Pneumonia,Drug A,5mg,Once daily
+2677,82,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2678,55,Male,Non-smoker,Pneumonia,Drug A,20mg,Three times daily
+2679,90,Female,Ex-smoker,LRTI,Drug B,20mg,Three times daily
+2680,66,Female,Ex-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+2681,64,Male,Active-smoker,Bronchiectasis,Drug A,10mg,Once daily
+2682,39,Male,Non-smoker,URTI,Drug B,5mg,Twice daily
+2683,40,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2684,65,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+2685,73,Male,Ex-smoker,Asthma,Drug C,20mg,Three times daily
+2686,29,Male,Ex-smoker,Pneumonia,Drug A,10mg,Once daily
+2687,73,Female,Active-smoker,Bronchiectasis,Drug B,5mg,Once daily
+2688,82,Female,Active-smoker,URTI,Drug D,50mg,Three times daily
+2689,81,Male,Active-smoker,Pneumonia,Drug B,20mg,Once daily
+2690,44,Female,Non-smoker,COPD,Drug D,5mg,Twice daily
+2691,12,Male,Active-smoker,URTI,Drug D,10mg,Twice daily
+2692,30,Female,Ex-smoker,URTI,Drug D,5mg,Three times daily
+2693,82,Female,Ex-smoker,LRTI,Drug D,50mg,Three times daily
+2694,84,Female,Active-smoker,Bronchiectasis,Drug D,20mg,Once daily
+2695,88,Male,Active-smoker,Pneumonia,Drug C,20mg,Three times daily
+2696,56,Male,Ex-smoker,LRTI,Drug B,10mg,Three times daily
+2697,47,Female,Active-smoker,Bronchiectasis,Drug B,50mg,Twice daily
+2698,35,Female,Non-smoker,LRTI,Drug D,50mg,Three times daily
+2699,63,Female,Active-smoker,LRTI,Drug B,20mg,Three times daily
+2700,5,Male,Ex-smoker,Bronchiolitis,Drug A,10mg,Once daily
+2701,41,Male,Active-smoker,URTI,Drug C,5mg,Once daily
+2702,11,Female,Non-smoker,Pneumonia,Drug A,5mg,Three times daily
+2703,78,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2704,70,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2705,70,Male,Active-smoker,URTI,Drug C,50mg,Twice daily
+2706,93,Male,Non-smoker,LRTI,Drug B,50mg,Once daily
+2707,25,Female,Active-smoker,Asthma,Drug A,10mg,Three times daily
+2708,55,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2709,37,Male,Non-smoker,Bronchiolitis,Drug A,10mg,Once daily
+2710,66,Female,Active-smoker,Bronchiolitis,Drug C,5mg,Twice daily
+2711,57,Male,Active-smoker,COPD,Drug D,5mg,Once daily
+2712,96,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2713,90,Female,Active-smoker,Pneumonia,Drug A,5mg,Once daily
+2714,57,Female,Ex-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+2715,95,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2716,42,Female,Ex-smoker,Asthma,Drug B,10mg,Twice daily
+2717,80,Female,Ex-smoker,Asthma,Drug A,5mg,Three times daily
+2718,26,Male,Active-smoker,Pneumonia,Drug D,5mg,Once daily
+2719,36,Female,Ex-smoker,URTI,Drug D,20mg,Once daily
+2720,43,Female,Active-smoker,COPD,Drug A,20mg,Three times daily
+2721,45,Female,Non-smoker,COPD,Drug C,5mg,Once daily
+2722,11,Male,Active-smoker,Pneumonia,Drug D,50mg,Once daily
+2723,94,Female,Active-smoker,Asthma,Drug B,10mg,Three times daily
+2724,16,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2725,95,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2726,50,Female,Ex-smoker,Pneumonia,Drug B,20mg,Three times daily
+2727,15,Female,Ex-smoker,LRTI,Drug B,50mg,Twice daily
+2728,40,Male,Ex-smoker,URTI,Drug A,5mg,Twice daily
+2729,23,Female,Non-smoker,LRTI,Drug B,20mg,Three times daily
+2730,72,Female,Non-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2731,96,Male,Ex-smoker,Bronchiolitis,Drug B,10mg,Once daily
+2732,70,Female,Non-smoker,COPD,Drug B,20mg,Twice daily
+2733,50,Female,Ex-smoker,COPD,Drug D,5mg,Three times daily
+2734,99,Female,Non-smoker,Pneumonia,Drug B,5mg,Three times daily
+2735,61,Female,Active-smoker,LRTI,Drug B,10mg,Twice daily
+2736,87,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2737,94,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Once daily
+2738,43,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2739,65,Male,Ex-smoker,URTI,Drug D,20mg,Twice daily
+2740,62,Male,Ex-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+2741,55,Female,Non-smoker,Asthma,Drug D,50mg,Once daily
+2742,88,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2743,67,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Once daily
+2744,96,Male,Active-smoker,LRTI,Drug A,5mg,Twice daily
+2745,22,Male,Ex-smoker,Asthma,Drug D,10mg,Twice daily
+2746,46,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2747,59,Female,Non-smoker,Bronchiolitis,Drug A,5mg,Once daily
+2748,18,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2749,51,Female,Non-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+2750,51,Female,Non-smoker,Bronchiectasis,Drug D,10mg,Twice daily
+2751,37,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2752,26,Male,Non-smoker,Asthma,Drug B,50mg,Three times daily
+2753,53,Male,Non-smoker,Asthma,Drug B,5mg,Once daily
+2754,98,Male,Ex-smoker,Pneumonia,Drug D,50mg,Once daily
+2755,4,Female,Ex-smoker,URTI,Drug B,10mg,Three times daily
+2756,70,Female,Non-smoker,Bronchiolitis,Drug D,10mg,Once daily
+2757,91,Female,Active-smoker,LRTI,Drug A,50mg,Twice daily
+2758,62,Female,Active-smoker,COPD,Drug B,20mg,Once daily
+2759,95,Female,Ex-smoker,COPD,Drug C,5mg,Once daily
+2760,12,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2761,25,Male,Ex-smoker,LRTI,Drug A,10mg,Three times daily
+2762,91,Female,Ex-smoker,Asthma,Drug C,20mg,Once daily
+2763,59,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2764,98,Male,Non-smoker,Pneumonia,Drug B,50mg,Once daily
+2765,5,Female,Active-smoker,Bronchiolitis,Drug B,5mg,Three times daily
+2766,64,Male,Non-smoker,COPD,Drug A,10mg,Twice daily
+2767,81,Female,Active-smoker,COPD,Drug A,5mg,Three times daily
+2768,14,Female,Ex-smoker,Pneumonia,Drug D,20mg,Three times daily
+2769,92,Male,Non-smoker,URTI,Drug C,5mg,Twice daily
+2770,2,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2771,28,Female,Ex-smoker,LRTI,Drug A,10mg,Twice daily
+2772,83,Male,Ex-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+2773,45,Male,Active-smoker,LRTI,Drug D,5mg,Three times daily
+2774,27,Female,Ex-smoker,Bronchiolitis,Drug C,10mg,Three times daily
+2775,63,Male,Active-smoker,COPD,Drug C,20mg,Three times daily
+2776,82,Female,Ex-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+2777,13,Male,Non-smoker,URTI,Drug A,50mg,Once daily
+2778,57,Female,Non-smoker,Asthma,Drug B,20mg,Three times daily
+2779,36,Female,Ex-smoker,Pneumonia,Drug B,10mg,Twice daily
+2780,21,Female,Non-smoker,Asthma,Drug A,50mg,Once daily
+2781,87,Male,Ex-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+2782,36,Female,Non-smoker,Pneumonia,Drug D,20mg,Twice daily
+2783,79,Female,Active-smoker,Bronchiectasis,Drug A,20mg,Once daily
+2784,40,Male,Ex-smoker,URTI,Drug C,10mg,Twice daily
+2785,78,Male,Ex-smoker,Bronchiectasis,Drug D,20mg,Once daily
+2786,12,Male,Active-smoker,LRTI,Drug C,10mg,Three times daily
+2787,97,Male,Ex-smoker,Asthma,Drug D,50mg,Twice daily
+2788,86,Male,Non-smoker,Pneumonia,Drug A,50mg,Twice daily
+2789,37,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2790,45,Female,Active-smoker,Bronchiolitis,Drug B,50mg,Once daily
+2791,44,Male,Non-smoker,LRTI,Drug B,20mg,Three times daily
+2792,80,Female,Ex-smoker,URTI,Drug D,20mg,Twice daily
+2793,17,Male,Active-smoker,URTI,Drug A,20mg,Three times daily
+2794,24,Female,Non-smoker,Asthma,Drug B,50mg,Once daily
+2795,67,Male,Non-smoker,LRTI,Drug C,5mg,Once daily
+2796,61,Male,Non-smoker,URTI,Drug C,20mg,Once daily
+2797,98,Female,Non-smoker,COPD,Drug B,20mg,Three times daily
+2798,70,Male,Active-smoker,Bronchiectasis,Drug A,5mg,Once daily
+2799,53,Female,Ex-smoker,COPD,Drug B,50mg,Twice daily
+2800,69,Female,Ex-smoker,LRTI,Drug D,10mg,Twice daily
+2801,53,Male,Ex-smoker,LRTI,Drug D,5mg,Three times daily
+2802,87,Male,Ex-smoker,COPD,Drug D,10mg,Three times daily
+2803,67,Male,Active-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+2804,2,Male,Active-smoker,LRTI,Drug A,20mg,Twice daily
+2805,62,Male,Ex-smoker,LRTI,Drug D,20mg,Once daily
+2806,21,Female,Ex-smoker,Bronchiolitis,Drug D,50mg,Once daily
+2807,1,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2808,65,Female,Non-smoker,URTI,Drug C,10mg,Once daily
+2809,99,Female,Ex-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+2810,48,Female,Non-smoker,LRTI,Drug D,20mg,Three times daily
+2811,88,Female,Ex-smoker,Bronchiectasis,Drug B,5mg,Three times daily
+2812,99,Female,Ex-smoker,Bronchiectasis,Drug D,20mg,Three times daily
+2813,55,Female,Active-smoker,LRTI,Drug B,50mg,Twice daily
+2814,34,Male,Active-smoker,URTI,Drug B,20mg,Once daily
+2815,60,Female,Ex-smoker,LRTI,Drug B,5mg,Once daily
+2816,53,Male,Active-smoker,Bronchiectasis,Drug B,5mg,Twice daily
+2817,37,Female,Non-smoker,URTI,Drug A,20mg,Three times daily
+2818,87,Male,Ex-smoker,Bronchiectasis,Drug D,5mg,Twice daily
+2819,16,Male,Non-smoker,Pneumonia,Drug A,50mg,Twice daily
+2820,90,Male,Active-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+2821,68,Male,Active-smoker,Bronchiectasis,Drug A,5mg,Once daily
+2822,57,Male,Active-smoker,COPD,Drug B,10mg,Once daily
+2823,43,Male,Non-smoker,LRTI,Drug A,50mg,Once daily
+2824,97,Male,Ex-smoker,Asthma,Drug A,50mg,Three times daily
+2825,7,Female,Ex-smoker,Bronchiolitis,Drug A,20mg,Twice daily
+2826,94,Male,Ex-smoker,COPD,Drug D,10mg,Once daily
+2827,85,Male,Non-smoker,Bronchiectasis,Drug A,10mg,Once daily
+2828,61,Female,Ex-smoker,Bronchiectasis,Drug C,5mg,Once daily
+2829,73,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2830,43,Male,Ex-smoker,URTI,Drug C,20mg,Twice daily
+2831,94,Male,Non-smoker,Asthma,Drug B,20mg,Once daily
+2832,51,Male,Non-smoker,COPD,Drug C,10mg,Three times daily
+2833,64,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2834,63,Male,Non-smoker,Asthma,Drug D,5mg,Once daily
+2835,95,Female,Non-smoker,Pneumonia,Drug B,20mg,Twice daily
+2836,7,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2837,11,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2838,72,Male,Ex-smoker,LRTI,Drug D,20mg,Once daily
+2839,55,Female,Ex-smoker,Bronchiectasis,Drug D,5mg,Twice daily
+2840,48,Female,Ex-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+2841,60,Female,Ex-smoker,Pneumonia,Drug A,10mg,Once daily
+2842,34,Female,Ex-smoker,Pneumonia,Drug C,10mg,Once daily
+2843,76,Female,Non-smoker,Asthma,Drug D,10mg,Once daily
+2844,71,Male,Active-smoker,Bronchiectasis,Drug B,10mg,Once daily
+2845,72,Female,Non-smoker,Bronchiectasis,Drug B,50mg,Three times daily
+2846,38,Male,Non-smoker,Pneumonia,Drug A,5mg,Once daily
+2847,92,Female,Active-smoker,COPD,Drug B,50mg,Once daily
+2848,85,Female,Ex-smoker,Asthma,Drug C,20mg,Twice daily
+2849,76,Male,Ex-smoker,Healthy,No Medication,N/A,N/A
+2850,73,Male,Ex-smoker,Pneumonia,Drug D,5mg,Twice daily
+2851,82,Male,Non-smoker,COPD,Drug D,20mg,Three times daily
+2852,60,Male,Non-smoker,COPD,Drug A,50mg,Twice daily
+2853,10,Male,Ex-smoker,Bronchiolitis,Drug A,10mg,Once daily
+2854,94,Female,Non-smoker,Bronchiectasis,Drug D,10mg,Once daily
+2855,97,Male,Active-smoker,COPD,Drug D,50mg,Twice daily
+2856,50,Female,Non-smoker,URTI,Drug D,5mg,Twice daily
+2857,44,Male,Non-smoker,Asthma,Drug D,50mg,Three times daily
+2858,45,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2859,16,Female,Ex-smoker,Pneumonia,Drug C,10mg,Twice daily
+2860,66,Male,Ex-smoker,COPD,Drug A,5mg,Three times daily
+2861,68,Female,Ex-smoker,Bronchiectasis,Drug C,20mg,Twice daily
+2862,35,Female,Non-smoker,LRTI,Drug B,50mg,Three times daily
+2863,85,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2864,95,Male,Non-smoker,LRTI,Drug C,5mg,Twice daily
+2865,48,Female,Non-smoker,Bronchiectasis,Drug A,50mg,Once daily
+2866,89,Male,Non-smoker,LRTI,Drug D,5mg,Twice daily
+2867,6,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2868,53,Female,Ex-smoker,COPD,Drug A,50mg,Once daily
+2869,93,Male,Non-smoker,Asthma,Drug D,20mg,Twice daily
+2870,42,Female,Non-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+2871,82,Male,Active-smoker,Pneumonia,Drug A,20mg,Three times daily
+2872,30,Male,Non-smoker,LRTI,Drug D,50mg,Twice daily
+2873,48,Male,Ex-smoker,Asthma,Drug D,20mg,Once daily
+2874,60,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2875,89,Male,Non-smoker,COPD,Drug D,5mg,Once daily
+2876,86,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+2877,96,Male,Ex-smoker,URTI,Drug A,50mg,Twice daily
+2878,35,Male,Ex-smoker,URTI,Drug B,20mg,Three times daily
+2879,61,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2880,85,Male,Ex-smoker,URTI,Drug A,20mg,Twice daily
+2881,63,Male,Active-smoker,URTI,Drug B,20mg,Twice daily
+2882,96,Male,Ex-smoker,COPD,Drug C,50mg,Three times daily
+2883,97,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2884,16,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2885,59,Female,Active-smoker,Pneumonia,Drug B,5mg,Once daily
+2886,15,Female,Active-smoker,LRTI,Drug A,50mg,Twice daily
+2887,28,Male,Active-smoker,LRTI,Drug B,20mg,Once daily
+2888,11,Female,Non-smoker,Bronchiolitis,Drug A,10mg,Twice daily
+2889,87,Female,Active-smoker,Pneumonia,Drug A,50mg,Three times daily
+2890,20,Female,Active-smoker,URTI,Drug C,5mg,Once daily
+2891,33,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2892,44,Male,Non-smoker,Bronchiectasis,Drug C,20mg,Three times daily
+2893,38,Male,Ex-smoker,Bronchiolitis,Drug A,10mg,Once daily
+2894,3,Male,Ex-smoker,LRTI,Drug B,20mg,Three times daily
+2895,27,Female,Non-smoker,URTI,Drug B,50mg,Three times daily
+2896,76,Male,Ex-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+2897,73,Female,Non-smoker,Asthma,Drug D,10mg,Three times daily
+2898,11,Female,Ex-smoker,Pneumonia,Drug C,50mg,Three times daily
+2899,21,Female,Active-smoker,Asthma,Drug D,5mg,Three times daily
+2900,14,Female,Ex-smoker,LRTI,Drug B,10mg,Three times daily
+2901,63,Female,Non-smoker,Pneumonia,Drug B,5mg,Twice daily
+2902,97,Male,Active-smoker,URTI,Drug D,5mg,Three times daily
+2903,88,Female,Non-smoker,URTI,Drug C,50mg,Twice daily
+2904,56,Female,Non-smoker,Asthma,Drug B,20mg,Twice daily
+2905,43,Male,Ex-smoker,Asthma,Drug A,5mg,Once daily
+2906,95,Female,Active-smoker,Pneumonia,Drug C,5mg,Twice daily
+2907,32,Female,Non-smoker,Asthma,Drug A,5mg,Three times daily
+2908,48,Male,Active-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+2909,46,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2910,58,Male,Ex-smoker,Pneumonia,Drug C,5mg,Three times daily
+2911,87,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2912,33,Male,Non-smoker,Bronchiolitis,Drug A,50mg,Three times daily
+2913,29,Female,Ex-smoker,Pneumonia,Drug B,50mg,Twice daily
+2914,97,Male,Non-smoker,Asthma,Drug C,10mg,Once daily
+2915,62,Female,Non-smoker,URTI,Drug D,50mg,Three times daily
+2916,69,Female,Non-smoker,Bronchiectasis,Drug A,50mg,Twice daily
+2917,26,Male,Active-smoker,Bronchiolitis,Drug D,50mg,Once daily
+2918,46,Male,Ex-smoker,LRTI,Drug C,10mg,Twice daily
+2919,99,Male,Ex-smoker,URTI,Drug B,10mg,Three times daily
+2920,87,Male,Ex-smoker,COPD,Drug A,50mg,Twice daily
+2921,10,Male,Active-smoker,Asthma,Drug C,10mg,Three times daily
+2922,92,Male,Non-smoker,COPD,Drug C,5mg,Twice daily
+2923,57,Male,Ex-smoker,LRTI,Drug D,5mg,Twice daily
+2924,83,Male,Ex-smoker,Bronchiectasis,Drug C,50mg,Twice daily
+2925,80,Male,Non-smoker,COPD,Drug D,5mg,Twice daily
+2926,9,Female,Active-smoker,URTI,Drug B,50mg,Twice daily
+2927,18,Male,Ex-smoker,Asthma,Drug B,5mg,Three times daily
+2928,4,Female,Active-smoker,Healthy,No Medication,N/A,N/A
+2929,19,Male,Non-smoker,Asthma,Drug B,5mg,Once daily
+2930,53,Female,Ex-smoker,Bronchiectasis,Drug C,50mg,Twice daily
+2931,54,Female,Ex-smoker,Bronchiolitis,Drug C,50mg,Twice daily
+2932,67,Female,Ex-smoker,Asthma,Drug A,20mg,Once daily
+2933,24,Female,Non-smoker,Healthy,No Medication,N/A,N/A
+2934,15,Female,Ex-smoker,LRTI,Drug C,20mg,Three times daily
+2935,58,Male,Active-smoker,LRTI,Drug A,20mg,Three times daily
+2936,81,Female,Active-smoker,Asthma,Drug A,20mg,Once daily
+2937,23,Male,Ex-smoker,LRTI,Drug A,10mg,Twice daily
+2938,47,Female,Non-smoker,Asthma,Drug A,10mg,Three times daily
+2939,75,Female,Active-smoker,Bronchiectasis,Drug A,5mg,Once daily
+2940,54,Female,Non-smoker,COPD,Drug D,20mg,Three times daily
+2941,75,Male,Active-smoker,LRTI,Drug D,50mg,Once daily
+2942,50,Female,Non-smoker,Bronchiectasis,Drug B,20mg,Once daily
+2943,5,Male,Non-smoker,LRTI,Drug A,5mg,Three times daily
+2944,6,Female,Non-smoker,LRTI,Drug A,20mg,Twice daily
+2945,56,Female,Active-smoker,COPD,Drug B,20mg,Once daily
+2946,76,Male,Non-smoker,COPD,Drug B,20mg,Three times daily
+2947,50,Female,Ex-smoker,Pneumonia,Drug A,5mg,Three times daily
+2948,67,Male,Non-smoker,COPD,Drug B,10mg,Once daily
+2949,33,Female,Non-smoker,Asthma,Drug D,50mg,Once daily
+2950,70,Male,Ex-smoker,Pneumonia,Drug B,20mg,Once daily
+2951,50,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Once daily
+2952,51,Male,Active-smoker,Bronchiectasis,Drug C,5mg,Once daily
+2953,12,Male,Ex-smoker,Pneumonia,Drug D,20mg,Once daily
+2954,16,Female,Non-smoker,Bronchiolitis,Drug D,20mg,Twice daily
+2955,87,Female,Ex-smoker,Pneumonia,Drug C,20mg,Twice daily
+2956,70,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2957,92,Male,Ex-smoker,URTI,Drug C,20mg,Three times daily
+2958,1,Female,Active-smoker,Asthma,Drug B,5mg,Three times daily
+2959,34,Male,Non-smoker,Pneumonia,Drug C,50mg,Twice daily
+2960,1,Male,Non-smoker,Healthy,No Medication,N/A,N/A
+2961,91,Female,Non-smoker,LRTI,Drug C,20mg,Three times daily
+2962,18,Female,Non-smoker,Bronchiolitis,Drug B,50mg,Twice daily
+2963,27,Female,Ex-smoker,Pneumonia,Drug C,5mg,Three times daily
+2964,55,Female,Active-smoker,URTI,Drug C,20mg,Once daily
+2965,63,Female,Non-smoker,COPD,Drug D,5mg,Once daily
+2966,72,Female,Non-smoker,Pneumonia,Drug A,10mg,Three times daily
+2967,3,Female,Non-smoker,LRTI,Drug B,10mg,Once daily
+2968,67,Male,Ex-smoker,LRTI,Drug C,5mg,Twice daily
+2969,21,Female,Active-smoker,Pneumonia,Drug A,20mg,Twice daily
+2970,15,Female,Ex-smoker,Asthma,Drug A,20mg,Once daily
+2971,65,Female,Non-smoker,URTI,Drug B,50mg,Twice daily
+2972,90,Male,Ex-smoker,Bronchiectasis,Drug D,50mg,Once daily
+2973,23,Female,Active-smoker,URTI,Drug A,10mg,Twice daily
+2974,10,Female,Active-smoker,LRTI,Drug C,10mg,Once daily
+2975,1,Female,Non-smoker,Asthma,Drug C,5mg,Twice daily
+2976,71,Male,Non-smoker,Bronchiectasis,Drug B,20mg,Three times daily
+2977,63,Female,Non-smoker,COPD,Drug D,20mg,Three times daily
+2978,4,Male,Active-smoker,Healthy,No Medication,N/A,N/A
+2979,84,Male,Active-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+2980,19,Male,Active-smoker,URTI,Drug C,50mg,Twice daily
+2981,41,Male,Active-smoker,COPD,Drug A,5mg,Twice daily
+2982,68,Female,Ex-smoker,Healthy,No Medication,N/A,N/A
+2983,44,Female,Active-smoker,Bronchiectasis,Drug C,50mg,Three times daily
+2984,33,Male,Active-smoker,LRTI,Drug D,10mg,Once daily
+2985,22,Female,Non-smoker,Pneumonia,Drug C,10mg,Once daily
+2986,78,Male,Active-smoker,Bronchiectasis,Drug A,5mg,Twice daily
+2987,64,Female,Ex-smoker,Asthma,Drug A,10mg,Twice daily
+2988,73,Male,Non-smoker,Bronchiolitis,Drug B,20mg,Three times daily
+2989,78,Male,Active-smoker,COPD,Drug A,5mg,Three times daily
+2990,55,Female,Ex-smoker,LRTI,Drug D,5mg,Three times daily
+2991,92,Female,Non-smoker,Bronchiectasis,Drug B,20mg,Once daily
+2992,84,Female,Active-smoker,LRTI,Drug C,5mg,Once daily
+2993,66,Male,Ex-smoker,Bronchiectasis,Drug A,50mg,Three times daily
+2994,84,Female,Non-smoker,COPD,Drug C,5mg,Twice daily
+2995,43,Male,Active-smoker,Asthma,Drug A,5mg,Twice daily
+2996,17,Female,Non-smoker,Bronchiolitis,Drug B,5mg,Twice daily
+2997,72,Female,Active-smoker,URTI,Drug D,50mg,Once daily
+2998,58,Female,Ex-smoker,Asthma,Drug A,5mg,Three times daily
+2999,72,Male,Active-smoker,Pneumonia,Drug A,5mg,Twice daily
+3000,81,Female,Ex-smoker,LRTI,Drug A,5mg,Once daily
