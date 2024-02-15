@@ -18,9 +18,16 @@ user_encoder=pickle.load(open(r'Serialized_objects\user_data_encoder.pkl','rb'))
 prescription_model=pickle.load(open(r'Serialized_objects\medication_prescription.pkl','rb'))
 
 
-def feature_extraction(file,max_pad_len=926,n_features=52):
+def feature_extraction(file_or_audio,max_pad_len=926,n_features=52):
     
-    audio, sample_rate = librosa.load(file)
+    if isinstance(file_or_audio,str):
+        audio, sample_rate = librosa.load(file_or_audio)
+    elif isinstance(file_or_audio,tuple):
+        audio,sample_rate=file_or_audio
+    else:
+        raise ValueError("Invalid input. Expected a file path or a tuple of (audio, sample_rate).")
+
+
     mfccs = librosa.feature.mfcc(y=audio, sr=sample_rate,n_mfcc=n_features)
     
     if (mfccs.shape[1] < max_pad_len):
@@ -35,8 +42,8 @@ def feature_extraction(file,max_pad_len=926,n_features=52):
       
     return mfccs
 
-def diagnoser(file):
-    mfcc=feature_extraction(file)
+def diagnoser(file_or_audio):
+    mfcc=feature_extraction(file_or_audio)
     disease=d_model(mfcc)
     disease=label_encoder.inverse_transform(np.argmax(disease,axis=1))[0]
     return disease
