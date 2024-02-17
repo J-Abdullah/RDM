@@ -1,0 +1,10 @@
+streamlit
+numpy
+librosa
+pandas
+tensorflow
+scikit-learn
+pickle-mixin
+keras-self-attention
+sounddevice
+noisereduce
