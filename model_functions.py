@@ -2,6 +2,7 @@ import numpy as np
 import librosa #for audio processing
 import pandas as pd
 import pickle
+import os
 from tensorflow.keras.models import load_model
 from keras_self_attention import SeqSelfAttention
 from sklearn.preprocessing import LabelEncoder
@@ -9,13 +10,18 @@ from tensorflow.keras.layers import LSTM, Dense, Dropout, Conv1D, MaxPooling1D, 
 
 
 #loading models and encoders
-label_encoder=pickle.load(open(r'Serialized_objects\disease_encoder.pkl','rb'))
+file_path1=os.path.join('Serialized_objects','disease_encoder.pkl')
+file_path2=os.path.join('Serialized_objects','RDM_Diagnose.h5')
+file_path3=os.path.join('Serialized_objects','user_data_encoder.pkl')
+file_path4=os.path.join('Serialized_objects','medication_prescription.pkl') 
 
-d_model=load_model(r'Serialized_objects\RDM_Diagnose.h5',custom_objects={'SeqSelfAttention': SeqSelfAttention})
+label_encoder=pickle.load(open(file_path1,'rb'))
 
-user_encoder=pickle.load(open(r'Serialized_objects\user_data_encoder.pkl','rb'))
+d_model=load_model(file_path2,custom_objects={'SeqSelfAttention': SeqSelfAttention})
 
-prescription_model=pickle.load(open(r'Serialized_objects\medication_prescription.pkl','rb'))
+user_encoder=pickle.load(open(file_path3,'rb'))
+
+prescription_model=pickle.load(open(file_path4,'rb'))
 
 
 def feature_extraction(file_or_audio,max_pad_len=926,n_features=52):
