@@ -49,3 +49,5 @@ Average validation loss: 0.9624499082565308
 
 
 ![alt text](image.png)
+
+using StratifiedKFold and custome early stopping with patience 5 and 5 fold gives 99% accuracey.
