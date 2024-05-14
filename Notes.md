@@ -51,3 +51,10 @@ Average validation loss: 0.9624499082565308
 ![alt text](image.png)
 
 using StratifiedKFold and custome early stopping with patience 5 and 5 fold gives 99% accuracey.
+Fold 1 - Loss: 0.03805924952030182, Accuracy: 0.9913793206214905
+Fold 2 - Loss: 0.07804062217473984, Accuracy: 0.9779693484306335
+Fold 3 - Loss: 0.06737184524536133, Accuracy: 0.9885057210922241
+Fold 4 - Loss: 0.21783651411533356, Accuracy: 0.8659003973007202
+Fold 5 - Loss: 0.043500036001205444, Accuracy: 0.9884947538375854
+Average validation accuracy: 0.0889616534113884
+Average validation loss: 0.9624499082565308
