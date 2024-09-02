@@ -21,6 +21,9 @@ The data used in the Medicine Prescription Model is entirely generated and does 
 - Personalized medicine prescription recommendations.
 - Comprehensive data augmentation and model training documentation available in Jupyter notebooks.
 
+## Deployment
+The RDM system is deployed on Streamlit and can be accessed using the following link: https://j-abdullah-rdm-rdm-streamlit-tibfgy.streamlit.app/
+
 ## Installation Instructions
 To set up the RDM system, follow these steps:
 
